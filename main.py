@@ -1,7 +1,7 @@
 import csv
 import pandas as pd
 
-RUTA_CSV = "../data/encuesta_snacks_mundial_2026_guatemala_2500_respuestas.csv"
+RUTA_CSV = "encuesta_snacks_mundial_2026_guatemala_2500_respuestas.csv"
 
 
 # =============================================================================
@@ -242,14 +242,110 @@ fact_encuesta["id_campania"]   = fact_encuesta["id_encuesta"]
 print(f"fact_encuesta  : {fact_encuesta.shape}")
 
 # --- Exportar star schema a CSV ----------------------------------------------
-dim_encuestado.to_csv("../data/dim_encuestado.csv",  index=False, encoding="utf-8-sig")
-dim_ubicacion.to_csv("../data/dim_ubicacion.csv",    index=False, encoding="utf-8-sig")
-dim_tiempo.to_csv("../data/dim_tiempo.csv",          index=False, encoding="utf-8-sig")
-dim_snack.to_csv("../data/dim_snack.csv",            index=False, encoding="utf-8-sig")
-dim_campania.to_csv("../data/dim_campania.csv",      index=False, encoding="utf-8-sig")
-fact_encuesta.to_csv("../data/fact_encuesta.csv",    index=False, encoding="utf-8-sig")
-df_limpio.to_csv("../data/encuesta_limpia.csv",      index=False, encoding="utf-8-sig")
+dim_encuestado.to_csv("dim_encuestado.csv",  index=False, encoding="utf-8-sig")
+dim_ubicacion.to_csv("dim_ubicacion.csv",    index=False, encoding="utf-8-sig")
+dim_tiempo.to_csv("dim_tiempo.csv",          index=False, encoding="utf-8-sig")
+dim_snack.to_csv("dim_snack.csv",            index=False, encoding="utf-8-sig")
+dim_campania.to_csv("dim_campania.csv",      index=False, encoding="utf-8-sig")
+fact_encuesta.to_csv("fact_encuesta.csv",    index=False, encoding="utf-8-sig")
+df_limpio.to_csv("encuesta_limpia.csv",      index=False, encoding="utf-8-sig")
 
-print("\nArchivos exportados:")
+print("\nArchivos exportados exitosamente:")
 for nombre in ["dim_encuestado", "dim_ubicacion", "dim_tiempo", "dim_snack", "dim_campania", "fact_encuesta", "encuesta_limpia"]:
-    print(f"  data/{nombre}.csv")
+    print(f"  {nombre}.csv")
+ # =============================================================================
+# FASE 6 — GENERACIÓN DE REPORTES (Reportes 1 al 3)
+# =============================================================================
+
+print("\n" + "=" * 60)
+print("FASE 6 — REPORTES EMPRESARIALES")
+print("=" * 60)
+
+# -----------------------------------------------------------------------------
+# REPORTE 1: PERFIL DEMOGRÁFICO
+# Objetivo: Entender quién es nuestro público objetivo (Edad y Género).
+# -----------------------------------------------------------------------------
+# =============================================================================
+# FASE 6 — GENERACIÓN DE REPORTES (Reportes 1 al 3)
+# =============================================================================
+
+print("\n" + "=" * 60)
+print("FASE 6 — REPORTES EMPRESARIALES")
+print("=" * 60)
+
+# -----------------------------------------------------------------------------
+# REPORTE 1: PERFIL DEMOGRÁFICO
+# Objetivo: Entender quién es nuestro público objetivo (Edad y Género).
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 1: PERFIL DEMOGRÁFICO ---")
+
+# Calculamos la distribución por Género y Segmento de Edad mostrando porcentajes
+reporte_demografico = pd.crosstab(
+    df_limpio['SegmentoEdad'], 
+    df_limpio['Genero'], 
+    normalize='all' # Esto nos da el porcentaje del total
+) * 100
+
+# Redondeamos a 2 decimales para que sea legible
+reporte_demografico = reporte_demografico.round(2)
+# Añadimos una columna de "Total" por fila
+reporte_demografico['Total Segmento (%)'] = reporte_demografico.sum(axis=1)
+
+print("Distribución Porcentual por Edad y Género:\n")
+print(reporte_demografico.sort_values(by='Total Segmento (%)', ascending=False))
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 2: FRECUENCIA DE CONSUMO
+# Objetivo: Identificar los hábitos de compra del público.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 2: FRECUENCIA DE CONSUMO ---")
+
+# Contamos cuántas personas consumen en cada frecuencia y sacamos el porcentaje
+reporte_frecuencia = df_limpio['FrecuenciaConsumoSnacks'].value_counts().reset_index()
+reporte_frecuencia.columns = ['Frecuencia', 'Cantidad de Clientes']
+reporte_frecuencia['Porcentaje (%)'] = round((reporte_frecuencia['Cantidad de Clientes'] / len(df_limpio)) * 100, 2)
+
+print("Frecuencia de Consumo General:\n")
+print(reporte_frecuencia)
+
+# Extra: Cruzar frecuencia con Alta Intención de Compra (muy valioso para el negocio)
+frecuencia_vs_intencion = df_limpio.groupby('FrecuenciaConsumoSnacks')['AltaIntencionCompra'].mean().reset_index()
+frecuencia_vs_intencion['AltaIntencionCompra'] = round(frecuencia_vs_intencion['AltaIntencionCompra'] * 100, 2)
+frecuencia_vs_intencion.columns = ['Frecuencia', 'Probabilidad de Pagar Más (%)']
+
+print("\nProbabilidad de pagar más por la edición Mundial según frecuencia de consumo:\n")
+print(frecuencia_vs_intencion.sort_values(by='Probabilidad de Pagar Más (%)', ascending=False))
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 3: RANKING DE SNACKS Y SABORES
+# Objetivo: Descubrir los productos estrella para la campaña.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 3: RANKING DE SNACKS ---")
+
+# 1. Ranking de TIPOS de snacks (Usamos dim_snack que ya explotaste con explode() en la Fase 5)
+ranking_snacks = dim_snack['Snack'].value_counts().reset_index()
+ranking_snacks.columns = ['Tipo de Snack', 'Menciones']
+ranking_snacks['Porcentaje de Preferencia (%)'] = round((ranking_snacks['Menciones'] / len(df_limpio)) * 100, 2)
+
+print("Top 5 - Snacks Más Populares:\n")
+print(ranking_snacks.head(5))
+
+# 2. Ranking de SABORES (Usamos el df_limpio)
+ranking_sabores = df_limpio['SaborPreferido'].value_counts().reset_index()
+ranking_sabores.columns = ['Sabor', 'Preferencias']
+ranking_sabores['Porcentaje (%)'] = round((ranking_sabores['Preferencias'] / len(df_limpio)) * 100, 2)
+
+print("\nTop 5 - Sabores Más Populares:\n")
+print(ranking_sabores.head(5))
+
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# EXPORTACIÓN DE LOS REPORTES 1 al 3
+# -----------------------------------------------------------------------------
+#reporte_demografico.to_csv("reporte_1_demografico.csv", encoding="utf-8-sig")
+#reporte_frecuencia.to_csv("reporte_2_frecuencia.csv", index=False, encoding="utf-8-sig")
+#ranking_snacks.to_csv("reporte_3_ranking_snacks.csv", index=False, encoding="utf-8-sig")
+#print("\n¡Reportes 1, 2 y 3 exportados exitosamente!")
