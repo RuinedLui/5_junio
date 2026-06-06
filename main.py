@@ -341,6 +341,50 @@ print("\nTop 5 - Sabores Más Populares:\n")
 print(ranking_sabores.head(5))
 
 
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 6: JUGADORES CON MAYOR INFLUENCIA 
+# Objetivo: Identificar qué jugadores son los más mencionados por los encuestados.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 6: JUGADORES CON MAYOR INFLUENCIA ---")
+
+# Dado que JugadoresInfluyentes viene separado por ';', usamos explode para contarlos individualmente
+jugadores_lista = df_limpio['JugadoresInfluyentes'].str.split(';').explode().str.strip()
+ranking_jugadores = jugadores_lista[jugadores_lista != ""].value_counts().reset_index()
+ranking_jugadores.columns = ['Jugador', 'Menciones']
+ranking_jugadores['Porcentaje (%)'] = round((ranking_jugadores['Menciones'] / len(df_limpio)) * 100, 2)
+
+print("Top 5 - Jugadores con mayor influencia:\n")
+print(ranking_jugadores.head(5))
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 7: TIPO DE PUBLICIDAD MÁS EFECTIVA 
+# Objetivo: Determinar qué medios publicitarios tienen mayor alcance/impacto.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 7: TIPO DE PUBLICIDAD MÁS EFECTIVA ---")
+
+ranking_publicidad = df_limpio['TipoPublicidadAtractiva'].value_counts().reset_index()
+ranking_publicidad.columns = ['Tipo Publicidad', 'Cantidad']
+ranking_publicidad['Porcentaje (%)'] = round((ranking_publicidad['Cantidad'] / len(df_limpio)) * 100, 2)
+
+print(ranking_publicidad)
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 8: PROMOCIONES PREFERIDAS 
+# Objetivo: Conocer qué tipo de ofertas incentivan más la compra.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 8: PROMOCIONES PREFERIDAS ---")
+
+ranking_promociones = df_limpio['PromocionPreferida'].value_counts().reset_index()
+ranking_promociones.columns = ['Promoción', 'Cantidad']
+ranking_promociones['Porcentaje (%)'] = round((ranking_promociones['Cantidad'] / len(df_limpio)) * 100, 2)
+
+print(ranking_promociones)
+
+
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # EXPORTACIÓN DE LOS REPORTES 1 al 3
@@ -348,4 +392,9 @@ print(ranking_sabores.head(5))
 #reporte_demografico.to_csv("reporte_1_demografico.csv", encoding="utf-8-sig")
 #reporte_frecuencia.to_csv("reporte_2_frecuencia.csv", index=False, encoding="utf-8-sig")
 #ranking_snacks.to_csv("reporte_3_ranking_snacks.csv", index=False, encoding="utf-8-sig")
+
+# ranking_jugadores.to_csv("reporte_4_jugadores.csv", index=False, encoding="utf-8-sig")
+# ranking_publicidad.to_csv("reporte_5_publicidad.csv", index=False, encoding="utf-8-sig")
+# ranking_promociones.to_csv("reporte_6_promociones.csv", index=False, encoding="utf-8-sig")
+
 #print("\n¡Reportes 1, 2 y 3 exportados exitosamente!")
