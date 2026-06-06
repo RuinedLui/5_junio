@@ -1,0 +1,2476 @@
+﻿id_encuestado,RangoEdad,SegmentoEdad,Genero,Ocupacion
+1,55 años o más,Senior,Femenino,Jubilado
+2,18 - 24 años,Joven Adulto,Masculino,Empresario
+3,35 - 44 años,Adulto,Masculino,Estudiante
+4,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+5,25 - 34 años,Adulto Joven,Femenino,Estudiante
+6,18 - 24 años,Joven Adulto,Masculino,Comerciante
+7,35 - 44 años,Adulto,Masculino,Empleado privado
+8,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empresario
+9,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+10,Menos de 18 años,Juvenil,Femenino,Otro
+11,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+12,Menos de 18 años,Juvenil,Masculino,Empleado privado
+13,25 - 34 años,Adulto Joven,Masculino,Empresario
+14,25 - 34 años,Adulto Joven,Femenino,Jubilado
+15,18 - 24 años,Joven Adulto,Femenino,Estudiante
+16,Menos de 18 años,Juvenil,Femenino,Estudiante
+17,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+18,35 - 44 años,Adulto,Masculino,Empleado público
+19,18 - 24 años,Joven Adulto,Femenino,Comerciante
+20,18 - 24 años,Joven Adulto,Femenino,Empresario
+21,25 - 34 años,Adulto Joven,Masculino,Empleado público
+22,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+23,25 - 34 años,Adulto Joven,Masculino,Empresario
+24,18 - 24 años,Joven Adulto,Femenino,Otro
+25,45 - 54 años,Adulto Mayor,Femenino,Empresario
+26,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+27,25 - 34 años,Adulto Joven,Femenino,Jubilado
+28,25 - 34 años,Adulto Joven,Femenino,Otro
+29,25 - 34 años,Adulto Joven,Masculino,Estudiante
+30,25 - 34 años,Adulto Joven,Masculino,Empresario
+31,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+32,18 - 24 años,Joven Adulto,Masculino,Estudiante
+33,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+34,25 - 34 años,Adulto Joven,Femenino,Empresario
+35,Menos de 18 años,Juvenil,Masculino,Empleado privado
+36,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+37,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+38,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+39,Menos de 18 años,Juvenil,Masculino,Estudiante
+40,45 - 54 años,Adulto Mayor,Femenino,Empresario
+41,18 - 24 años,Joven Adulto,Femenino,No especificado
+42,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+43,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+44,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+45,25 - 34 años,Adulto Joven,Femenino,Estudiante
+46,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+47,35 - 44 años,Adulto,Masculino,Comerciante
+48,35 - 44 años,Adulto,Masculino,Estudiante
+49,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+50,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+51,18 - 24 años,Joven Adulto,Femenino,Empresario
+52,35 - 44 años,Adulto,Masculino,Empleado privado
+53,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+54,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+55,25 - 34 años,Adulto Joven,Femenino,Comerciante
+56,18 - 24 años,Joven Adulto,Masculino,Estudiante
+57,55 años o más,Senior,Femenino,Comerciante
+58,25 - 34 años,Adulto Joven,Masculino,Empresario
+59,18 - 24 años,Joven Adulto,Femenino,Empresario
+60,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+61,55 años o más,Senior,Femenino,Estudiante
+62,55 años o más,Senior,Masculino,Estudiante
+63,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+64,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+65,Menos de 18 años,Juvenil,Femenino,Jubilado
+66,25 - 34 años,Adulto Joven,Femenino,Estudiante
+67,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+68,Menos de 18 años,Juvenil,Femenino,Ama de casa
+69,18 - 24 años,Joven Adulto,Masculino,Empresario
+70,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+71,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+72,45 - 54 años,Adulto Mayor,Femenino,No especificado
+73,18 - 24 años,Joven Adulto,Femenino,Estudiante
+74,18 - 24 años,Joven Adulto,Femenino,Empleado público
+75,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+76,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+77,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+78,45 - 54 años,Adulto Mayor,Femenino,Jubilado
+79,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+80,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+81,25 - 34 años,Adulto Joven,Masculino,Jubilado
+82,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+83,25 - 34 años,Adulto Joven,Femenino,Estudiante
+84,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+85,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+86,Menos de 18 años,Juvenil,Femenino,Estudiante
+87,55 años o más,Senior,Femenino,Comerciante
+88,35 - 44 años,Adulto,Masculino,Estudiante
+89,Menos de 18 años,Juvenil,Femenino,Empresario
+90,55 años o más,Senior,Femenino,Ama de casa
+91,18 - 24 años,Joven Adulto,Femenino,Comerciante
+92,18 - 24 años,Joven Adulto,Femenino,Estudiante
+93,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+94,35 - 44 años,Adulto,Femenino,Empleado privado
+95,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+96,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+97,25 - 34 años,Adulto Joven,Masculino,Jubilado
+98,35 - 44 años,Adulto,Femenino,Estudiante
+99,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+100,55 años o más,Senior,Masculino,Empleado privado
+101,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+102,35 - 44 años,Adulto,Femenino,Empleado privado
+103,55 años o más,Senior,Femenino,Empresario
+104,25 - 34 años,Adulto Joven,Masculino,Estudiante
+105,35 - 44 años,Adulto,Masculino,Ama de casa
+106,35 - 44 años,Adulto,Masculino,Empleado público
+107,35 - 44 años,Adulto,Femenino,Empleado privado
+108,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+109,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+110,25 - 34 años,Adulto Joven,Femenino,Estudiante
+111,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+112,25 - 34 años,Adulto Joven,Masculino,Estudiante
+113,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+114,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+115,35 - 44 años,Adulto,Femenino,Empleado privado
+116,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+117,25 - 34 años,Adulto Joven,Femenino,Empleado público
+118,Menos de 18 años,Juvenil,Femenino,Empleado privado
+119,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+120,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+121,18 - 24 años,Joven Adulto,Femenino,Estudiante
+122,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+123,25 - 34 años,Adulto Joven,Femenino,Estudiante
+124,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+125,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+126,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+127,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+128,35 - 44 años,Adulto,Femenino,Ama de casa
+129,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+130,18 - 24 años,Joven Adulto,Femenino,Comerciante
+131,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+132,18 - 24 años,Joven Adulto,Masculino,Otro
+133,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+134,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+135,35 - 44 años,Adulto,Prefiero no indicarlo,Profesional independiente
+136,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+137,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+138,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+139,25 - 34 años,Adulto Joven,Masculino,Estudiante
+140,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+141,25 - 34 años,Adulto Joven,Masculino,Comerciante
+142,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+143,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+144,35 - 44 años,Adulto,Masculino,Estudiante
+145,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+146,25 - 34 años,Adulto Joven,Femenino,Otro
+147,55 años o más,Senior,Femenino,Estudiante
+148,55 años o más,Senior,Femenino,Estudiante
+149,35 - 44 años,Adulto,Masculino,Comerciante
+150,55 años o más,Senior,Femenino,Comerciante
+151,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+152,25 - 34 años,Adulto Joven,Masculino,Empresario
+153,35 - 44 años,Adulto,Masculino,Empleado privado
+154,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+155,35 - 44 años,Adulto,Masculino,Empleado privado
+156,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+157,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Otro
+158,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+159,35 - 44 años,Adulto,Femenino,Estudiante
+160,35 - 44 años,Adulto,Femenino,Empleado privado
+161,35 - 44 años,Adulto,Masculino,Estudiante
+162,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+163,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+164,Menos de 18 años,Juvenil,Masculino,Estudiante
+165,25 - 34 años,Adulto Joven,Femenino,Estudiante
+166,55 años o más,Senior,Masculino,Empleado privado
+167,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+168,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+169,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+170,35 - 44 años,Adulto,Masculino,Profesional independiente
+171,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+172,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+173,Menos de 18 años,Juvenil,Femenino,Empleado privado
+174,18 - 24 años,Joven Adulto,Femenino,Empresario
+175,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+176,35 - 44 años,Adulto,Femenino,Empleado privado
+177,35 - 44 años,Adulto,Masculino,Empleado privado
+178,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+179,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+180,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+181,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+182,35 - 44 años,Adulto,Femenino,Estudiante
+183,18 - 24 años,Joven Adulto,Masculino,Comerciante
+184,25 - 34 años,Adulto Joven,Femenino,Estudiante
+185,Menos de 18 años,Juvenil,Prefiero no indicarlo,Estudiante
+186,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+187,55 años o más,Senior,Masculino,Estudiante
+188,25 - 34 años,Adulto Joven,Masculino,Comerciante
+189,18 - 24 años,Joven Adulto,Femenino,Comerciante
+190,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+191,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+192,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+193,25 - 34 años,Adulto Joven,Femenino,Comerciante
+194,18 - 24 años,Joven Adulto,Masculino,Comerciante
+195,25 - 34 años,Adulto Joven,Femenino,Estudiante
+196,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empleado privado
+197,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+198,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+199,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+200,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+201,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+202,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+203,18 - 24 años,Joven Adulto,Femenino,Estudiante
+204,35 - 44 años,Adulto,Masculino,Empresario
+205,Menos de 18 años,Juvenil,Masculino,Estudiante
+206,55 años o más,Senior,Femenino,Empleado privado
+207,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+208,35 - 44 años,Adulto,Femenino,Otro
+209,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+210,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+211,55 años o más,Senior,Masculino,Empresario
+212,35 - 44 años,Adulto,Femenino,Estudiante
+213,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+214,25 - 34 años,Adulto Joven,Masculino,Estudiante
+215,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+216,18 - 24 años,Joven Adulto,Femenino,Comerciante
+217,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+218,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+219,35 - 44 años,Adulto,Femenino,Empleado privado
+220,18 - 24 años,Joven Adulto,Femenino,Estudiante
+221,18 - 24 años,Joven Adulto,Femenino,Empresario
+222,55 años o más,Senior,Masculino,Estudiante
+223,Menos de 18 años,Juvenil,Femenino,Empleado privado
+224,35 - 44 años,Adulto,Masculino,Empresario
+225,25 - 34 años,Adulto Joven,Masculino,Estudiante
+226,35 - 44 años,Adulto,Femenino,Empleado público
+227,35 - 44 años,Adulto,Masculino,Otro
+228,35 - 44 años,Adulto,Femenino,Empleado público
+229,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+230,Menos de 18 años,Juvenil,Masculino,Ama de casa
+231,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+232,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+233,18 - 24 años,Joven Adulto,Masculino,Estudiante
+234,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+235,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Profesional independiente
+236,18 - 24 años,Joven Adulto,Masculino,Comerciante
+237,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+238,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+239,35 - 44 años,Adulto,Masculino,Profesional independiente
+240,18 - 24 años,Joven Adulto,Femenino,Comerciante
+241,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+242,18 - 24 años,Joven Adulto,Masculino,Empleado público
+243,25 - 34 años,Adulto Joven,Femenino,Estudiante
+244,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+245,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,No especificado
+246,35 - 44 años,Adulto,Femenino,Comerciante
+247,25 - 34 años,Adulto Joven,Femenino,Empleado público
+248,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+249,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+250,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+251,25 - 34 años,Adulto Joven,Femenino,Estudiante
+252,55 años o más,Senior,Femenino,Empresario
+253,25 - 34 años,Adulto Joven,Femenino,Comerciante
+254,25 - 34 años,Adulto Joven,Masculino,Comerciante
+255,55 años o más,Senior,Masculino,Empleado privado
+256,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+257,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+258,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+259,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+260,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+261,55 años o más,Senior,Masculino,Estudiante
+262,35 - 44 años,Adulto,Masculino,Empleado privado
+263,35 - 44 años,Adulto,Masculino,Estudiante
+264,25 - 34 años,Adulto Joven,Masculino,Jubilado
+265,35 - 44 años,Adulto,Masculino,Profesional independiente
+266,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+267,35 - 44 años,Adulto,Masculino,Empleado privado
+268,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+269,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+270,18 - 24 años,Joven Adulto,Femenino,Empleado público
+271,35 - 44 años,Adulto,Femenino,Jubilado
+272,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+273,55 años o más,Senior,Femenino,Empresario
+274,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+275,55 años o más,Senior,Femenino,Jubilado
+276,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+277,35 - 44 años,Adulto,Masculino,Empleado privado
+278,18 - 24 años,Joven Adulto,Femenino,Estudiante
+279,Menos de 18 años,Juvenil,Femenino,Empresario
+280,35 - 44 años,Adulto,Masculino,Estudiante
+281,45 - 54 años,Adulto Mayor,Masculino,Otro
+282,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+283,Menos de 18 años,Juvenil,Masculino,Otro
+284,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+285,Menos de 18 años,Juvenil,Femenino,Comerciante
+286,Menos de 18 años,Juvenil,Femenino,Empresario
+287,Menos de 18 años,Juvenil,Masculino,Estudiante
+288,18 - 24 años,Joven Adulto,Masculino,Jubilado
+289,35 - 44 años,Adulto,Masculino,Ama de casa
+290,Menos de 18 años,Juvenil,Masculino,Ama de casa
+291,35 - 44 años,Adulto,Masculino,Empresario
+1595,55 años o más,Senior,Femenino,Empleado privado
+293,35 - 44 años,Adulto,Masculino,Estudiante
+294,35 - 44 años,Adulto,Prefiero no indicarlo,Comerciante
+295,Menos de 18 años,Juvenil,Femenino,Empleado público
+296,35 - 44 años,Adulto,Femenino,Empleado público
+297,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+298,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+299,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+300,55 años o más,Senior,Masculino,Ama de casa
+301,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+302,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+303,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+304,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Empleado privado
+305,18 - 24 años,Joven Adulto,Masculino,Empleado público
+306,18 - 24 años,Joven Adulto,Femenino,Empleado público
+307,35 - 44 años,Adulto,Masculino,Empleado privado
+308,Menos de 18 años,Juvenil,Masculino,Jubilado
+309,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+310,55 años o más,Senior,Femenino,Empleado privado
+311,Menos de 18 años,Juvenil,Femenino,Empleado privado
+312,Menos de 18 años,Juvenil,Femenino,Comerciante
+313,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+314,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+315,35 - 44 años,Adulto,Femenino,Comerciante
+316,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+317,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+318,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+319,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+320,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+321,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+322,Menos de 18 años,Juvenil,Masculino,Empleado público
+323,35 - 44 años,Adulto,Femenino,Comerciante
+324,45 - 54 años,Adulto Mayor,Femenino,No especificado
+325,25 - 34 años,Adulto Joven,Masculino,Jubilado
+326,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+327,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+328,Menos de 18 años,Juvenil,Masculino,Estudiante
+329,35 - 44 años,Adulto,Masculino,Empleado privado
+330,45 - 54 años,Adulto Mayor,Femenino,Empresario
+331,35 - 44 años,Adulto,Masculino,Ama de casa
+332,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+333,18 - 24 años,Joven Adulto,Masculino,Empleado público
+334,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+335,35 - 44 años,Adulto,Masculino,Empleado privado
+336,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+337,55 años o más,Senior,Masculino,Empleado público
+338,25 - 34 años,Adulto Joven,Femenino,Empresario
+339,25 - 34 años,Adulto Joven,Masculino,Comerciante
+340,25 - 34 años,Adulto Joven,Masculino,Empleado público
+341,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+342,35 - 44 años,Adulto,Masculino,Profesional independiente
+343,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+344,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+345,18 - 24 años,Joven Adulto,Femenino,Comerciante
+346,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+347,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+348,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1960,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+350,35 - 44 años,Adulto,Femenino,Empleado privado
+351,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+352,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+353,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+354,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+355,35 - 44 años,Adulto,Masculino,Otro
+356,25 - 34 años,Adulto Joven,Masculino,Estudiante
+357,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+358,25 - 34 años,Adulto Joven,Femenino,Estudiante
+359,25 - 34 años,Adulto Joven,Femenino,Otro
+360,55 años o más,Senior,Prefiero no indicarlo,Estudiante
+361,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+362,Menos de 18 años,Juvenil,Masculino,Ama de casa
+363,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+364,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+365,18 - 24 años,Joven Adulto,Masculino,Empresario
+366,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+367,35 - 44 años,Adulto,Masculino,Empleado privado
+368,35 - 44 años,Adulto,Masculino,Empleado privado
+369,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+370,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+371,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+372,35 - 44 años,Adulto,Masculino,Empleado privado
+373,25 - 34 años,Adulto Joven,Femenino,Comerciante
+374,55 años o más,Senior,Femenino,Profesional independiente
+375,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+376,Menos de 18 años,Juvenil,Masculino,Comerciante
+377,18 - 24 años,Joven Adulto,Masculino,Empresario
+378,55 años o más,Senior,Femenino,Empresario
+379,25 - 34 años,Adulto Joven,Femenino,Estudiante
+380,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+381,55 años o más,Senior,Femenino,Empleado privado
+382,25 - 34 años,Adulto Joven,Masculino,Comerciante
+383,35 - 44 años,Adulto,Femenino,Empleado privado
+384,25 - 34 años,Adulto Joven,Masculino,Comerciante
+385,35 - 44 años,Adulto,Masculino,Empleado privado
+386,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+387,25 - 34 años,Adulto Joven,Masculino,Estudiante
+388,25 - 34 años,Adulto Joven,Femenino,Empleado público
+389,Menos de 18 años,Juvenil,Masculino,Empresario
+390,Menos de 18 años,Juvenil,Femenino,Estudiante
+391,35 - 44 años,Adulto,Femenino,Empleado privado
+392,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+393,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+394,18 - 24 años,Joven Adulto,Masculino,Empresario
+395,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+396,18 - 24 años,Joven Adulto,Femenino,Estudiante
+397,55 años o más,Senior,Femenino,Empleado privado
+398,35 - 44 años,Adulto,Femenino,Comerciante
+399,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+400,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+401,18 - 24 años,Joven Adulto,Masculino,Estudiante
+402,55 años o más,Senior,Femenino,Empleado privado
+403,25 - 34 años,Adulto Joven,Masculino,Otro
+404,Menos de 18 años,Juvenil,Femenino,Comerciante
+405,45 - 54 años,Adulto Mayor,Femenino,Empresario
+406,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+407,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empresario
+408,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+409,25 - 34 años,Adulto Joven,Femenino,Comerciante
+410,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+411,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+412,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+413,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+414,55 años o más,Senior,Femenino,Empleado público
+415,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+416,25 - 34 años,Adulto Joven,Masculino,Empleado público
+417,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+418,55 años o más,Senior,Femenino,Empleado privado
+420,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+421,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+422,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+423,25 - 34 años,Adulto Joven,Masculino,Comerciante
+424,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+425,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+426,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+427,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+428,Menos de 18 años,Juvenil,Masculino,Otro
+429,25 - 34 años,Adulto Joven,Femenino,Estudiante
+430,35 - 44 años,Adulto,Femenino,No especificado
+431,45 - 54 años,Adulto Mayor,Masculino,Otro
+432,18 - 24 años,Joven Adulto,Masculino,Comerciante
+433,55 años o más,Senior,Femenino,Empleado público
+434,18 - 24 años,Joven Adulto,Femenino,Empleado público
+435,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+436,55 años o más,Senior,Femenino,Empleado privado
+437,55 años o más,Senior,Masculino,Comerciante
+438,55 años o más,Senior,Masculino,Empleado privado
+439,18 - 24 años,Joven Adulto,Femenino,Empresario
+440,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+441,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+442,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+443,25 - 34 años,Adulto Joven,Masculino,Estudiante
+444,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+445,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+446,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+447,25 - 34 años,Adulto Joven,Masculino,Empleado público
+448,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+449,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1193,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+451,18 - 24 años,Joven Adulto,Masculino,No especificado
+452,18 - 24 años,Joven Adulto,Masculino,Comerciante
+453,25 - 34 años,Adulto Joven,Masculino,Comerciante
+454,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+455,25 - 34 años,Adulto Joven,Femenino,Estudiante
+456,25 - 34 años,Adulto Joven,Femenino,Empleado público
+457,55 años o más,Senior,Masculino,Jubilado
+458,25 - 34 años,Adulto Joven,Femenino,Estudiante
+459,35 - 44 años,Adulto,Masculino,Empleado público
+460,25 - 34 años,Adulto Joven,Femenino,Otro
+461,Menos de 18 años,Juvenil,Femenino,Estudiante
+462,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+463,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1049,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+465,18 - 24 años,Joven Adulto,Femenino,Comerciante
+466,35 - 44 años,Adulto,Femenino,Empleado privado
+467,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+468,45 - 54 años,Adulto Mayor,Masculino,Otro
+469,25 - 34 años,Adulto Joven,Femenino,Otro
+470,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+471,25 - 34 años,Adulto Joven,Femenino,Estudiante
+472,18 - 24 años,Joven Adulto,Masculino,Estudiante
+473,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2439,18 - 24 años,Joven Adulto,Femenino,Estudiante
+475,Menos de 18 años,Juvenil,Masculino,Empleado privado
+476,25 - 34 años,Adulto Joven,Masculino,Estudiante
+477,35 - 44 años,Adulto,Femenino,Profesional independiente
+478,35 - 44 años,Adulto,Femenino,Estudiante
+479,35 - 44 años,Adulto,Masculino,Profesional independiente
+480,18 - 24 años,Joven Adulto,Femenino,Empleado público
+481,25 - 34 años,Adulto Joven,Masculino,Empresario
+482,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+483,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+484,55 años o más,Senior,Femenino,Empleado privado
+485,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+486,25 - 34 años,Adulto Joven,Masculino,Estudiante
+487,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+488,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+489,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+490,55 años o más,Senior,Prefiero no indicarlo,Empleado privado
+491,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+492,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+493,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+494,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+495,35 - 44 años,Adulto,Masculino,Empleado privado
+496,18 - 24 años,Joven Adulto,Masculino,Estudiante
+497,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+498,Menos de 18 años,Juvenil,Masculino,Estudiante
+499,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+500,35 - 44 años,Adulto,Masculino,Empleado privado
+501,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+502,25 - 34 años,Adulto Joven,Masculino,Empresario
+503,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+504,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+505,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+506,Menos de 18 años,Juvenil,Femenino,Empleado privado
+507,55 años o más,Senior,Masculino,Empleado privado
+508,35 - 44 años,Adulto,Femenino,Ama de casa
+509,35 - 44 años,Adulto,Masculino,Jubilado
+510,18 - 24 años,Joven Adulto,Masculino,Estudiante
+511,35 - 44 años,Adulto,Masculino,No especificado
+512,55 años o más,Senior,Femenino,Empleado público
+513,35 - 44 años,Adulto,Masculino,Otro
+514,35 - 44 años,Adulto,Prefiero no indicarlo,Comerciante
+515,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+516,35 - 44 años,Adulto,Masculino,Profesional independiente
+517,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+518,Menos de 18 años,Juvenil,Femenino,Otro
+519,25 - 34 años,Adulto Joven,Femenino,Comerciante
+520,55 años o más,Senior,Masculino,Empleado público
+521,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+522,25 - 34 años,Adulto Joven,Femenino,Jubilado
+523,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+524,35 - 44 años,Adulto,Masculino,Estudiante
+525,25 - 34 años,Adulto Joven,Masculino,Empresario
+526,Menos de 18 años,Juvenil,Femenino,Comerciante
+527,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+528,18 - 24 años,Joven Adulto,Masculino,Comerciante
+529,25 - 34 años,Adulto Joven,Femenino,Estudiante
+530,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+531,18 - 24 años,Joven Adulto,Femenino,Empresario
+532,35 - 44 años,Adulto,Femenino,Estudiante
+533,55 años o más,Senior,Femenino,No especificado
+534,55 años o más,Senior,Masculino,Estudiante
+535,25 - 34 años,Adulto Joven,Masculino,Otro
+536,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+537,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+538,35 - 44 años,Adulto,Femenino,Empresario
+539,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+540,35 - 44 años,Adulto,Femenino,Comerciante
+541,18 - 24 años,Joven Adulto,Masculino,Comerciante
+542,Menos de 18 años,Juvenil,Femenino,Ama de casa
+543,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+544,25 - 34 años,Adulto Joven,Femenino,Comerciante
+545,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+546,45 - 54 años,Adulto Mayor,Femenino,Empresario
+547,18 - 24 años,Joven Adulto,Masculino,Empresario
+548,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+549,35 - 44 años,Adulto,Masculino,Empleado privado
+550,25 - 34 años,Adulto Joven,Masculino,Empleado público
+551,55 años o más,Senior,Masculino,Empleado público
+552,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+553,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Estudiante
+554,18 - 24 años,Joven Adulto,Masculino,Empresario
+555,18 - 24 años,Joven Adulto,Femenino,Comerciante
+556,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+557,55 años o más,Senior,Femenino,Empleado público
+558,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+559,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+560,Menos de 18 años,Juvenil,Femenino,Estudiante
+561,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+562,55 años o más,Senior,Femenino,Empleado público
+563,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+564,55 años o más,Senior,Femenino,Empleado privado
+565,Menos de 18 años,Juvenil,Femenino,Estudiante
+566,35 - 44 años,Adulto,Femenino,Empleado privado
+567,35 - 44 años,Adulto,Femenino,Empleado privado
+568,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+569,35 - 44 años,Adulto,Femenino,Profesional independiente
+570,35 - 44 años,Adulto,Masculino,Ama de casa
+571,25 - 34 años,Adulto Joven,Femenino,Estudiante
+572,18 - 24 años,Joven Adulto,Femenino,Estudiante
+573,18 - 24 años,Joven Adulto,Masculino,Otro
+574,18 - 24 años,Joven Adulto,Femenino,Empleado público
+575,18 - 24 años,Joven Adulto,Masculino,Empleado público
+576,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+577,Menos de 18 años,Juvenil,Masculino,Estudiante
+578,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Estudiante
+579,25 - 34 años,Adulto Joven,Masculino,Estudiante
+580,Menos de 18 años,Juvenil,Femenino,Estudiante
+581,18 - 24 años,Joven Adulto,Femenino,Empresario
+582,35 - 44 años,Adulto,Masculino,Profesional independiente
+583,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+584,55 años o más,Senior,Masculino,Empleado privado
+585,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+586,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+587,35 - 44 años,Adulto,Femenino,Comerciante
+588,18 - 24 años,Joven Adulto,Masculino,Comerciante
+589,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+590,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+591,25 - 34 años,Adulto Joven,Femenino,Jubilado
+592,18 - 24 años,Joven Adulto,Masculino,Comerciante
+593,Menos de 18 años,Juvenil,Femenino,Empleado privado
+594,35 - 44 años,Adulto,Masculino,Empresario
+595,45 - 54 años,Adulto Mayor,Femenino,No especificado
+596,25 - 34 años,Adulto Joven,Masculino,Estudiante
+597,Menos de 18 años,Juvenil,Femenino,Comerciante
+598,Menos de 18 años,Juvenil,Masculino,Empleado privado
+599,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+600,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+601,18 - 24 años,Joven Adulto,Masculino,Comerciante
+602,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+603,35 - 44 años,Adulto,Femenino,Empresario
+604,Menos de 18 años,Juvenil,Femenino,Estudiante
+605,25 - 34 años,Adulto Joven,Femenino,Estudiante
+606,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+607,Menos de 18 años,Juvenil,Masculino,Empleado privado
+608,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+609,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1416,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+611,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+612,35 - 44 años,Adulto,Femenino,Profesional independiente
+613,25 - 34 años,Adulto Joven,Masculino,Comerciante
+614,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+615,18 - 24 años,Joven Adulto,Masculino,Jubilado
+1472,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+617,35 - 44 años,Adulto,Femenino,Empleado privado
+618,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+619,35 - 44 años,Adulto,Masculino,Empleado privado
+620,25 - 34 años,Adulto Joven,Masculino,Jubilado
+621,Menos de 18 años,Juvenil,Femenino,Estudiante
+622,35 - 44 años,Adulto,Femenino,Empleado privado
+623,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+624,Menos de 18 años,Juvenil,Masculino,Estudiante
+625,18 - 24 años,Joven Adulto,Femenino,Estudiante
+626,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+627,25 - 34 años,Adulto Joven,Masculino,Estudiante
+628,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+629,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+630,55 años o más,Senior,Masculino,Comerciante
+631,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+632,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+633,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+634,35 - 44 años,Adulto,Masculino,Empleado privado
+635,35 - 44 años,Adulto,Masculino,Empleado público
+636,55 años o más,Senior,Masculino,Estudiante
+637,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+638,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+639,25 - 34 años,Adulto Joven,Femenino,Estudiante
+640,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+641,18 - 24 años,Joven Adulto,Masculino,Estudiante
+642,Menos de 18 años,Juvenil,Femenino,Empleado público
+643,55 años o más,Senior,Femenino,Ama de casa
+644,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+645,18 - 24 años,Joven Adulto,Masculino,Otro
+646,18 - 24 años,Joven Adulto,Femenino,Estudiante
+647,25 - 34 años,Adulto Joven,Femenino,Comerciante
+648,Menos de 18 años,Juvenil,Femenino,Empleado privado
+649,55 años o más,Senior,Femenino,Estudiante
+650,18 - 24 años,Joven Adulto,Masculino,Comerciante
+651,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+652,35 - 44 años,Adulto,Femenino,Empresario
+653,55 años o más,Senior,Femenino,Comerciante
+654,35 - 44 años,Adulto,Masculino,Profesional independiente
+655,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+656,Menos de 18 años,Juvenil,Masculino,Estudiante
+657,25 - 34 años,Adulto Joven,Masculino,Estudiante
+658,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+659,25 - 34 años,Adulto Joven,Femenino,Comerciante
+660,35 - 44 años,Adulto,Femenino,Estudiante
+661,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+662,25 - 34 años,Adulto Joven,Masculino,Estudiante
+663,25 - 34 años,Adulto Joven,Masculino,Estudiante
+664,35 - 44 años,Adulto,Masculino,Jubilado
+665,25 - 34 años,Adulto Joven,Masculino,Empresario
+666,Menos de 18 años,Juvenil,Femenino,Comerciante
+667,35 - 44 años,Adulto,Femenino,Empleado privado
+668,35 - 44 años,Adulto,Masculino,Empleado privado
+669,35 - 44 años,Adulto,Prefiero no indicarlo,Empresario
+670,18 - 24 años,Joven Adulto,Masculino,Estudiante
+671,18 - 24 años,Joven Adulto,Masculino,Empleado público
+672,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+673,35 - 44 años,Adulto,Masculino,Empleado privado
+674,25 - 34 años,Adulto Joven,Masculino,Otro
+675,25 - 34 años,Adulto Joven,Femenino,Estudiante
+676,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+677,55 años o más,Senior,Femenino,Empleado privado
+678,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+679,Menos de 18 años,Juvenil,Masculino,No especificado
+680,55 años o más,Senior,Masculino,Ama de casa
+681,18 - 24 años,Joven Adulto,Masculino,Otro
+682,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+683,35 - 44 años,Adulto,Femenino,Empleado privado
+684,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+685,35 - 44 años,Adulto,Femenino,Jubilado
+686,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+687,25 - 34 años,Adulto Joven,Masculino,Otro
+688,25 - 34 años,Adulto Joven,Masculino,Estudiante
+689,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1961,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+691,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+692,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+693,Menos de 18 años,Juvenil,Femenino,Comerciante
+694,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+695,Menos de 18 años,Juvenil,Masculino,Empresario
+696,35 - 44 años,Adulto,Masculino,Profesional independiente
+697,18 - 24 años,Joven Adulto,Femenino,Empleado público
+698,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+699,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+700,35 - 44 años,Adulto,Femenino,Profesional independiente
+701,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+702,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+703,18 - 24 años,Joven Adulto,Masculino,Comerciante
+704,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+705,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+706,45 - 54 años,Adulto Mayor,Masculino,Otro
+707,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+708,18 - 24 años,Joven Adulto,Femenino,Estudiante
+709,25 - 34 años,Adulto Joven,Femenino,Otro
+710,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+711,55 años o más,Senior,Femenino,Profesional independiente
+712,Menos de 18 años,Juvenil,Femenino,Empleado privado
+713,35 - 44 años,Adulto,Masculino,Estudiante
+714,Menos de 18 años,Juvenil,Masculino,No especificado
+715,25 - 34 años,Adulto Joven,Masculino,Estudiante
+716,35 - 44 años,Adulto,Masculino,Comerciante
+717,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+718,Menos de 18 años,Juvenil,Femenino,Empresario
+719,Menos de 18 años,Juvenil,Femenino,Estudiante
+720,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+721,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+722,18 - 24 años,Joven Adulto,Femenino,Estudiante
+723,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+724,Menos de 18 años,Juvenil,Masculino,Empleado privado
+725,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+726,35 - 44 años,Adulto,Femenino,Comerciante
+727,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+728,35 - 44 años,Adulto,Masculino,Empleado privado
+729,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+730,25 - 34 años,Adulto Joven,Femenino,Comerciante
+731,35 - 44 años,Adulto,Femenino,Profesional independiente
+732,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+733,25 - 34 años,Adulto Joven,Masculino,Otro
+734,35 - 44 años,Adulto,Masculino,Comerciante
+735,18 - 24 años,Joven Adulto,Masculino,Comerciante
+736,25 - 34 años,Adulto Joven,Masculino,Estudiante
+737,25 - 34 años,Adulto Joven,Masculino,Estudiante
+738,Menos de 18 años,Juvenil,Masculino,Estudiante
+739,35 - 44 años,Adulto,Femenino,Empleado privado
+740,25 - 34 años,Adulto Joven,Femenino,Comerciante
+741,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+742,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+743,35 - 44 años,Adulto,Femenino,Empleado privado
+744,35 - 44 años,Adulto,Masculino,Empleado privado
+745,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+746,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+747,18 - 24 años,Joven Adulto,Masculino,Empleado público
+748,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empleado privado
+749,25 - 34 años,Adulto Joven,Femenino,Empresario
+750,25 - 34 años,Adulto Joven,Femenino,Empleado público
+751,18 - 24 años,Joven Adulto,Femenino,Empleado público
+752,35 - 44 años,Adulto,Masculino,Estudiante
+753,18 - 24 años,Joven Adulto,Femenino,Comerciante
+754,25 - 34 años,Adulto Joven,Femenino,Estudiante
+755,55 años o más,Senior,Masculino,Empresario
+756,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+757,18 - 24 años,Joven Adulto,Femenino,Empleado público
+758,35 - 44 años,Adulto,Femenino,Empleado privado
+759,55 años o más,Senior,Femenino,Estudiante
+760,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+761,35 - 44 años,Adulto,Masculino,Empleado privado
+762,45 - 54 años,Adulto Mayor,Masculino,Empresario
+763,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+764,25 - 34 años,Adulto Joven,Femenino,Empleado público
+765,35 - 44 años,Adulto,Masculino,Empleado privado
+766,18 - 24 años,Joven Adulto,Femenino,Empresario
+767,18 - 24 años,Joven Adulto,Masculino,Empleado público
+768,35 - 44 años,Adulto,Femenino,No especificado
+769,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+770,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+771,35 - 44 años,Adulto,Masculino,Comerciante
+772,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+773,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+774,35 - 44 años,Adulto,Masculino,Profesional independiente
+775,25 - 34 años,Adulto Joven,Masculino,Empleado público
+776,25 - 34 años,Adulto Joven,Masculino,Comerciante
+777,18 - 24 años,Joven Adulto,Femenino,Estudiante
+778,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+779,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+780,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+781,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+782,35 - 44 años,Adulto,Masculino,Empleado privado
+783,35 - 44 años,Adulto,Masculino,Empleado privado
+784,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+785,25 - 34 años,Adulto Joven,Masculino,Estudiante
+786,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+787,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+788,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+789,Menos de 18 años,Juvenil,Femenino,Empleado privado
+790,18 - 24 años,Joven Adulto,Masculino,Estudiante
+791,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+792,35 - 44 años,Adulto,Femenino,Comerciante
+793,Menos de 18 años,Juvenil,Masculino,Empleado privado
+794,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+795,35 - 44 años,Adulto,Masculino,Comerciante
+796,25 - 34 años,Adulto Joven,Masculino,Comerciante
+797,25 - 34 años,Adulto Joven,Masculino,Estudiante
+798,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+799,Menos de 18 años,Juvenil,Femenino,Empleado privado
+800,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+801,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+802,Menos de 18 años,Juvenil,Femenino,Estudiante
+803,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+804,45 - 54 años,Adulto Mayor,Masculino,Empresario
+805,25 - 34 años,Adulto Joven,Femenino,Otro
+806,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+807,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+808,35 - 44 años,Adulto,Masculino,Comerciante
+809,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+810,18 - 24 años,Joven Adulto,Femenino,No especificado
+811,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+812,55 años o más,Senior,Masculino,Estudiante
+813,18 - 24 años,Joven Adulto,Masculino,Empresario
+814,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+815,25 - 34 años,Adulto Joven,Masculino,Comerciante
+816,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Otro
+817,25 - 34 años,Adulto Joven,Femenino,Empresario
+818,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+819,25 - 34 años,Adulto Joven,Femenino,Comerciante
+820,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+821,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+822,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+823,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+824,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+825,25 - 34 años,Adulto Joven,Femenino,Estudiante
+826,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+827,35 - 44 años,Adulto,Femenino,Empleado privado
+828,35 - 44 años,Adulto,Masculino,Empleado privado
+829,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+830,18 - 24 años,Joven Adulto,Femenino,Jubilado
+831,Menos de 18 años,Juvenil,Femenino,Empleado privado
+832,35 - 44 años,Adulto,Femenino,Empresario
+833,25 - 34 años,Adulto Joven,Masculino,Comerciante
+834,45 - 54 años,Adulto Mayor,Masculino,Jubilado
+835,35 - 44 años,Adulto,Femenino,Empleado privado
+836,35 - 44 años,Adulto,Masculino,Comerciante
+837,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+838,35 - 44 años,Adulto,Masculino,Comerciante
+839,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+840,18 - 24 años,Joven Adulto,Femenino,Comerciante
+841,35 - 44 años,Adulto,Masculino,Profesional independiente
+842,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+843,35 - 44 años,Adulto,Femenino,Estudiante
+844,35 - 44 años,Adulto,Masculino,Estudiante
+845,18 - 24 años,Joven Adulto,Masculino,Empleado público
+846,18 - 24 años,Joven Adulto,Masculino,Estudiante
+847,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+848,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+849,25 - 34 años,Adulto Joven,Masculino,Estudiante
+850,25 - 34 años,Adulto Joven,Masculino,Estudiante
+851,18 - 24 años,Joven Adulto,Femenino,Comerciante
+852,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+853,35 - 44 años,Adulto,Femenino,Estudiante
+854,18 - 24 años,Joven Adulto,Femenino,Empleado público
+855,35 - 44 años,Adulto,Femenino,Empleado privado
+856,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+857,35 - 44 años,Adulto,Femenino,Estudiante
+858,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+859,18 - 24 años,Joven Adulto,Femenino,Estudiante
+860,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+861,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+862,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+863,18 - 24 años,Joven Adulto,Femenino,Estudiante
+864,35 - 44 años,Adulto,Femenino,Empleado privado
+865,45 - 54 años,Adulto Mayor,Masculino,Otro
+866,35 - 44 años,Adulto,Femenino,Empleado público
+867,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+868,35 - 44 años,Adulto,Femenino,Estudiante
+869,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+870,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+871,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empresario
+872,25 - 34 años,Adulto Joven,Femenino,Empresario
+873,35 - 44 años,Adulto,Masculino,Empleado privado
+874,18 - 24 años,Joven Adulto,Masculino,Empleado público
+875,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+876,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+877,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+878,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+879,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+880,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+881,18 - 24 años,Joven Adulto,Femenino,Estudiante
+882,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+883,18 - 24 años,Joven Adulto,Masculino,Estudiante
+884,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+885,18 - 24 años,Joven Adulto,Masculino,Empleado público
+886,25 - 34 años,Adulto Joven,Masculino,Empleado público
+888,55 años o más,Senior,Femenino,Profesional independiente
+889,55 años o más,Senior,Femenino,No especificado
+890,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+891,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+892,55 años o más,Senior,Masculino,Empleado privado
+893,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+894,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+895,25 - 34 años,Adulto Joven,Femenino,Comerciante
+896,35 - 44 años,Adulto,Femenino,Empleado privado
+897,35 - 44 años,Adulto,Masculino,Profesional independiente
+898,35 - 44 años,Adulto,Masculino,Estudiante
+899,35 - 44 años,Adulto,Masculino,Comerciante
+900,Menos de 18 años,Juvenil,Femenino,Comerciante
+901,35 - 44 años,Adulto,Femenino,Profesional independiente
+902,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+903,25 - 34 años,Adulto Joven,Masculino,Comerciante
+904,35 - 44 años,Adulto,Masculino,Profesional independiente
+905,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+906,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+907,25 - 34 años,Adulto Joven,Femenino,Estudiante
+908,18 - 24 años,Joven Adulto,Femenino,Empresario
+909,35 - 44 años,Adulto,Masculino,Profesional independiente
+910,55 años o más,Senior,Femenino,Empleado privado
+911,35 - 44 años,Adulto,Femenino,Estudiante
+912,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+913,35 - 44 años,Adulto,Masculino,Estudiante
+914,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+915,25 - 34 años,Adulto Joven,Masculino,Comerciante
+916,18 - 24 años,Joven Adulto,Femenino,Comerciante
+917,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+918,35 - 44 años,Adulto,Femenino,Profesional independiente
+919,25 - 34 años,Adulto Joven,Femenino,Estudiante
+920,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+921,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+922,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+923,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+924,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+925,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+926,25 - 34 años,Adulto Joven,Femenino,Comerciante
+927,55 años o más,Senior,Masculino,Otro
+928,25 - 34 años,Adulto Joven,Masculino,Otro
+929,35 - 44 años,Adulto,Femenino,Estudiante
+930,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+931,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+932,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+933,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+934,55 años o más,Senior,Masculino,Empleado privado
+935,25 - 34 años,Adulto Joven,Femenino,Empresario
+936,35 - 44 años,Adulto,Masculino,Empleado privado
+937,55 años o más,Senior,Masculino,Empleado privado
+939,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+940,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+941,35 - 44 años,Adulto,Femenino,Estudiante
+942,35 - 44 años,Adulto,Femenino,Ama de casa
+943,18 - 24 años,Joven Adulto,Masculino,Comerciante
+944,45 - 54 años,Adulto Mayor,Masculino,Otro
+945,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+946,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+947,25 - 34 años,Adulto Joven,Masculino,Empleado público
+948,35 - 44 años,Adulto,Masculino,Empresario
+949,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+950,45 - 54 años,Adulto Mayor,Masculino,Empresario
+951,35 - 44 años,Adulto,Femenino,Empleado privado
+952,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+953,35 - 44 años,Adulto,Masculino,Empleado privado
+954,55 años o más,Senior,Femenino,Comerciante
+955,18 - 24 años,Joven Adulto,Masculino,Empresario
+956,55 años o más,Senior,Masculino,Empleado privado
+957,18 - 24 años,Joven Adulto,Masculino,Otro
+958,25 - 34 años,Adulto Joven,Masculino,Comerciante
+959,55 años o más,Senior,Femenino,Empleado privado
+960,35 - 44 años,Adulto,Masculino,Empleado público
+961,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+962,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+963,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+964,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+965,25 - 34 años,Adulto Joven,Femenino,Comerciante
+966,25 - 34 años,Adulto Joven,Masculino,Otro
+967,25 - 34 años,Adulto Joven,Femenino,Estudiante
+968,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+969,Menos de 18 años,Juvenil,Masculino,Empleado privado
+970,35 - 44 años,Adulto,Femenino,Comerciante
+971,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+972,35 - 44 años,Adulto,Femenino,Empleado privado
+973,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+974,Menos de 18 años,Juvenil,Masculino,Empleado privado
+975,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+976,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+977,35 - 44 años,Adulto,Masculino,Empleado privado
+978,25 - 34 años,Adulto Joven,Femenino,Empleado público
+979,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+980,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+981,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+982,35 - 44 años,Adulto,Masculino,Empleado privado
+983,25 - 34 años,Adulto Joven,Masculino,Estudiante
+984,Menos de 18 años,Juvenil,Masculino,Otro
+985,Menos de 18 años,Juvenil,Femenino,Estudiante
+986,55 años o más,Senior,Femenino,Ama de casa
+987,35 - 44 años,Adulto,Masculino,Profesional independiente
+988,Menos de 18 años,Juvenil,Masculino,Estudiante
+989,55 años o más,Senior,Femenino,Estudiante
+990,18 - 24 años,Joven Adulto,Masculino,Empleado público
+991,25 - 34 años,Adulto Joven,Masculino,Empleado público
+992,18 - 24 años,Joven Adulto,Masculino,Estudiante
+993,18 - 24 años,Joven Adulto,Masculino,Empresario
+994,25 - 34 años,Adulto Joven,Femenino,Estudiante
+995,55 años o más,Senior,Masculino,Estudiante
+996,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+997,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+998,35 - 44 años,Adulto,Masculino,Ama de casa
+999,Menos de 18 años,Juvenil,Femenino,Empresario
+1000,35 - 44 años,Adulto,Masculino,Empresario
+1001,55 años o más,Senior,Masculino,Estudiante
+1002,25 - 34 años,Adulto Joven,Femenino,Empresario
+1003,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Estudiante
+1004,35 - 44 años,Adulto,Masculino,Comerciante
+1005,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1006,Menos de 18 años,Juvenil,Masculino,Empresario
+1007,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+1008,35 - 44 años,Adulto,Masculino,Empleado privado
+1009,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1010,Menos de 18 años,Juvenil,Femenino,Estudiante
+1011,55 años o más,Senior,Femenino,Empleado público
+1012,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1013,55 años o más,Senior,Masculino,Empleado privado
+1014,45 - 54 años,Adulto Mayor,Femenino,Empresario
+1015,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1016,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1017,35 - 44 años,Adulto,Masculino,Empresario
+1018,Menos de 18 años,Juvenil,Masculino,Comerciante
+1019,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1020,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1021,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1022,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1023,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1024,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1025,Menos de 18 años,Juvenil,Femenino,Ama de casa
+1026,35 - 44 años,Adulto,Prefiero no indicarlo,Profesional independiente
+1027,55 años o más,Senior,Masculino,Ama de casa
+1028,35 - 44 años,Adulto,Masculino,Empleado privado
+1029,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+1030,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1031,Menos de 18 años,Juvenil,Masculino,Estudiante
+1032,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1033,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1034,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+1035,Menos de 18 años,Juvenil,Femenino,Otro
+1036,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1037,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1038,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1039,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1040,Menos de 18 años,Juvenil,Masculino,Otro
+1041,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1042,18 - 24 años,Joven Adulto,Masculino,Otro
+1043,Menos de 18 años,Juvenil,Femenino,Ama de casa
+1044,55 años o más,Senior,Masculino,Empleado privado
+1045,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1046,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1047,18 - 24 años,Joven Adulto,Femenino,Jubilado
+1048,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1050,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1051,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1052,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1053,Menos de 18 años,Juvenil,Femenino,Empleado público
+1054,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1055,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1056,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1057,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1058,55 años o más,Senior,Masculino,Profesional independiente
+1059,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1060,35 - 44 años,Adulto,Masculino,Ama de casa
+1061,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1062,Menos de 18 años,Juvenil,Femenino,Estudiante
+1063,18 - 24 años,Joven Adulto,Femenino,Jubilado
+1064,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1065,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1066,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1067,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1068,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1069,18 - 24 años,Joven Adulto,Femenino,Otro
+1070,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1071,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1072,35 - 44 años,Adulto,Femenino,Otro
+1073,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1074,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1075,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1076,55 años o más,Senior,Masculino,Comerciante
+1077,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1078,25 - 34 años,Adulto Joven,Femenino,Otro
+1079,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1080,35 - 44 años,Adulto,Masculino,Profesional independiente
+1081,35 - 44 años,Adulto,Masculino,Estudiante
+1082,55 años o más,Senior,Masculino,Empleado público
+1083,35 - 44 años,Adulto,Femenino,Empleado privado
+1084,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1085,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1086,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1087,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1088,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1089,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2124,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1091,35 - 44 años,Adulto,Prefiero no indicarlo,Empleado público
+1092,35 - 44 años,Adulto,Femenino,Estudiante
+1093,Menos de 18 años,Juvenil,Masculino,Empresario
+1094,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1095,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1096,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1097,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1098,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1099,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1100,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1101,25 - 34 años,Adulto Joven,Femenino,Empresario
+1102,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1103,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1104,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1105,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1106,35 - 44 años,Adulto,Masculino,No especificado
+1107,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+2199,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+1109,35 - 44 años,Adulto,Masculino,Empleado privado
+1110,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1111,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1112,35 - 44 años,Adulto,Masculino,Comerciante
+1113,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1114,18 - 24 años,Joven Adulto,Masculino,Empresario
+1115,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1117,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1118,25 - 34 años,Adulto Joven,Masculino,Otro
+1119,35 - 44 años,Adulto,Masculino,Comerciante
+1120,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1121,Menos de 18 años,Juvenil,Masculino,Empleado público
+1122,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1123,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1124,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1125,35 - 44 años,Adulto,Masculino,Estudiante
+1126,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1127,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1129,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1130,45 - 54 años,Adulto Mayor,Masculino,Otro
+1131,35 - 44 años,Adulto,Masculino,Empresario
+1132,35 - 44 años,Adulto,Femenino,Estudiante
+1133,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1134,35 - 44 años,Adulto,Femenino,Comerciante
+1135,25 - 34 años,Adulto Joven,Femenino,Jubilado
+1136,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1137,25 - 34 años,Adulto Joven,Femenino,No especificado
+1138,35 - 44 años,Adulto,Masculino,Jubilado
+1139,45 - 54 años,Adulto Mayor,Masculino,Empresario
+1140,25 - 34 años,Adulto Joven,Masculino,Empresario
+1141,35 - 44 años,Adulto,Masculino,Empleado privado
+1142,Menos de 18 años,Juvenil,Masculino,Estudiante
+1143,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1144,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1145,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1146,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1147,18 - 24 años,Joven Adulto,Masculino,No especificado
+1148,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1149,35 - 44 años,Adulto,Masculino,Empleado público
+1150,35 - 44 años,Adulto,Masculino,Profesional independiente
+1151,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Empleado público
+1152,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1153,55 años o más,Senior,Femenino,Empleado privado
+1154,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1155,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1156,25 - 34 años,Adulto Joven,Femenino,Empresario
+1157,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1158,55 años o más,Senior,Masculino,Estudiante
+1159,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1160,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1161,35 - 44 años,Adulto,Masculino,Comerciante
+1162,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Profesional independiente
+1163,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1164,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1165,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1166,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1167,35 - 44 años,Adulto,Masculino,Estudiante
+1168,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado público
+1169,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1170,35 - 44 años,Adulto,Femenino,Empleado privado
+1171,35 - 44 años,Adulto,Masculino,Comerciante
+1172,35 - 44 años,Adulto,Masculino,Profesional independiente
+1173,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1174,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1175,35 - 44 años,Adulto,Femenino,Empresario
+1176,25 - 34 años,Adulto Joven,Femenino,Jubilado
+1177,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1178,35 - 44 años,Adulto,Femenino,Empleado público
+1179,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1180,45 - 54 años,Adulto Mayor,Masculino,Otro
+1181,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1182,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1183,55 años o más,Senior,Femenino,Estudiante
+1184,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1185,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1186,35 - 44 años,Adulto,Femenino,Comerciante
+1187,35 - 44 años,Adulto,Masculino,Empleado público
+1481,25 - 34 años,Adulto Joven,Masculino,Empresario
+1189,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1190,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1191,18 - 24 años,Joven Adulto,Masculino,Jubilado
+1192,55 años o más,Senior,Femenino,Empleado privado
+1194,35 - 44 años,Adulto,Femenino,Empresario
+1195,Menos de 18 años,Juvenil,Masculino,Estudiante
+1196,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1197,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1198,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1199,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1200,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1201,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1202,Menos de 18 años,Juvenil,Femenino,Estudiante
+1203,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1204,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1205,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1206,35 - 44 años,Adulto,Femenino,Estudiante
+1207,35 - 44 años,Adulto,Femenino,Empleado privado
+1208,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1209,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1210,18 - 24 años,Joven Adulto,Femenino,Empresario
+1211,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1212,55 años o más,Senior,Masculino,Comerciante
+1213,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1214,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1215,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1216,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1217,25 - 34 años,Adulto Joven,Femenino,Jubilado
+1218,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1219,25 - 34 años,Adulto Joven,Masculino,Jubilado
+1220,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1221,55 años o más,Senior,Femenino,Empleado privado
+1222,Menos de 18 años,Juvenil,Masculino,Jubilado
+1223,Menos de 18 años,Juvenil,Femenino,Estudiante
+1224,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1225,55 años o más,Senior,Masculino,Empleado privado
+1226,25 - 34 años,Adulto Joven,Femenino,Jubilado
+1227,55 años o más,Senior,Masculino,Profesional independiente
+1228,35 - 44 años,Adulto,Masculino,Estudiante
+1229,55 años o más,Senior,Masculino,Comerciante
+1230,55 años o más,Senior,Femenino,Empleado privado
+1231,35 - 44 años,Adulto,Masculino,Empleado privado
+1232,35 - 44 años,Adulto,Masculino,Estudiante
+1233,35 - 44 años,Adulto,Masculino,Empresario
+1234,35 - 44 años,Adulto,Masculino,Ama de casa
+1235,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1236,45 - 54 años,Adulto Mayor,Masculino,Jubilado
+1237,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1238,35 - 44 años,Adulto,Masculino,Otro
+1239,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1240,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1241,55 años o más,Senior,Masculino,Estudiante
+1242,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1243,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1244,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1245,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1246,Menos de 18 años,Juvenil,Femenino,Empleado público
+1247,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1248,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1249,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1250,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Estudiante
+1251,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1252,55 años o más,Senior,Masculino,Ama de casa
+1253,18 - 24 años,Joven Adulto,Masculino,Empresario
+1254,35 - 44 años,Adulto,Masculino,Estudiante
+1255,35 - 44 años,Adulto,Femenino,Empleado privado
+1256,55 años o más,Senior,Femenino,Empleado público
+1257,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1258,35 - 44 años,Adulto,Masculino,Estudiante
+1259,25 - 34 años,Adulto Joven,Masculino,Empresario
+1260,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1261,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1262,35 - 44 años,Adulto,Masculino,Empleado privado
+1263,25 - 34 años,Adulto Joven,Masculino,Jubilado
+1264,18 - 24 años,Joven Adulto,Masculino,Empresario
+1265,35 - 44 años,Adulto,Femenino,Comerciante
+1266,25 - 34 años,Adulto Joven,Femenino,Empresario
+1267,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1268,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1269,45 - 54 años,Adulto Mayor,Femenino,Empresario
+1270,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1271,35 - 44 años,Adulto,Masculino,Comerciante
+1864,Menos de 18 años,Juvenil,Masculino,Ama de casa
+1273,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1274,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1275,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1276,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1277,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1278,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1279,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1280,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1281,35 - 44 años,Adulto,Masculino,Empresario
+1282,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1283,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1284,55 años o más,Senior,Femenino,Empleado privado
+1285,35 - 44 años,Adulto,Masculino,Empleado privado
+1286,35 - 44 años,Adulto,Masculino,Estudiante
+1287,35 - 44 años,Adulto,Femenino,Empleado privado
+1288,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1289,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1290,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1291,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1292,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1293,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1294,35 - 44 años,Adulto,Femenino,Empleado privado
+1295,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1296,55 años o más,Senior,Masculino,Comerciante
+1297,35 - 44 años,Adulto,Masculino,Ama de casa
+1298,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1299,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1300,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1301,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1302,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1303,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1304,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1305,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1306,35 - 44 años,Adulto,Femenino,Estudiante
+1307,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1308,18 - 24 años,Joven Adulto,Masculino,Otro
+1309,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1310,35 - 44 años,Adulto,Prefiero no indicarlo,Empleado privado
+1311,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1312,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1313,Menos de 18 años,Juvenil,Masculino,Empleado público
+1314,Menos de 18 años,Juvenil,Masculino,Otro
+1315,18 - 24 años,Joven Adulto,Masculino,Empresario
+1316,35 - 44 años,Adulto,Femenino,Comerciante
+1317,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1318,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2405,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1320,45 - 54 años,Adulto Mayor,Femenino,No especificado
+1321,55 años o más,Senior,Femenino,No especificado
+1322,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1323,18 - 24 años,Joven Adulto,Masculino,Otro
+1324,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1325,35 - 44 años,Adulto,Masculino,Profesional independiente
+1326,Menos de 18 años,Juvenil,Femenino,Estudiante
+1327,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1328,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1329,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1330,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1331,35 - 44 años,Adulto,Femenino,Empleado privado
+1332,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1333,35 - 44 años,Adulto,Masculino,Empleado privado
+1334,55 años o más,Senior,Masculino,Comerciante
+1335,45 - 54 años,Adulto Mayor,Femenino,Empresario
+1336,55 años o más,Senior,Femenino,Empleado público
+1337,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1339,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1340,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1341,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1342,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1343,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1344,45 - 54 años,Adulto Mayor,Masculino,No especificado
+1345,Menos de 18 años,Juvenil,Femenino,Empresario
+1346,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1347,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1348,35 - 44 años,Adulto,Femenino,Empresario
+1349,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1350,35 - 44 años,Adulto,Femenino,Empleado público
+1351,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+1352,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1353,Menos de 18 años,Juvenil,Masculino,Empleado público
+1354,55 años o más,Senior,Masculino,Empleado privado
+1355,45 - 54 años,Adulto Mayor,Masculino,Otro
+1356,25 - 34 años,Adulto Joven,Masculino,Otro
+1357,35 - 44 años,Adulto,Masculino,Otro
+1358,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1359,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1360,35 - 44 años,Adulto,Masculino,Estudiante
+1361,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1362,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1363,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1364,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1365,35 - 44 años,Adulto,Femenino,Empleado privado
+1366,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1367,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+1368,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1369,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1370,25 - 34 años,Adulto Joven,Masculino,Otro
+1371,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1372,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1373,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1374,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1375,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1376,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1377,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+1378,35 - 44 años,Adulto,Masculino,Empleado privado
+1379,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1380,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1381,55 años o más,Senior,Prefiero no indicarlo,Empleado privado
+1382,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1383,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1384,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1385,35 - 44 años,Adulto,Masculino,Empleado privado
+1386,35 - 44 años,Adulto,Femenino,Profesional independiente
+1387,18 - 24 años,Joven Adulto,Femenino,Otro
+1388,Menos de 18 años,Juvenil,Femenino,Empresario
+1389,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1390,35 - 44 años,Adulto,Femenino,Estudiante
+1391,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1392,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1393,Menos de 18 años,Juvenil,Prefiero no indicarlo,Profesional independiente
+1394,Menos de 18 años,Juvenil,Masculino,Otro
+1395,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1396,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1397,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1398,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1399,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1400,Menos de 18 años,Juvenil,Femenino,Comerciante
+1401,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1402,35 - 44 años,Adulto,Femenino,Ama de casa
+1403,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1404,35 - 44 años,Adulto,Femenino,Empleado privado
+1405,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1406,35 - 44 años,Adulto,Masculino,Estudiante
+1407,35 - 44 años,Adulto,Femenino,Comerciante
+1408,35 - 44 años,Adulto,Femenino,Empleado privado
+1409,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1410,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1411,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empleado privado
+1412,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1413,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1414,35 - 44 años,Adulto,Masculino,Empleado privado
+1415,55 años o más,Senior,Masculino,Estudiante
+1417,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1418,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1419,35 - 44 años,Adulto,Femenino,Comerciante
+1420,35 - 44 años,Adulto,Masculino,Empleado público
+1421,55 años o más,Senior,Femenino,Empleado privado
+1422,25 - 34 años,Adulto Joven,Masculino,Empleado público
+2478,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1424,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1425,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1426,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1427,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1428,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1429,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1430,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1431,55 años o más,Senior,Masculino,Profesional independiente
+1432,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1433,35 - 44 años,Adulto,Femenino,Comerciante
+1434,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1435,35 - 44 años,Adulto,Prefiero no indicarlo,Otro
+1436,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1437,35 - 44 años,Adulto,Masculino,Comerciante
+1438,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+1439,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1440,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1441,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1442,35 - 44 años,Adulto,Masculino,Otro
+1443,55 años o más,Senior,Masculino,Empleado público
+1444,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1445,35 - 44 años,Adulto,Masculino,Empleado privado
+1446,55 años o más,Senior,Masculino,Estudiante
+1447,55 años o más,Senior,Femenino,Empleado privado
+1448,18 - 24 años,Joven Adulto,Femenino,No especificado
+1449,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1450,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1451,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1452,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1453,25 - 34 años,Adulto Joven,Masculino,Empresario
+1454,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+1455,45 - 54 años,Adulto Mayor,Femenino,No especificado
+1456,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1457,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1458,35 - 44 años,Adulto,Femenino,Empleado privado
+1460,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1461,25 - 34 años,Adulto Joven,Masculino,Jubilado
+1462,25 - 34 años,Adulto Joven,Masculino,Empresario
+1463,35 - 44 años,Adulto,Femenino,Comerciante
+1464,18 - 24 años,Joven Adulto,Masculino,Empresario
+1465,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1466,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1467,35 - 44 años,Adulto,Masculino,Empleado privado
+1468,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1469,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1470,18 - 24 años,Joven Adulto,Masculino,Otro
+1471,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1473,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1474,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1475,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1476,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1477,18 - 24 años,Joven Adulto,Femenino,Empresario
+1478,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1479,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1480,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1482,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1483,55 años o más,Senior,Masculino,Otro
+1484,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1485,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1486,Menos de 18 años,Juvenil,Femenino,Comerciante
+1487,18 - 24 años,Joven Adulto,Femenino,Empresario
+1488,55 años o más,Senior,Femenino,Empleado privado
+1489,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+1490,18 - 24 años,Joven Adulto,Masculino,No especificado
+1491,35 - 44 años,Adulto,Femenino,Estudiante
+1492,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1493,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1494,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1495,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1496,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1497,35 - 44 años,Adulto,Femenino,Empresario
+1498,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1499,35 - 44 años,Adulto,Femenino,Estudiante
+1500,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1501,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1502,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1503,35 - 44 años,Adulto,Masculino,Empresario
+1504,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empleado privado
+1505,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1506,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Estudiante
+1507,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1508,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1509,Menos de 18 años,Juvenil,Masculino,Comerciante
+1510,Menos de 18 años,Juvenil,Femenino,Empleado público
+1511,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1512,Menos de 18 años,Juvenil,Masculino,Empleado público
+1513,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1514,35 - 44 años,Adulto,Masculino,Profesional independiente
+1515,35 - 44 años,Adulto,Masculino,Empleado privado
+1516,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1517,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1518,Menos de 18 años,Juvenil,Masculino,Comerciante
+1519,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1520,Menos de 18 años,Juvenil,Masculino,Empresario
+1521,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1522,Menos de 18 años,Juvenil,Masculino,Estudiante
+1523,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1524,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1525,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1526,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1527,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1528,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1529,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Empleado privado
+1530,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1531,35 - 44 años,Adulto,Masculino,Otro
+1532,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1533,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1534,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1535,18 - 24 años,Joven Adulto,Femenino,Empresario
+1536,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1537,35 - 44 años,Adulto,Femenino,Ama de casa
+1538,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1539,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1540,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1541,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1542,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1543,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1544,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1545,Menos de 18 años,Juvenil,Femenino,Estudiante
+1546,35 - 44 años,Adulto,Masculino,Estudiante
+1547,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1548,35 - 44 años,Adulto,Femenino,Empleado privado
+1549,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1550,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1551,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1552,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1553,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Comerciante
+1554,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1555,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1556,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1557,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1558,45 - 54 años,Adulto Mayor,Femenino,Otro
+1559,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+1560,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1561,35 - 44 años,Adulto,Femenino,Empleado privado
+1562,35 - 44 años,Adulto,Femenino,Comerciante
+1563,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1564,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1565,35 - 44 años,Adulto,Masculino,Empleado público
+1566,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1567,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1568,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1569,18 - 24 años,Joven Adulto,Femenino,Otro
+1570,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1571,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1572,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1573,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1574,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1575,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1576,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1577,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1578,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1579,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+1580,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1581,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1582,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1583,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1584,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1585,35 - 44 años,Adulto,Masculino,Profesional independiente
+1586,45 - 54 años,Adulto Mayor,Femenino,Empresario
+1587,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado público
+1588,35 - 44 años,Adulto,Masculino,Empleado privado
+1589,35 - 44 años,Adulto,Masculino,Empresario
+1590,35 - 44 años,Adulto,Femenino,Empleado público
+1591,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1592,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1593,18 - 24 años,Joven Adulto,Femenino,Empresario
+1594,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1596,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1597,35 - 44 años,Adulto,Femenino,Estudiante
+1598,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1599,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1600,Menos de 18 años,Juvenil,Femenino,Comerciante
+1601,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1602,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1603,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1604,35 - 44 años,Adulto,Femenino,Estudiante
+1605,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1606,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1607,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1608,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1609,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1610,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1611,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1612,25 - 34 años,Adulto Joven,Masculino,Otro
+1613,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1614,45 - 54 años,Adulto Mayor,Femenino,No especificado
+1615,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1616,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1617,35 - 44 años,Adulto,Femenino,Empleado privado
+1618,Menos de 18 años,Juvenil,Masculino,Otro
+1619,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1620,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1621,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1622,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1623,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1624,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1625,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1626,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1627,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1628,45 - 54 años,Adulto Mayor,Masculino,Jubilado
+1629,25 - 34 años,Adulto Joven,Masculino,Otro
+1630,35 - 44 años,Adulto,Femenino,Empleado privado
+1631,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1632,55 años o más,Senior,Masculino,Empleado privado
+1633,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1634,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1635,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1636,35 - 44 años,Adulto,Femenino,Comerciante
+1637,35 - 44 años,Adulto,Masculino,Empleado privado
+1638,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1639,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1640,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Jubilado
+1641,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1642,35 - 44 años,Adulto,Femenino,Empleado privado
+1643,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1644,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1645,Menos de 18 años,Juvenil,Femenino,Empresario
+1646,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1647,55 años o más,Senior,Femenino,Estudiante
+1648,35 - 44 años,Adulto,Femenino,Empleado privado
+1649,35 - 44 años,Adulto,Masculino,Jubilado
+1650,35 - 44 años,Adulto,Femenino,Empleado privado
+1651,35 - 44 años,Adulto,Masculino,Estudiante
+1652,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1653,35 - 44 años,Adulto,Masculino,Empleado privado
+1654,Menos de 18 años,Juvenil,Masculino,Ama de casa
+1655,35 - 44 años,Adulto,Femenino,Ama de casa
+1656,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1657,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1658,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1659,18 - 24 años,Joven Adulto,Femenino,Otro
+1660,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1661,Menos de 18 años,Juvenil,Femenino,Empleado público
+1662,35 - 44 años,Adulto,Masculino,Empleado privado
+1663,18 - 24 años,Joven Adulto,Femenino,No especificado
+1664,35 - 44 años,Adulto,Femenino,Comerciante
+1665,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1666,35 - 44 años,Adulto,Femenino,Ama de casa
+1667,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1668,35 - 44 años,Adulto,Femenino,Profesional independiente
+1669,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1670,35 - 44 años,Adulto,Femenino,Empleado privado
+1671,35 - 44 años,Adulto,Masculino,Estudiante
+1672,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1673,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1674,35 - 44 años,Adulto,Femenino,Empresario
+1675,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1676,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1677,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1678,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1679,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1680,55 años o más,Senior,Masculino,Comerciante
+1681,35 - 44 años,Adulto,Femenino,Ama de casa
+1682,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1683,25 - 34 años,Adulto Joven,Masculino,Otro
+1684,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1685,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1686,Menos de 18 años,Juvenil,Masculino,Ama de casa
+1687,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1688,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1689,35 - 44 años,Adulto,Masculino,Otro
+1690,35 - 44 años,Adulto,Masculino,Ama de casa
+1691,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1692,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1693,35 - 44 años,Adulto,Masculino,Estudiante
+1694,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1695,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1696,18 - 24 años,Joven Adulto,Masculino,Empresario
+1697,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1698,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1699,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+1700,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1701,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1702,Menos de 18 años,Juvenil,Masculino,Estudiante
+1703,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1704,55 años o más,Senior,Masculino,Profesional independiente
+1705,Menos de 18 años,Juvenil,Masculino,Comerciante
+1706,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1707,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1708,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+1709,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1710,35 - 44 años,Adulto,Femenino,Empleado privado
+1711,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1712,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1713,35 - 44 años,Adulto,Masculino,Empleado privado
+1714,35 - 44 años,Adulto,Femenino,Empleado público
+1715,35 - 44 años,Adulto,Masculino,Estudiante
+1716,35 - 44 años,Adulto,Femenino,Empleado público
+1717,35 - 44 años,Adulto,Prefiero no indicarlo,Estudiante
+1718,35 - 44 años,Adulto,Femenino,Estudiante
+1719,55 años o más,Senior,Masculino,Empleado privado
+1720,25 - 34 años,Adulto Joven,Femenino,Empresario
+1721,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1722,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1723,Menos de 18 años,Juvenil,Masculino,Ama de casa
+1724,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Ama de casa
+1725,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1726,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1727,35 - 44 años,Adulto,Femenino,Empleado privado
+1728,35 - 44 años,Adulto,Femenino,No especificado
+1729,18 - 24 años,Joven Adulto,Masculino,Otro
+1730,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1731,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1732,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1733,18 - 24 años,Joven Adulto,Femenino,Empresario
+1734,35 - 44 años,Adulto,Masculino,Estudiante
+1735,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1736,35 - 44 años,Adulto,Femenino,Ama de casa
+1737,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1738,18 - 24 años,Joven Adulto,Masculino,Empresario
+1739,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1740,35 - 44 años,Adulto,Masculino,Jubilado
+1741,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1742,35 - 44 años,Adulto,Femenino,Otro
+1743,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1744,35 - 44 años,Adulto,Femenino,Empleado privado
+1745,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1746,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1747,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1748,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1749,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1750,35 - 44 años,Adulto,Femenino,Ama de casa
+1751,35 - 44 años,Adulto,Femenino,Comerciante
+1752,18 - 24 años,Joven Adulto,Femenino,Empresario
+1753,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1754,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1755,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1756,18 - 24 años,Joven Adulto,Femenino,Jubilado
+1757,35 - 44 años,Adulto,Masculino,Empleado privado
+1758,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Otro
+1759,35 - 44 años,Adulto,Femenino,Empleado privado
+1760,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1761,35 - 44 años,Adulto,Masculino,Profesional independiente
+1762,35 - 44 años,Adulto,Femenino,Empleado privado
+1763,Menos de 18 años,Juvenil,Masculino,Ama de casa
+1764,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1765,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1766,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1767,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1768,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1769,35 - 44 años,Adulto,Masculino,Estudiante
+1770,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1771,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1772,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1774,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1775,Menos de 18 años,Juvenil,Masculino,Estudiante
+1776,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1777,25 - 34 años,Adulto Joven,Femenino,Empresario
+1778,35 - 44 años,Adulto,Femenino,Empleado privado
+1779,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1780,35 - 44 años,Adulto,Femenino,Profesional independiente
+1781,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1782,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1783,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1784,55 años o más,Senior,Masculino,No especificado
+1785,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1786,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+1787,18 - 24 años,Joven Adulto,Femenino,Jubilado
+1788,35 - 44 años,Adulto,Femenino,Profesional independiente
+1789,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1790,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1791,Menos de 18 años,Juvenil,Femenino,Empresario
+1792,35 - 44 años,Adulto,Masculino,Empleado privado
+1793,55 años o más,Senior,Masculino,Empleado privado
+1794,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Comerciante
+1795,55 años o más,Senior,Femenino,Empresario
+1796,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1797,Menos de 18 años,Juvenil,Masculino,Empleado público
+1798,35 - 44 años,Adulto,Masculino,Empleado público
+1799,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1800,Menos de 18 años,Juvenil,Femenino,Empresario
+1801,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1802,Menos de 18 años,Juvenil,Masculino,Empleado privado
+1803,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1804,18 - 24 años,Joven Adulto,Femenino,Empresario
+1805,35 - 44 años,Adulto,Masculino,Empleado público
+1806,35 - 44 años,Adulto,Masculino,Comerciante
+1807,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+1808,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1809,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1810,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+1811,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1812,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1813,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1814,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1815,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1816,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1817,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1818,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1819,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1820,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1821,35 - 44 años,Adulto,Prefiero no indicarlo,Comerciante
+1822,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1823,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1824,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1825,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1826,Menos de 18 años,Juvenil,Femenino,Comerciante
+1827,35 - 44 años,Adulto,Femenino,Ama de casa
+1828,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1829,55 años o más,Senior,Masculino,Empleado privado
+1830,45 - 54 años,Adulto Mayor,Femenino,Ama de casa
+1831,35 - 44 años,Adulto,Femenino,Comerciante
+1832,18 - 24 años,Joven Adulto,Femenino,Empresario
+1833,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1834,18 - 24 años,Joven Adulto,Masculino,Otro
+1835,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1836,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1837,Menos de 18 años,Juvenil,Masculino,Empresario
+1838,35 - 44 años,Adulto,Femenino,Empleado privado
+1839,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1840,25 - 34 años,Adulto Joven,Femenino,Empleado público
+1841,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1842,18 - 24 años,Joven Adulto,Masculino,Empresario
+1843,35 - 44 años,Adulto,Femenino,Empresario
+1844,35 - 44 años,Adulto,Femenino,Ama de casa
+1845,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1846,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1847,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1848,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1849,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empleado público
+1850,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1851,18 - 24 años,Joven Adulto,Femenino,Comerciante
+1852,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1853,35 - 44 años,Adulto,Masculino,Ama de casa
+1854,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1855,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1856,35 - 44 años,Adulto,Femenino,Estudiante
+1857,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1858,35 - 44 años,Adulto,Masculino,Empresario
+1859,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1860,55 años o más,Senior,Prefiero no indicarlo,Comerciante
+1861,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1862,45 - 54 años,Adulto Mayor,Femenino,Otro
+1863,35 - 44 años,Adulto,Masculino,Otro
+1865,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+1866,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1867,45 - 54 años,Adulto Mayor,Masculino,Empresario
+1868,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1869,Menos de 18 años,Juvenil,Masculino,Estudiante
+1870,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1871,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1872,55 años o más,Senior,Femenino,Comerciante
+1873,35 - 44 años,Adulto,Femenino,Comerciante
+1874,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1875,35 - 44 años,Adulto,Femenino,Comerciante
+1876,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1877,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1878,18 - 24 años,Joven Adulto,Masculino,Otro
+1879,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1880,35 - 44 años,Adulto,Femenino,Ama de casa
+1881,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1882,55 años o más,Senior,Masculino,Comerciante
+1883,35 - 44 años,Adulto,Femenino,Empleado privado
+1884,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1885,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1886,55 años o más,Senior,Femenino,Empleado privado
+1887,25 - 34 años,Adulto Joven,Masculino,Otro
+1888,25 - 34 años,Adulto Joven,Masculino,Empleado público
+1889,25 - 34 años,Adulto Joven,Femenino,Empresario
+1890,35 - 44 años,Adulto,Femenino,Empleado privado
+1891,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empleado privado
+1892,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Estudiante
+1893,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+1894,35 - 44 años,Adulto,Prefiero no indicarlo,Empleado privado
+1895,18 - 24 años,Joven Adulto,Femenino,Empresario
+1896,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1897,35 - 44 años,Adulto,Masculino,Empresario
+1898,Menos de 18 años,Juvenil,Masculino,Empleado público
+1899,Menos de 18 años,Juvenil,Masculino,Empleado público
+1900,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1901,Menos de 18 años,Juvenil,Femenino,Empleado privado
+1902,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+1903,55 años o más,Senior,Femenino,Comerciante
+1904,35 - 44 años,Adulto,Masculino,Empleado privado
+1905,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1906,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1907,Menos de 18 años,Juvenil,Masculino,Empleado público
+1908,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1909,55 años o más,Senior,Masculino,Empleado privado
+1910,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1911,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1912,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1913,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+1914,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1915,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1916,35 - 44 años,Adulto,Masculino,Profesional independiente
+1917,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+1918,18 - 24 años,Joven Adulto,Femenino,Otro
+1919,55 años o más,Senior,Masculino,Empresario
+1920,35 - 44 años,Adulto,Masculino,Empleado privado
+1921,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1922,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1923,35 - 44 años,Adulto,Masculino,Empleado privado
+1924,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1925,35 - 44 años,Adulto,Femenino,Estudiante
+1926,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1927,35 - 44 años,Adulto,Masculino,Empleado privado
+1928,18 - 24 años,Joven Adulto,Femenino,Empleado público
+1929,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+1930,35 - 44 años,Adulto,Femenino,Empleado privado
+1932,55 años o más,Senior,Masculino,Estudiante
+1933,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1934,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+1935,Menos de 18 años,Juvenil,Femenino,Otro
+1936,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1937,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1938,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1939,55 años o más,Senior,Femenino,Empleado privado
+1940,55 años o más,Senior,Masculino,Estudiante
+1941,35 - 44 años,Adulto,Prefiero no indicarlo,Estudiante
+1942,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1943,35 - 44 años,Adulto,Masculino,Estudiante
+1944,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1945,25 - 34 años,Adulto Joven,Femenino,Empresario
+1946,55 años o más,Senior,Masculino,Profesional independiente
+1947,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+1948,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1949,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1950,25 - 34 años,Adulto Joven,Masculino,Empresario
+1951,18 - 24 años,Joven Adulto,Masculino,Empleado público
+1952,35 - 44 años,Adulto,Femenino,Empleado privado
+1953,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+1954,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1955,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+1956,35 - 44 años,Adulto,Masculino,Empleado privado
+1957,35 - 44 años,Adulto,Masculino,Empleado privado
+1958,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+1959,18 - 24 años,Joven Adulto,Masculino,Otro
+1962,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1963,18 - 24 años,Joven Adulto,Femenino,Otro
+1964,35 - 44 años,Adulto,Masculino,Ama de casa
+1965,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Otro
+1966,Menos de 18 años,Juvenil,Masculino,Empleado público
+1967,35 - 44 años,Adulto,Femenino,Empleado privado
+1968,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1969,55 años o más,Senior,Masculino,Otro
+1970,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+1971,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1972,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+1973,25 - 34 años,Adulto Joven,Masculino,Estudiante
+1974,25 - 34 años,Adulto Joven,Femenino,Comerciante
+1975,35 - 44 años,Adulto,Masculino,Ama de casa
+1976,18 - 24 años,Joven Adulto,Femenino,Empresario
+1977,55 años o más,Senior,Femenino,Jubilado
+1978,Menos de 18 años,Juvenil,Masculino,Comerciante
+1979,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+1980,18 - 24 años,Joven Adulto,Masculino,Otro
+1981,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+1982,18 - 24 años,Joven Adulto,Femenino,Jubilado
+1983,18 - 24 años,Joven Adulto,Masculino,Estudiante
+1984,25 - 34 años,Adulto Joven,Femenino,Estudiante
+1985,55 años o más,Senior,Masculino,Comerciante
+1986,35 - 44 años,Adulto,Masculino,Empresario
+1987,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1988,35 - 44 años,Adulto,Femenino,Comerciante
+1989,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+1990,18 - 24 años,Joven Adulto,Femenino,Estudiante
+1991,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+1992,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+1993,18 - 24 años,Joven Adulto,Femenino,No especificado
+1994,18 - 24 años,Joven Adulto,Masculino,Comerciante
+1995,25 - 34 años,Adulto Joven,Masculino,Comerciante
+1996,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Empleado privado
+1997,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+1998,35 - 44 años,Adulto,Masculino,Empleado privado
+1999,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2000,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2001,55 años o más,Senior,Masculino,Jubilado
+2002,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+2003,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2004,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2005,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2006,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2007,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2008,35 - 44 años,Adulto,Femenino,Comerciante
+2009,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2010,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2011,35 - 44 años,Adulto,Femenino,Estudiante
+2012,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+2013,35 - 44 años,Adulto,Masculino,Empleado privado
+2014,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2015,35 - 44 años,Adulto,Femenino,Estudiante
+2016,25 - 34 años,Adulto Joven,Femenino,Empleado público
+2017,55 años o más,Senior,Femenino,Profesional independiente
+2018,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2019,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2020,35 - 44 años,Adulto,Femenino,Empleado privado
+2021,25 - 34 años,Adulto Joven,Masculino,Jubilado
+2022,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2023,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2024,35 - 44 años,Adulto,Femenino,Estudiante
+2025,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2026,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2027,55 años o más,Senior,Masculino,Empleado privado
+2028,35 - 44 años,Adulto,Masculino,Empleado privado
+2029,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2030,Menos de 18 años,Juvenil,Masculino,Estudiante
+2031,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2032,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2033,Menos de 18 años,Juvenil,Masculino,Empleado privado
+2034,35 - 44 años,Adulto,Femenino,Ama de casa
+2035,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2036,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2037,35 - 44 años,Adulto,Masculino,Estudiante
+2038,18 - 24 años,Joven Adulto,Masculino,Otro
+2039,35 - 44 años,Adulto,Femenino,Estudiante
+2040,25 - 34 años,Adulto Joven,Masculino,Otro
+2041,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2042,25 - 34 años,Adulto Joven,Masculino,Empresario
+2043,35 - 44 años,Adulto,Femenino,Otro
+2044,25 - 34 años,Adulto Joven,Femenino,No especificado
+2045,Menos de 18 años,Juvenil,Masculino,Empresario
+2046,25 - 34 años,Adulto Joven,Masculino,Empleado público
+2047,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2048,35 - 44 años,Adulto,Femenino,Empleado privado
+2049,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2050,25 - 34 años,Adulto Joven,Masculino,Empleado público
+2051,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2052,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2053,35 - 44 años,Adulto,Masculino,Empleado privado
+2054,Menos de 18 años,Juvenil,Masculino,Estudiante
+2055,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2056,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2057,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+2058,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2059,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2060,25 - 34 años,Adulto Joven,Femenino,No especificado
+2061,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2062,35 - 44 años,Adulto,Prefiero no indicarlo,Empleado privado
+2063,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2064,35 - 44 años,Adulto,Femenino,Ama de casa
+2065,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2066,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+2067,55 años o más,Senior,Femenino,Profesional independiente
+2068,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empleado privado
+2069,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2070,35 - 44 años,Adulto,Masculino,Comerciante
+2071,35 - 44 años,Adulto,Femenino,Estudiante
+2072,55 años o más,Senior,Masculino,Estudiante
+2073,35 - 44 años,Adulto,Femenino,Profesional independiente
+2074,18 - 24 años,Joven Adulto,Femenino,Otro
+2075,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2076,55 años o más,Senior,Femenino,Empleado privado
+2077,35 - 44 años,Adulto,Femenino,Profesional independiente
+2078,35 - 44 años,Adulto,Masculino,Estudiante
+2079,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2080,35 - 44 años,Adulto,Masculino,Estudiante
+2081,Menos de 18 años,Juvenil,Masculino,Ama de casa
+2082,35 - 44 años,Adulto,Prefiero no indicarlo,Ama de casa
+2083,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+2084,25 - 34 años,Adulto Joven,Masculino,Jubilado
+2085,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2086,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2087,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2088,35 - 44 años,Adulto,Masculino,Empresario
+2090,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2091,55 años o más,Senior,Femenino,Estudiante
+2092,35 - 44 años,Adulto,Femenino,Estudiante
+2093,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2094,35 - 44 años,Adulto,Masculino,Empleado público
+2095,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+2096,55 años o más,Senior,Masculino,Estudiante
+2097,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2098,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2099,25 - 34 años,Adulto Joven,Masculino,No especificado
+2100,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2101,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2102,35 - 44 años,Adulto,Masculino,Empleado privado
+2103,35 - 44 años,Adulto,Femenino,Comerciante
+2104,35 - 44 años,Adulto,Masculino,Jubilado
+2105,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2106,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2107,18 - 24 años,Joven Adulto,Masculino,Empleado público
+2108,25 - 34 años,Adulto Joven,Masculino,Empresario
+2109,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2110,25 - 34 años,Adulto Joven,Femenino,Otro
+2111,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2112,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+2113,25 - 34 años,Adulto Joven,Masculino,Empleado público
+2114,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2115,35 - 44 años,Adulto,Femenino,Estudiante
+2116,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2117,55 años o más,Senior,Femenino,Estudiante
+2118,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2119,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2120,35 - 44 años,Adulto,Femenino,Comerciante
+2121,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2122,35 - 44 años,Adulto,Femenino,Empresario
+2123,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2125,Menos de 18 años,Juvenil,Femenino,Estudiante
+2126,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2127,25 - 34 años,Adulto Joven,Femenino,Empresario
+2128,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2129,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2130,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Profesional independiente
+2131,55 años o más,Senior,Masculino,Profesional independiente
+2132,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2133,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2134,35 - 44 años,Adulto,Femenino,Estudiante
+2135,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2136,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2137,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+2138,35 - 44 años,Adulto,Femenino,Empresario
+2139,25 - 34 años,Adulto Joven,Masculino,No especificado
+2140,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2141,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2142,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2143,25 - 34 años,Adulto Joven,Femenino,Empresario
+2144,55 años o más,Senior,Femenino,Ama de casa
+2145,18 - 24 años,Joven Adulto,Masculino,Otro
+2146,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2147,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2148,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2149,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2150,25 - 34 años,Adulto Joven,Femenino,Empleado público
+2151,35 - 44 años,Adulto,Masculino,Comerciante
+2152,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2153,35 - 44 años,Adulto,Prefiero no indicarlo,Jubilado
+2154,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2155,35 - 44 años,Adulto,Femenino,Comerciante
+2156,45 - 54 años,Adulto Mayor,Femenino,Empresario
+2157,Menos de 18 años,Juvenil,Masculino,Estudiante
+2158,55 años o más,Senior,Masculino,Empleado público
+2159,18 - 24 años,Joven Adulto,Masculino,Jubilado
+2160,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2161,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2162,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2163,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2164,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2165,35 - 44 años,Adulto,Femenino,Estudiante
+2166,55 años o más,Senior,Femenino,Empleado privado
+2167,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+2168,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2169,35 - 44 años,Adulto,Femenino,Profesional independiente
+2170,35 - 44 años,Adulto,Femenino,Empleado público
+2171,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2172,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2173,35 - 44 años,Adulto,Femenino,Profesional independiente
+2174,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2175,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2176,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2177,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2178,45 - 54 años,Adulto Mayor,Masculino,Otro
+2179,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2180,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+2181,55 años o más,Senior,Masculino,Estudiante
+2182,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2183,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2184,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2185,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+2186,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2187,18 - 24 años,Joven Adulto,Masculino,Empleado público
+2188,35 - 44 años,Adulto,Masculino,Empleado privado
+2189,55 años o más,Senior,Masculino,Estudiante
+2190,25 - 34 años,Adulto Joven,Femenino,Ama de casa
+2191,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Empleado privado
+2192,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2193,Menos de 18 años,Juvenil,Masculino,Jubilado
+2194,25 - 34 años,Adulto Joven,Masculino,Empresario
+2195,35 - 44 años,Adulto,Masculino,Comerciante
+2196,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2197,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2198,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2200,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2201,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2202,18 - 24 años,Joven Adulto,Masculino,Empresario
+2203,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2204,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2205,55 años o más,Senior,Femenino,Comerciante
+2206,18 - 24 años,Joven Adulto,Femenino,No especificado
+2207,35 - 44 años,Adulto,Femenino,Empleado privado
+2208,Menos de 18 años,Juvenil,Femenino,Estudiante
+2209,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2210,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2211,35 - 44 años,Adulto,Femenino,Empleado público
+2212,25 - 34 años,Adulto Joven,Femenino,Jubilado
+2213,18 - 24 años,Joven Adulto,Femenino,Jubilado
+2214,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+2215,25 - 34 años,Adulto Joven,Masculino,Empresario
+2216,25 - 34 años,Adulto Joven,Femenino,No especificado
+2217,25 - 34 años,Adulto Joven,Femenino,Otro
+2218,55 años o más,Senior,Masculino,Empleado privado
+2219,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empleado privado
+2220,35 - 44 años,Adulto,Masculino,Estudiante
+2221,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2222,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+2223,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2224,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2225,18 - 24 años,Joven Adulto,Masculino,Otro
+2226,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2227,Menos de 18 años,Juvenil,Masculino,Empleado privado
+2228,45 - 54 años,Adulto Mayor,Masculino,Profesional independiente
+2229,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2230,Menos de 18 años,Juvenil,Femenino,Estudiante
+2231,35 - 44 años,Adulto,Femenino,Comerciante
+2232,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2233,55 años o más,Senior,Femenino,Estudiante
+2234,18 - 24 años,Joven Adulto,Femenino,Otro
+2235,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2236,45 - 54 años,Adulto Mayor,Masculino,Ama de casa
+2237,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2238,35 - 44 años,Adulto,Masculino,Estudiante
+2239,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2240,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+2241,35 - 44 años,Adulto,Femenino,Empresario
+2242,45 - 54 años,Adulto Mayor,Masculino,Otro
+2243,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2244,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2245,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2246,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2247,Menos de 18 años,Juvenil,Masculino,No especificado
+2248,Menos de 18 años,Juvenil,Femenino,Ama de casa
+2249,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2250,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2251,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2252,55 años o más,Senior,Masculino,Empleado privado
+2253,45 - 54 años,Adulto Mayor,Prefiero no indicarlo,Otro
+2254,25 - 34 años,Adulto Joven,Masculino,Empresario
+2255,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2256,25 - 34 años,Adulto Joven,Femenino,Empresario
+2257,55 años o más,Senior,Prefiero no indicarlo,Estudiante
+2258,35 - 44 años,Adulto,Masculino,Comerciante
+2259,25 - 34 años,Adulto Joven,Femenino,Otro
+2260,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2261,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2262,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2263,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2264,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2265,Menos de 18 años,Juvenil,Femenino,Comerciante
+2266,35 - 44 años,Adulto,Femenino,Empresario
+2267,45 - 54 años,Adulto Mayor,Femenino,Otro
+2268,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2269,18 - 24 años,Joven Adulto,Femenino,Empleado público
+2270,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2271,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+2272,35 - 44 años,Adulto,Femenino,Empleado privado
+2273,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2274,35 - 44 años,Adulto,Femenino,Estudiante
+2275,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2276,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2277,55 años o más,Senior,Prefiero no indicarlo,Empleado público
+2278,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+2279,55 años o más,Senior,Masculino,Profesional independiente
+2280,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2281,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Empleado privado
+2282,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+2283,35 - 44 años,Adulto,Femenino,Estudiante
+2284,Menos de 18 años,Juvenil,Femenino,Comerciante
+2285,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2286,25 - 34 años,Adulto Joven,Masculino,Empleado público
+2287,55 años o más,Senior,Femenino,Ama de casa
+2288,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+2289,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2290,18 - 24 años,Joven Adulto,Masculino,Comerciante
+2291,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2292,Menos de 18 años,Juvenil,Femenino,Comerciante
+2293,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2294,55 años o más,Senior,Masculino,Empleado privado
+2295,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2296,25 - 34 años,Adulto Joven,Masculino,Empresario
+2297,25 - 34 años,Adulto Joven,Masculino,Empresario
+2298,Menos de 18 años,Juvenil,Femenino,No especificado
+2299,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2300,Menos de 18 años,Juvenil,Masculino,Empleado privado
+2301,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2302,35 - 44 años,Adulto,Masculino,Empleado privado
+2303,35 - 44 años,Adulto,Femenino,Empleado privado
+2304,45 - 54 años,Adulto Mayor,Femenino,Profesional independiente
+2305,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+2306,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Ama de casa
+2307,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2308,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2309,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2310,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2311,35 - 44 años,Adulto,Masculino,Comerciante
+2312,45 - 54 años,Adulto Mayor,Masculino,Empresario
+2313,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+2314,35 - 44 años,Adulto,Femenino,Comerciante
+2315,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empresario
+2316,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2317,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2318,45 - 54 años,Adulto Mayor,Femenino,Empresario
+2319,35 - 44 años,Adulto,Femenino,Empleado privado
+2320,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2321,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2322,35 - 44 años,Adulto,Masculino,Comerciante
+2323,55 años o más,Senior,Masculino,Comerciante
+2324,Menos de 18 años,Juvenil,Femenino,Empleado público
+2325,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2326,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2327,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2328,35 - 44 años,Adulto,Femenino,Comerciante
+2329,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2331,18 - 24 años,Joven Adulto,Prefiero no indicarlo,Empleado privado
+2332,55 años o más,Senior,Femenino,Empleado privado
+2333,25 - 34 años,Adulto Joven,Femenino,Empleado público
+2334,55 años o más,Senior,Masculino,Estudiante
+2335,55 años o más,Senior,Femenino,Empleado privado
+2336,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2337,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2338,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2339,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+2340,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+2341,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2342,Menos de 18 años,Juvenil,Masculino,Ama de casa
+2343,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2344,55 años o más,Senior,Masculino,Profesional independiente
+2345,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2346,35 - 44 años,Adulto,Prefiero no indicarlo,Comerciante
+2347,Menos de 18 años,Juvenil,Masculino,Ama de casa
+2348,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2349,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2350,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2351,35 - 44 años,Adulto,Masculino,Profesional independiente
+2352,45 - 54 años,Adulto Mayor,Masculino,Empleado público
+2353,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2354,35 - 44 años,Adulto,Masculino,Comerciante
+2355,35 - 44 años,Adulto,Femenino,Estudiante
+2356,25 - 34 años,Adulto Joven,Femenino,Otro
+2357,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2358,35 - 44 años,Adulto,Masculino,Empleado público
+2359,35 - 44 años,Adulto,Masculino,Empleado privado
+2360,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2361,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2362,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2363,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2364,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2365,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2366,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2367,Menos de 18 años,Juvenil,Femenino,Empresario
+2368,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2369,35 - 44 años,Adulto,Masculino,Estudiante
+2370,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2371,35 - 44 años,Adulto,Femenino,Comerciante
+2372,35 - 44 años,Adulto,Femenino,Otro
+2373,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2374,35 - 44 años,Adulto,Femenino,Otro
+2375,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2376,35 - 44 años,Adulto,Femenino,Comerciante
+2377,35 - 44 años,Adulto,Femenino,Empresario
+2378,18 - 24 años,Joven Adulto,Masculino,Empresario
+2379,35 - 44 años,Adulto,Masculino,Comerciante
+2380,Menos de 18 años,Juvenil,Femenino,Empleado público
+2381,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2382,18 - 24 años,Joven Adulto,Masculino,Ama de casa
+2383,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2384,55 años o más,Senior,Femenino,Estudiante
+2385,Menos de 18 años,Juvenil,Masculino,Estudiante
+2386,45 - 54 años,Adulto Mayor,Femenino,Estudiante
+2387,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2388,35 - 44 años,Adulto,Femenino,Comerciante
+2389,35 - 44 años,Adulto,Femenino,Estudiante
+2390,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2391,18 - 24 años,Joven Adulto,Femenino,Comerciante
+2392,Menos de 18 años,Juvenil,Masculino,Estudiante
+2393,35 - 44 años,Adulto,Masculino,Empleado público
+2394,35 - 44 años,Adulto,Femenino,Empleado privado
+2395,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+2396,35 - 44 años,Adulto,Masculino,Empleado privado
+2397,25 - 34 años,Adulto Joven,Masculino,Empresario
+2398,18 - 24 años,Joven Adulto,Femenino,Ama de casa
+2399,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2400,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2401,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2402,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2403,Menos de 18 años,Juvenil,Masculino,Estudiante
+2404,18 - 24 años,Joven Adulto,Femenino,Empresario
+2406,25 - 34 años,Adulto Joven,Masculino,Empresario
+2407,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2408,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2409,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2410,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2411,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2412,35 - 44 años,Adulto,Masculino,Empleado privado
+2413,35 - 44 años,Adulto,Masculino,Empresario
+2414,35 - 44 años,Adulto,Masculino,Profesional independiente
+2415,25 - 34 años,Adulto Joven,Masculino,Ama de casa
+2416,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2417,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+2418,55 años o más,Senior,Femenino,Profesional independiente
+2419,35 - 44 años,Adulto,Masculino,Estudiante
+2420,25 - 34 años,Adulto Joven,Prefiero no indicarlo,Ama de casa
+2421,25 - 34 años,Adulto Joven,Femenino,Estudiante
+2422,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2423,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2424,35 - 44 años,Adulto,Prefiero no indicarlo,Empleado privado
+2425,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2426,Menos de 18 años,Juvenil,Masculino,Empleado privado
+2427,55 años o más,Senior,Masculino,Comerciante
+2428,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2429,25 - 34 años,Adulto Joven,Masculino,Profesional independiente
+2430,25 - 34 años,Adulto Joven,Femenino,Empresario
+2431,35 - 44 años,Adulto,Masculino,Comerciante
+2432,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2433,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2434,35 - 44 años,Adulto,Masculino,Empleado privado
+2435,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2436,18 - 24 años,Joven Adulto,Masculino,Empleado privado
+2437,25 - 34 años,Adulto Joven,Femenino,Jubilado
+2438,25 - 34 años,Adulto Joven,Femenino,Profesional independiente
+2440,18 - 24 años,Joven Adulto,Masculino,Empresario
+2441,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2442,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2443,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2444,Menos de 18 años,Juvenil,Prefiero no indicarlo,Empleado privado
+2445,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2446,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2447,Menos de 18 años,Juvenil,Masculino,Empleado público
+2448,18 - 24 años,Joven Adulto,Femenino,Estudiante
+2449,55 años o más,Senior,Femenino,Estudiante
+2450,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2451,18 - 24 años,Joven Adulto,Femenino,Empleado público
+2452,Menos de 18 años,Juvenil,Femenino,Empresario
+2453,35 - 44 años,Adulto,Masculino,Empleado privado
+2454,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2455,55 años o más,Senior,Masculino,Profesional independiente
+2456,18 - 24 años,Joven Adulto,Femenino,Profesional independiente
+2457,25 - 34 años,Adulto Joven,Femenino,Empleado público
+2458,25 - 34 años,Adulto Joven,Femenino,No especificado
+2459,25 - 34 años,Adulto Joven,Masculino,Estudiante
+2460,35 - 44 años,Adulto,Femenino,Estudiante
+2461,Menos de 18 años,Juvenil,Masculino,Ama de casa
+2462,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2463,35 - 44 años,Adulto,Masculino,Otro
+2464,Menos de 18 años,Juvenil,Femenino,Profesional independiente
+2465,18 - 24 años,Joven Adulto,Masculino,Empleado público
+2466,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2467,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2468,55 años o más,Senior,Femenino,Profesional independiente
+2469,45 - 54 años,Adulto Mayor,Masculino,Comerciante
+2470,35 - 44 años,Adulto,Femenino,Empresario
+2471,25 - 34 años,Adulto Joven,Masculino,Comerciante
+2472,25 - 34 años,Adulto Joven,Femenino,Empleado privado
+2473,45 - 54 años,Adulto Mayor,Femenino,Empleado privado
+2474,Menos de 18 años,Juvenil,Femenino,Estudiante
+2475,18 - 24 años,Joven Adulto,Masculino,Estudiante
+2476,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2477,35 - 44 años,Adulto,Masculino,Empleado privado
+2479,45 - 54 años,Adulto Mayor,Femenino,Comerciante
+2480,35 - 44 años,Adulto,Femenino,Estudiante
+2481,18 - 24 años,Joven Adulto,Femenino,Empleado privado
+2482,35 - 44 años,Adulto,Masculino,Comerciante
+2483,35 - 44 años,Adulto,Femenino,Estudiante
+2484,25 - 34 años,Adulto Joven,Femenino,Comerciante
+2485,55 años o más,Senior,Masculino,Profesional independiente
+2486,35 - 44 años,Adulto,Femenino,Estudiante
+2487,Menos de 18 años,Juvenil,Prefiero no indicarlo,Estudiante
+2488,35 - 44 años,Adulto,Femenino,Empresario
+2489,Menos de 18 años,Juvenil,Femenino,Empleado privado
+2490,18 - 24 años,Joven Adulto,Masculino,Profesional independiente
+2491,45 - 54 años,Adulto Mayor,Masculino,Estudiante
+2492,Menos de 18 años,Juvenil,Femenino,Empresario
+2493,35 - 44 años,Adulto,Masculino,Estudiante
+2494,45 - 54 años,Adulto Mayor,Masculino,Empleado privado
+2495,Menos de 18 años,Juvenil,Femenino,Empresario
+2496,25 - 34 años,Adulto Joven,Masculino,Empleado privado
+2497,45 - 54 años,Adulto Mayor,Masculino,Empresario
+2498,Menos de 18 años,Juvenil,Masculino,Profesional independiente
+2499,45 - 54 años,Adulto Mayor,Femenino,Empleado público
+2500,35 - 44 años,Adulto,Femenino,Empleado privado

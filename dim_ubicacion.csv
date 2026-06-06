@@ -1,0 +1,2476 @@
+﻿id_ubicacion,Departamento,Municipio
+1,Guatemala,Santa Catarina Pinula
+2,Guatemala,Santa Catarina Pinula
+3,Alta Verapaz,Alta Verapaz
+4,Guatemala,San Miguel Petapa
+5,Guatemala,San Miguel Petapa
+6,Quetzaltenango,Olintepeque
+7,Sacatepéquez,CIUDAD VIEJA
+8,Guatemala,Villa Nueva
+9,Chimaltenango,Chimaltenango
+10,Guatemala,Guatemala
+11,Suchitepéquez,Suchitepéquez
+12,Quetzaltenango,Quetzaltenango
+13,Chiquimula,Chiquimula
+14,Quiché,Otro municipio
+15,Retalhuleu,Otro municipio
+16,Sacatepéquez,Jocotenango
+17,Guatemala,Guatemala
+18,Guatemala,Santa Catarina Pinula
+19,Santa Rosa,Otro municipio
+20,Guatemala,San Miguel Petapa
+21,Jutiapa,Jutiapa
+22,Jalapa,Otro municipio
+23,Guatemala,Guatemala
+24,Guatemala,San Miguel Petapa
+25,Guatemala,Santa Catarina Pinula
+26,Petén,Poptún
+27,Chimaltenango,Tecpán Guatemala
+28,Chimaltenango,Chimaltenango
+29,Guatemala,San Miguel Petapa
+30,Guatemala,San Miguel Petapa
+31,Sacatepéquez,Ciudad Vieja
+32,Escuintla,Santa Lucía Cotzumalguapa
+33,Escuintla,Escuintla
+34,Chimaltenango,Tecpán Guatemala
+35,Guatemala,Guatemala
+36,El Progreso,Cabecera municipal
+37,Quiché,Otro municipio
+38,Guatemala,SAN MIGUEL PETAPA
+39,Chiquimula,Cabecera municipal
+40,Quiché,Cabecera municipal
+41,Quetzaltenango,Olintepeque
+42,Escuintla,Santa Lucía Cotzumalguapa
+43,GUATEMALA,Villa Nueva
+44,Guatemala,Villa Nueva
+45,Guatemala,Mixco
+46,Quetzaltenango,Olintepeque
+47,Guatemala,Guatemala
+48,Chimaltenango,Chimaltenango
+49,Totonicapán,Totonicapán
+50,Escuintla,Escuintla
+51,Chimaltenango,Chimaltenango
+52,Sololá,Otro municipio
+53,Sololá,OTRO MUNICIPIO
+54,Guatemala,Santa Catarina Pinula
+55,QUETZALTENANGO,No especificado
+56,Escuintla,Escuintla
+57,Guatemala,Mixco
+58,Quetzaltenango,Coatepeque
+59,Guatemala,Santa Catarina Pinula
+60,Guatemala,Santa Catarina Pinula
+61,Guatemala,Mixco
+62,Escuintla,Palín
+63,Santa Rosa,Otro municipio
+64,San Marcos,Otro municipio
+65,El Progreso,El Progreso
+66,Guatemala,Santa Catarina Pinula
+67,Guatemala,San Miguel Petapa
+68,ESCUINTLA,Escuintla
+69,Guatemala,Mixco
+70,Guatemala,Villa Nueva
+71,ESCUINTLA,Escuintla
+72,Guatemala,Mixco
+73,Guatemala,Villa Nueva
+74,Guatemala,Guatemala
+75,Quetzaltenango,Olintepeque
+76,Guatemala,San Miguel Petapa
+77,Retalhuleu,Otro municipio
+78,Guatemala,Santa Catarina Pinula
+79,Guatemala,Mixco
+80,Guatemala,Guatemala
+81,Retalhuleu,Otro municipio
+82,Guatemala,Villa Nueva
+83,Quetzaltenango,Coatepeque
+84,Guatemala,San Miguel Petapa
+85,Guatemala,San Miguel Petapa
+86,Quetzaltenango,Olintepeque
+87,Chimaltenango,Tecpán Guatemala
+88,Quetzaltenango,Coatepeque
+89,Guatemala,Guatemala
+90,Guatemala,No especificado
+91,Petén,Flores
+92,Guatemala,Guatemala
+93,Guatemala,Guatemala
+94,Guatemala,San Miguel Petapa
+95,Guatemala,Guatemala
+96,Alta Verapaz,Cabecera municipal
+97,El Progreso,El Progreso
+98,Guatemala,Mixco
+99,Totonicapán,Otro municipio
+100,Escuintla,Santa Lucía Cotzumalguapa
+101,Escuintla,Escuintla
+102,Escuintla,Palín
+103,Alta Verapaz,Otro municipio
+104,Guatemala,San Miguel Petapa
+105,Guatemala,Villa Nueva
+106,El Progreso,Otro municipio
+107,Guatemala,Villa Nueva
+108,Sacatepéquez,Ciudad Vieja
+109,Guatemala,Villa Nueva
+110,Escuintla,Escuintla
+111,Escuintla,Santa Lucía Cotzumalguapa
+112,Alta Verapaz,Alta Verapaz
+113,Sololá,Cabecera municipal
+114,Izabal,Izabal
+115,Guatemala,Mixco
+116,El Progreso,El Progreso
+117,Zacapa,Zacapa
+118,Guatemala,Santa Catarina Pinula
+119,Guate,Santa Catarina Pinula
+120,Guatemala,Guatemala
+121,CHIQUIMULA,Chiquimula
+122,Huehuetenango,Huehuetenango
+123,Chimaltenango,CHIMALTENANGO
+124,Sacatepéquez,Antigua Guatemala
+125,Guatemala,Santa Catarina Pinula
+126,Chimaltenango,Chimaltenango
+127,Escuintla,Palín
+128,Guatemala,Guatemala
+129,Petén,Poptún
+130,Escuintla,Santa Lucía Cotzumalguapa
+131,Guatemala,Santa Catarina Pinula
+132,Retalhuleu,Retalhuleu
+133,Sololá,Cabecera municipal
+134,Escuintla,Santa Lucía Cotzumalguapa
+135,Alta Verapaz,Otro municipio
+136,Zacapa,Cabecera municipal
+137,Quiché,Cabecera municipal
+138,Sacatepéquez,Sumpango
+139,Guatemala,Guatemala
+140,Guatemala,Guatemala
+141,Guatemala,Santa Catarina Pinula
+142,Guatemala,Mixco
+143,Guatemala,Mixco
+144,Quiché,Cabecera municipal
+145,Guatemala,Guatemala
+146,Quetzaltenango,Quetzaltenango
+147,Guatemala,Villa Nueva
+148,Escuintla,Santa Lucía Cotzumalguapa
+149,Guatemala,Villa Nueva
+150,Sacatepéquez,Antigua Guatemala
+151,Guatemala,San Miguel Petapa
+152,Guatemala,Mixco
+153,Quetzaltenango,Coatepeque
+154,Chimaltenango,Chimaltenango
+155,Guatemala,San Miguel Petapa
+156,Guatemala,Santa Catarina Pinula
+157,Escuintla,Palín
+158,Suchitepéquez,Otro municipio
+159,Chimaltenango,Patzún
+160,Guatemala,San Miguel Petapa
+161,Huehuetenango,Cabecera municipal
+162,Guatemala,Mixco
+163,Guatemala,Guatemala
+164,Quetzaltenango,Quetzaltenango
+165,Guatemala,GUATEMALA
+166,Zacapa,Otro municipio
+167,Guatemala,Mixco
+168,Chiquimula,Otro municipio
+169,Guatemala,Guatemala
+170,Guatemala,Santa Catarina Pinula
+171,Alta Verapaz,Cabecera municipal
+172,Guatemala,San Miguel Petapa
+173,Guatemala,Mixco
+174,Guatemala,Santa Catarina Pinula
+175,San Marcos,Cabecera municipal
+176,Guatemala,Guatemala
+177,Petén,San Benito
+178,Sacatepéquez,Antigua Guatemala
+179,Guatemala,San Miguel Petapa
+180,Guatemala,GUATEMALA
+181,Guatemala,San Miguel Petapa
+182,Sacatepéquez,Jocotenango
+183,Jalapa,Otro municipio
+184,Petén,San Benito
+185,Guatemala,Villa Nueva
+186,Guatemala,Mixco
+187,Escuintla,Santa Lucía Cotzumalguapa
+188,Santa Rosa,Otro municipio
+189,ZACAPA,Cabecera municipal
+190,Guatemala,Guatemala
+191,Escuintla,Escuintla
+192,Guatemala,Guatemala
+193,Baja Verapaz,Baja Verapaz
+194,Petén,Poptún
+195,Guatemala,Santa Catarina Pinula
+196,Escuintla,Escuintla
+197,Sacatepéquez,Antigua Guatemala
+198,Huehuetenango,Otro municipio
+199,Izabal,Cabecera municipal
+200,Escuintla,Escuintla
+201,Guatemala,Guatemala
+202,Baja Verapaz,Cabecera municipal
+203,Sololá,Cabecera municipal
+204,Escuintla,Santa Lucía Cotzumalguapa
+205,Guatemala,Guatemala
+206,Guatemala,Mixco
+207,Guatemala,San Miguel Petapa
+208,El Progreso,No especificado
+209,Guatemala,Mixco
+210,Guatemala,Mixco
+211,Baja Verapaz,Cabecera municipal
+212,Guatemala,Santa Catarina Pinula
+213,Guatemala,Guatemala
+214,Guatemala,Guatemala
+215,Escuintla,Escuintla
+216,Guatemala,Santa Catarina Pinula
+217,Escuintla,Escuintla
+218,Guatemala,Mixco
+219,Chimaltenango,Chimaltenango
+220,Alta Verapaz,Otro municipio
+221,Escuintla,Santa Lucía Cotzumalguapa
+222,Guatemala,San Miguel Petapa
+223,Guatemala,Mixco
+224,Chimaltenango,Tecpán Guatemala
+225,Guatemala,Santa Catarina Pinula
+226,Guatemala,San Miguel Petapa
+227,Alta Verapaz,Cabecera municipal
+228,Chimaltenango,CHIMALTENANGO
+229,Jalapa,Otro municipio
+230,Guatemala,Villa Nueva
+231,Guatemala,Santa Catarina Pinula
+232,Escuintla,Santa Lucía Cotzumalguapa
+233,Sacatepéquez,Ciudad Vieja
+234,Chimaltenango,Patzún
+235,GUATEMALA,San Miguel Petapa
+236,Guatemala,Guatemala
+237,Guatemala,Mixco
+238,Guatemala,Guatemala
+239,Guatemala,Villa Nueva
+240,Guatemala,Mixco
+241,Guatemala,San Miguel Petapa
+242,Guatemala,Villa Nueva
+243,Guatemala,Santa Catarina Pinula
+244,Guatemala,Santa Catarina Pinula
+245,Quetzaltenango,Olintepeque
+246,Guatemala,Santa Catarina Pinula
+247,Huehuetenango,Cabecera municipal
+248,Guatemala,Guatemala
+249,Quetzaltenango,Olintepeque
+250,Quetzaltenango,Olintepeque
+251,Guatemala,Guatemala
+252,Guatemala,Santa Catarina Pinula
+253,Chimaltenango,Tecpán Guatemala
+254,Guatemala,Santa Catarina Pinula
+255,Guatemala,San Miguel Petapa
+256,Santa Rosa,Cabecera municipal
+257,Guatemala,San Miguel Petapa
+258,Zacapa,Otro municipio
+259,Guatemala,Mixco
+260,Sacatepéquez,Jocotenango
+261,Chimaltenango,Tecpán Guatemala
+262,Quetzaltenango,Coatepeque
+263,Chimaltenango,Chimaltenango
+264,Guatemala,San Miguel Petapa
+265,Huehuetenango,Otro municipio
+266,Sololá,Cabecera municipal
+267,Jutiapa,Jutiapa
+268,Guatemala,Mixco
+269,GUATEMALA,Guatemala
+270,Huehuetenango,Otro municipio
+271,Guatemala,San Miguel Petapa
+272,Guatemala,Guatemala
+273,Baja Verapaz,Baja Verapaz
+274,Escuintla,Escuintla
+275,Guatemala,Santa Catarina Pinula
+276,Escuintla,Santa Lucía Cotzumalguapa
+277,Guatemala,San Miguel Petapa
+278,Guatemala,Mixco
+279,El Progreso,El Progreso
+280,Santa Rosa,Otro municipio
+281,Guatemala,Santa Catarina Pinula
+282,Huehuetenango,Cabecera municipal
+283,Guatemala,Mixco
+284,Guatemala,Guatemala
+285,Sololá,Otro municipio
+286,Escuintla,Santa Lucía Cotzumalguapa
+287,Escuintla,Escuintla
+288,Guatemala,Guatemala
+289,Quetzaltenango,COATEPEQUE
+290,Guatemala,San Miguel Petapa
+291,Baja Verapaz,Cabecera municipal
+1595,Guatemala,Villa Nueva
+293,Guatemala,Villa Nueva
+294,Guatemala,Villa Nueva
+295,Guatemala,San Miguel Petapa
+296,Quetzaltenango,Coatepeque
+297,Guatemala,Santa Catarina Pinula
+298,El Progreso,Otro municipio
+299,Guatemala,Guatemala
+300,Guatemala,San Miguel Petapa
+301,Chiquimula,Chiquimula
+302,Guatemala,San Miguel Petapa
+303,Guatemala,Villa Nueva
+304,Guatemala,Guatemala
+305,GUATEMALA,Santa Catarina Pinula
+306,Chiquimula,Otro municipio
+307,Quetzaltenango,Quetzaltenango
+308,Guatemala,San Miguel Petapa
+309,Quetzaltenango,Olintepeque
+310,Guatemala,Santa Catarina Pinula
+311,Baja Verapaz,Baja Verapaz
+312,Guatemala,Guatemala
+313,Quiché,Cabecera municipal
+314,Jalapa,Cabecera municipal
+315,Guatemala,Santa Catarina Pinula
+316,Guatemala,Guatemala
+317,Baja Verapaz,Baja Verapaz
+318,Quetzaltenango,Quetzaltenango
+319,Guatemala,Mixco
+320,Totonicapán,Otro municipio
+321,Suchitepéquez,Cabecera municipal
+322,Guatemala,Villa Nueva
+323,Guatemala,Villa Nueva
+324,Chimaltenango,Chimaltenango
+325,San Marcos,Otro municipio
+326,Baja Verapaz,Cabecera municipal
+327,Guatemala,San Miguel Petapa
+328,Chimaltenango,Tecpán Guatemala
+329,Petén,Poptún
+330,Guatemala,Villa Nueva
+331,Quetzaltenango,Coatepeque
+332,Chimaltenango,Chimaltenango
+333,Guatemala,Mixco
+334,Guatemala,Guatemala
+335,Petén,Flores
+336,Totonicapán,Totonicapán
+337,Escuintla,No especificado
+338,Alta Verapaz,Otro municipio
+339,Jalapa,Jalapa
+340,Chimaltenango,Patzún
+341,Baja Verapaz,No especificado
+342,Sololá,Cabecera municipal
+343,Santa Rosa,Santa Rosa
+344,Sacatepéquez,Antigua Guatemala
+345,Guatemala,Guatemala
+346,Sololá,Cabecera municipal
+347,Guatemala,San Miguel Petapa
+348,Guatemala,Mixco
+1960,Guatemala,Villa Nueva
+350,Santa Rosa,Cabecera municipal
+351,Guatemala,Santa Catarina Pinula
+352,Guatemala,Mixco
+353,San Marcos,Otro municipio
+354,Escuintla,Palín
+355,Guatemala,Guatemala
+356,Sacatepéquez,Jocotenango
+357,Sacatepéquez,Antigua Guatemala
+358,Izabal,Izabal
+359,Guatemala,Villa Nueva
+360,Sacatepéquez,Ciudad Vieja
+361,Guatemala,Santa Catarina Pinula
+362,Escuintla,Escuintla
+363,Guatemala,Santa Catarina Pinula
+364,Guatemala,Villa Nueva
+365,Petén,San Benito
+366,Guatemala,Villa Nueva
+367,Escuintla,Escuintla
+368,Escuintla,Escuintla
+369,Guatemala,Guatemala
+370,Quetzaltenango,No especificado
+371,Guatemala,Santa Catarina Pinula
+372,Guatemala,Santa Catarina Pinula
+373,Guatemala,Mixco
+374,Guatemala,Santa Catarina Pinula
+375,Quetzaltenango,Quetzaltenango
+376,Sacatepéquez,Antigua Guatemala
+377,Escuintla,Escuintla
+378,Izabal,Izabal
+379,Quetzaltenango,Olintepeque
+380,Escuintla,Santa Lucía Cotzumalguapa
+381,Guatemala,Villa Nueva
+382,Huehuetenango,Otro municipio
+383,Guatemala,Mixco
+384,Guatemala,San Miguel Petapa
+385,Guatemala,San Miguel Petapa
+386,Guatemala,No especificado
+387,Guatemala,Guatemala
+388,Guatemala,Santa Catarina Pinula
+389,Escuintla,Escuintla
+390,Guatemala,Mixco
+391,GUATEMALA,SANTA CATARINA PINULA
+392,Guatemala,Villa Nueva
+393,Guatemala,Guatemala
+394,Escuintla,Santa Lucía Cotzumalguapa
+395,Alta Verapaz,Cabecera municipal
+396,Chimaltenango,Patzún
+397,Guatemala,Santa Catarina Pinula
+398,Sacatepéquez,Ciudad Vieja
+399,Totonicapán,Totonicapán
+400,Quetzaltenango,Olintepeque
+401,Sacatepéquez,Jocotenango
+402,Guatemala,Villa Nueva
+403,Quetzaltenango,Coatepeque
+404,Chimaltenango,Patzún
+405,Guatemala,Villa Nueva
+406,Guatemala,Santa Catarina Pinula
+407,Chiquimula,Chiquimula
+408,Guatemala,San Miguel Petapa
+409,Petén,Poptún
+410,Guatemala,Guatemala
+411,Guatemala,Guatemala
+412,Quiché,Quiché
+413,Zacapa,Cabecera municipal
+414,Guatemala,Mixco
+415,Sacatepéquez,Antigua Guatemala
+416,Quetzaltenango,Quetzaltenango
+417,Jalapa,Jalapa
+418,Guate,Guatemala
+420,Quetzaltenango,Quetzaltenango
+421,Guatemala,San Miguel Petapa
+422,Guatemala,Guatemala
+423,Guatemala,Santa Catarina Pinula
+424,Sololá,Sololá
+425,Chimaltenango,Chimaltenango
+426,Huehuetenango,Cabecera municipal
+427,Guatemala,Mixco
+428,Guatemala,Mixco
+429,Chimaltenango,Chimaltenango
+430,Guatemala,Mixco
+431,Guatemala,Villa Nueva
+432,Jalapa,Cabecera municipal
+433,Escuintla,Santa Lucía Cotzumalguapa
+434,Chimaltenango,Patzún
+435,Guatemala,Mixco
+436,Quetzaltenango,Olintepeque
+437,Baja Verapaz,Cabecera municipal
+438,Guatemala,San Miguel Petapa
+439,Escuintla,Santa Lucía Cotzumalguapa
+440,Guatemala,San Miguel Petapa
+441,Baja Verapaz,Otro municipio
+442,Guatemala,San Miguel Petapa
+443,Jalapa,Otro municipio
+444,San Marcos,San Marcos
+445,Escuintla,Palín
+446,Escuintla,Palín
+447,Guatemala,Santa Catarina Pinula
+448,Escuintla,Escuintla
+449,Alta Verapaz,Cabecera municipal
+1193,Sacatepéquez,Sumpango
+451,Guatemala,Guatemala
+452,Suchitepéquez,Otro municipio
+453,QUICHÉ,Cabecera municipal
+454,Petén,San Benito
+455,Guatemala,Mixco
+456,Guatemala,Santa Catarina Pinula
+457,Guatemala,GUATEMALA
+458,Guatemala,Santa Catarina Pinula
+459,Quetzaltenango,QUETZALTENANGO
+460,Quiché,Cabecera municipal
+461,Retalhuleu,Otro municipio
+462,Sacatepéquez,Jocotenango
+463,Guatemala,San Miguel Petapa
+1049,SACATEPÉQUEZ,Antigua Guatemala
+465,Jutiapa,Otro municipio
+466,Escuintla,Palín
+467,Guatemala,Santa Catarina Pinula
+468,Quetzaltenango,Coatepeque
+469,Chimaltenango,Tecpán Guatemala
+470,CHIMALTENANGO,Chimaltenango
+471,Guatemala,Mixco
+472,Guatemala,Mixco
+473,Zacapa,Otro municipio
+2439,Guatemala,Mixco
+475,Quetzaltenango,Coatepeque
+476,Guatemala,Santa Catarina Pinula
+477,Guatemala,Guatemala
+478,Guatemala,Santa Catarina Pinula
+479,Totonicapán,Cabecera municipal
+480,Santa Rosa,Santa Rosa
+481,Guatemala,Santa Catarina Pinula
+482,Guatemala,Santa Catarina Pinula
+483,Izabal,Izabal
+484,El Progreso,Otro municipio
+485,GUATEMALA,Mixco
+486,Guatemala,Guatemala
+487,Jalapa,Jalapa
+488,Guatemala,San Miguel Petapa
+489,Jalapa,Cabecera municipal
+490,Chimaltenango,Patzún
+491,Guatemala,Villa Nueva
+492,Guatemala,Guatemala
+493,Chimaltenango,Patzún
+494,Guatemala,San Miguel Petapa
+495,Huehuetenango,Cabecera municipal
+496,Chimaltenango,Chimaltenango
+497,Chimaltenango,Tecpán Guatemala
+498,Escuintla,Palín
+499,El Progreso,El Progreso
+500,San Marcos,San Marcos
+501,CHIMALTENANGO,Patzún
+502,Suchitepéquez,Otro municipio
+503,Quetzaltenango,Coatepeque
+504,Quetzaltenango,Quetzaltenango
+505,Guatemala,Santa Catarina Pinula
+506,Guatemala,Guatemala
+507,Petén,San Benito
+508,Guatemala,Mixco
+509,Guatemala,Guatemala
+510,Guatemala,Villa Nueva
+511,Guatemala,Guatemala
+512,Suchitepéquez,No especificado
+513,Sacatepéquez,Antigua Guatemala
+514,Guatemala,Mixco
+515,Guatemala,Mixco
+516,Sacatepéquez,Sumpango
+517,Chimaltenango,Tecpán Guatemala
+518,Sacatepéquez,Sumpango
+519,Escuintla,Palín
+520,Guatemala,San Miguel Petapa
+521,Sacatepéquez,Jocotenango
+522,Zacapa,Cabecera municipal
+523,Quetzaltenango,Coatepeque
+524,Guatemala,Villa Nueva
+525,Guatemala,Mixco
+526,Guatemala,Santa Catarina Pinula
+527,Jutiapa,Jutiapa
+528,Sololá,Otro municipio
+529,Guatemala,Villa Nueva
+530,Retalhuleu,CABECERA MUNICIPAL
+531,Jalapa,Otro municipio
+532,Guatemala,San Miguel Petapa
+533,Guatemala,Villa Nueva
+534,Guatemala,San Miguel Petapa
+535,Sacatepéquez,Antigua Guatemala
+536,Chimaltenango,Chimaltenango
+537,Escuintla,Santa Lucía Cotzumalguapa
+538,Guatemala,San Miguel Petapa
+539,Guatemala,VILLA NUEVA
+540,San Marcos,Cabecera municipal
+541,Guatemala,San Miguel Petapa
+542,Guatemala,San Miguel Petapa
+543,Guatemala,San Miguel Petapa
+544,Quetzaltenango,No especificado
+545,Quetzaltenango,Quetzaltenango
+546,GUATEMALA,Villa Nueva
+547,Guatemala,Santa Catarina Pinula
+548,Sacatepéquez,Jocotenango
+549,Guatemala,Santa Catarina Pinula
+550,Guatemala,San Miguel Petapa
+551,Izabal,Izabal
+552,Quetzaltenango,Coatepeque
+553,El Progreso,Cabecera municipal
+554,Guatemala,San Miguel Petapa
+555,Baja Verapaz,Baja Verapaz
+556,Suchitepéquez,Suchitepéquez
+557,Sacatepéquez,Antigua Guatemala
+558,Jutiapa,Otro municipio
+559,Escuintla,Palín
+560,Guatemala,Villa Nueva
+561,Guatemala,Guatemala
+562,Sacatepéquez,Ciudad Vieja
+563,Quetzaltenango,Olintepeque
+564,Chimaltenango,Chimaltenango
+565,Guatemala,Villa Nueva
+566,Huehuetenango,Otro municipio
+567,Guatemala,San Miguel Petapa
+568,Guatemala,VILLA NUEVA
+569,Guatemala,Villa Nueva
+570,Guatemala,San Miguel Petapa
+571,Guatemala,San Miguel Petapa
+572,Chimaltenango,Tecpán Guatemala
+573,Escuintla,Palín
+574,Guatemala,Mixco
+575,Izabal,Otro municipio
+576,El Progreso,Cabecera municipal
+577,Guatemala,Mixco
+578,Jalapa,Cabecera municipal
+579,Guatemala,Guatemala
+580,Guatemala,San Miguel Petapa
+581,Guatemala,No especificado
+582,Suchitepéquez,Suchitepéquez
+583,Guatemala,Mixco
+584,Chimaltenango,Patzún
+585,Sacatepéquez,Jocotenango
+586,Jutiapa,Jutiapa
+587,Zacapa,Cabecera municipal
+588,Escuintla,Escuintla
+589,Huehuetenango,Huehuetenango
+590,Quetzaltenango,Coatepeque
+591,Guatemala,Santa Catarina Pinula
+592,Quetzaltenango,Olintepeque
+593,Guatemala,Mixco
+594,Guatemala,Mixco
+595,Guatemala,San Miguel Petapa
+596,QUETZALTENANGO,Coatepeque
+597,Chimaltenango,Chimaltenango
+598,Sacatepéquez,Antigua Guatemala
+599,Guatemala,Villa Nueva
+600,Guatemala,Santa Catarina Pinula
+601,Suchitepéquez,Otro municipio
+602,Chimaltenango,Tecpán Guatemala
+603,Guatemala,San Miguel Petapa
+604,Chimaltenango,Patzún
+605,Chimaltenango,Tecpán Guatemala
+606,Quetzaltenango,Coatepeque
+607,Huehuetenango,Huehuetenango
+608,Guatemala,Mixco
+609,Quetzaltenango,Olintepeque
+1416,Huehuetenango,Otro municipio
+611,Jalapa,Otro municipio
+612,Guatemala,Villa Nueva
+613,Escuintla,Palín
+614,Guatemala,SANTA CATARINA PINULA
+615,Guatemala,Villa Nueva
+1472,Chimaltenango,Chimaltenango
+617,Jutiapa,Otro municipio
+618,Sololá,Sololá
+619,Sacatepéquez,Jocotenango
+620,San Marcos,Cabecera municipal
+621,Escuintla,Escuintla
+622,GUATEMALA,Villa Nueva
+623,Guatemala,Villa Nueva
+624,Petén,Poptún
+625,Izabal,Otro municipio
+626,Guatemala,Mixco
+627,Guatemala,Mixco
+628,Guatemala,Mixco
+629,Izabal,Cabecera municipal
+630,Baja Verapaz,Baja Verapaz
+631,Guatemala,Guatemala
+632,GUATEMALA,Mixco
+633,Sacatepéquez,Jocotenango
+634,Chimaltenango,Chimaltenango
+635,Guatemala,Villa Nueva
+636,Jutiapa,Jutiapa
+637,Escuintla,Santa Lucía Cotzumalguapa
+638,Sacatepéquez,Antigua Guatemala
+639,Guatemala,Villa Nueva
+640,El Progreso,Otro municipio
+641,Jutiapa,Cabecera municipal
+642,San Marcos,San Marcos
+643,Baja Verapaz,Cabecera municipal
+644,Guatemala,Mixco
+645,Quetzaltenango,Olintepeque
+646,Quetzaltenango,Coatepeque
+647,Escuintla,Escuintla
+648,Guatemala,Santa Catarina Pinula
+649,Guatemala,Villa Nueva
+650,Suchitepéquez,Otro municipio
+651,Guatemala,Villa Nueva
+652,Chimaltenango,Tecpán Guatemala
+653,Alta Verapaz,Otro municipio
+654,Chimaltenango,Tecpán Guatemala
+655,Guatemala,No especificado
+656,Xela,Olintepeque
+657,Guatemala,Santa Catarina Pinula
+658,Chimaltenango,Tecpán Guatemala
+659,Quiché,No especificado
+660,Guatemala,Guatemala
+661,Zacapa,Cabecera municipal
+662,Guatemala,San Miguel Petapa
+663,Chimaltenango,Chimaltenango
+664,Sacatepéquez,Antigua Guatemala
+665,Chimaltenango,Tecpán Guatemala
+666,Guatemala,Mixco
+667,Chimaltenango,PATZÚN
+668,Baja Verapaz,Baja Verapaz
+669,Guatemala,San Miguel Petapa
+670,Guatemala,Guatemala
+671,CHIMALTENANGO,Patzún
+672,Alta Verapaz,Alta Verapaz
+673,Guatemala,Santa Catarina Pinula
+674,El Progreso,El Progreso
+675,Escuintla,Palín
+676,Retalhuleu,Retalhuleu
+677,Suchitepéquez,Cabecera municipal
+678,Guatemala,Santa Catarina Pinula
+679,Sacatepéquez,Ciudad Vieja
+680,Escuintla,Palín
+681,Retalhuleu,Retalhuleu
+682,Guatemala,Santa Catarina Pinula
+683,Sololá,Cabecera municipal
+684,Suchitepéquez,Otro municipio
+685,Jutiapa,Otro municipio
+686,Escuintla,Santa Lucía Cotzumalguapa
+687,Sacatepéquez,Jocotenango
+688,Guatemala,San Miguel Petapa
+689,Suchitepéquez,Cabecera municipal
+1961,Guatemala,Guatemala
+691,Huehuetenango,No especificado
+692,Sololá,Sololá
+693,Guatemala,Villa Nueva
+694,Guatemala,Villa Nueva
+695,El Progreso,Cabecera municipal
+696,Guatemala,Mixco
+697,Santa Rosa,Cabecera municipal
+698,Chimaltenango,Patzún
+699,Alta Verapaz,Cabecera municipal
+700,Guatemala,Guatemala
+701,Totonicapán,Otro municipio
+702,Guatemala,Mixco
+703,Guatemala,San Miguel Petapa
+704,Guatemala,Guatemala
+705,Sacatepéquez,Ciudad Vieja
+706,Guatemala,Guatemala
+707,Guatemala,Guatemala
+708,Guatemala,nan
+709,El Progreso,Cabecera municipal
+710,Chimaltenango,Chimaltenango
+711,Sacatepéquez,Antigua Guatemala
+712,Sacatepéquez,Antigua Guatemala
+713,Guatemala,San Miguel Petapa
+714,Guatemala,Villa Nueva
+715,Escuintla,Palín
+716,Escuintla,Escuintla
+717,PETÉN,San Benito
+718,Guatemala,San Miguel Petapa
+719,Guatemala,No especificado
+720,Jalapa,Cabecera municipal
+721,Escuintla,Santa Lucía Cotzumalguapa
+722,Guatemala,Santa Catarina Pinula
+723,Sacatepéquez,Sumpango
+724,Guatemala,Villa Nueva
+725,Guatemala,Villa Nueva
+726,HUEHUETENANGO,Otro municipio
+727,Guatemala,Guatemala
+728,Guatemala,San Miguel Petapa
+729,Quetzaltenango,Coatepeque
+730,Totonicapán,Cabecera municipal
+731,Sacatepéquez,Sumpango
+732,Quetzaltenango,Coatepeque
+733,Guatemala,Santa Catarina Pinula
+734,Guatemala,San Miguel Petapa
+735,Sacatepéquez,Sumpango
+736,Guatemala,San Miguel Petapa
+737,San Marcos,Cabecera municipal
+738,Chimaltenango,Patzún
+739,Sacatepéquez,Jocotenango
+740,Quetzaltenango,Coatepeque
+741,Sacatepéquez,Sumpango
+742,ESCUINTLA,PALÍN
+743,Guatemala,Guatemala
+744,Guatemala,Villa Nueva
+745,Xela,Coatepeque
+746,Guatemala,Villa Nueva
+747,El Progreso,Otro municipio
+748,Quetzaltenango,Olintepeque
+749,Suchitepéquez,Suchitepéquez
+750,Sacatepéquez,Ciudad Vieja
+751,Santa Rosa,Santa Rosa
+752,Chimaltenango,Chimaltenango
+753,Escuintla,Escuintla
+754,Guatemala,Villa Nueva
+755,Guatemala,Mixco
+756,Suchitepéquez,Cabecera municipal
+757,Chimaltenango,Patzún
+758,Guatemala,Guatemala
+759,Escuintla,SANTA LUCÍA COTZUMALGUAPA
+760,Guatemala,Mixco
+761,Huehuetenango,Otro municipio
+762,Guatemala,Guatemala
+763,Guatemala,GUATEMALA
+764,Quetzaltenango,Coatepeque
+765,Guatemala,San Miguel Petapa
+766,Alta Verapaz,CABECERA MUNICIPAL
+767,Jalapa,No especificado
+768,Chimaltenango,Patzún
+769,Guatemala,San Miguel Petapa
+770,Sacatepéquez,Ciudad Vieja
+771,Guatemala,San Miguel Petapa
+772,Guatemala,San Miguel Petapa
+773,Jutiapa,Cabecera municipal
+774,Guatemala,Santa Catarina Pinula
+775,Baja Verapaz,Otro municipio
+776,Jutiapa,Otro municipio
+777,Guatemala,San Miguel Petapa
+778,Guatemala,Guatemala
+779,Quetzaltenango,Olintepeque
+780,Guatemala,Guatemala
+781,Guatemala,San Miguel Petapa
+782,Retalhuleu,Otro municipio
+783,Guatemala,Guatemala
+784,Izabal,Izabal
+785,Sacatepéquez,Sumpango
+786,Baja Verapaz,Baja Verapaz
+787,Sacatepéquez,Ciudad Vieja
+788,Guatemala,Santa Catarina Pinula
+789,Sacatepéquez,Ciudad Vieja
+790,Santa Rosa,Santa Rosa
+791,Guatemala,Mixco
+792,Chimaltenango,Patzún
+793,Sacatepéquez,Sumpango
+794,Guatemala,Santa Catarina Pinula
+795,CHIMALTENANGO,Patzún
+796,Quetzaltenango,Quetzaltenango
+797,Quiché,Cabecera municipal
+798,GUATEMALA,Santa Catarina Pinula
+799,Guatemala,Mixco
+800,Guatemala,Guatemala
+801,Sacatepéquez,Ciudad Vieja
+802,Sacatepéquez,Sumpango
+803,Escuintla,Santa Lucía Cotzumalguapa
+804,Quetzaltenango,Coatepeque
+805,Escuintla,Palín
+806,Huehuetenango,Cabecera municipal
+807,Sacatepéquez,Ciudad Vieja
+808,Baja Verapaz,Otro municipio
+809,Guatemala,San Miguel Petapa
+810,Quetzaltenango,Coatepeque
+811,Sacatepéquez,Sumpango
+812,Guatemala,San Miguel Petapa
+813,Suchitepéquez,Cabecera municipal
+814,Huehuetenango,Huehuetenango
+815,Escuintla,Santa Lucía Cotzumalguapa
+816,Guatemala,Santa Catarina Pinula
+817,El Progreso,Cabecera municipal
+818,Guatemala,San Miguel Petapa
+819,Sacatepéquez,CIUDAD VIEJA
+820,Baja Verapaz,Baja Verapaz
+821,Chimaltenango,Chimaltenango
+822,Chimaltenango,Patzún
+823,Guatemala,Mixco
+824,Quetzaltenango,Olintepeque
+825,Guatemala,Guatemala
+826,Suchitepéquez,CABECERA MUNICIPAL
+827,Jalapa,Cabecera municipal
+828,Zacapa,Cabecera municipal
+829,Santa Rosa,Cabecera municipal
+830,Izabal,Cabecera municipal
+831,Chiquimula,Cabecera municipal
+832,SOLOLÁ,Cabecera municipal
+833,Guatemala,Guatemala
+834,Chiquimula,Chiquimula
+835,Chimaltenango,Patzún
+836,Sacatepéquez,Sumpango
+837,Guatemala,Santa Catarina Pinula
+838,Guatemala,San Miguel Petapa
+839,Jutiapa,Cabecera municipal
+840,Guatemala,San Miguel Petapa
+841,Guatemala,Santa Catarina Pinula
+842,Chimaltenango,Chimaltenango
+843,Sacatepéquez,Jocotenango
+844,El Progreso,Otro municipio
+845,SACATEPÉQUEZ,Sumpango
+846,Guatemala,Villa Nueva
+847,Guatemala,VILLA NUEVA
+848,Guatemala,Guatemala
+849,Totonicapán,Totonicapán
+850,Guatemala,Santa Catarina Pinula
+851,Escuintla,Escuintla
+852,Guatemala,No especificado
+853,Jalapa,Cabecera municipal
+854,Chimaltenango,Patzún
+855,Sacatepéquez,SUMPANGO
+856,Sacatepéquez,Sumpango
+857,Guatemala,Villa Nueva
+858,Suchitepéquez,Otro municipio
+859,Sacatepéquez,Antigua Guatemala
+860,Sacatepéquez,CIUDAD VIEJA
+861,Guatemala,Villa Nueva
+862,Escuintla,Palín
+863,Guatemala,Mixco
+864,Guatemala,Villa Nueva
+865,Chimaltenango,Patzún
+866,Guatemala,Mixco
+867,Escuintla,Palín
+868,Guatemala,Guatemala
+869,Sacatepéquez,Antigua Guatemala
+870,Alta Verapaz,Otro municipio
+871,Escuintla,Palín
+872,Guatemala,Guatemala
+873,Guatemala,Mixco
+874,Guatemala,Guatemala
+875,Guatemala,Mixco
+876,Chimaltenango,Patzún
+877,Guatemala,Villa Nueva
+878,Chimaltenango,Patzún
+879,Petén,San Benito
+880,Guatemala,Santa Catarina Pinula
+881,Huehuetenango,Cabecera municipal
+882,Chimaltenango,Chimaltenango
+883,Guatemala,Mixco
+884,Guatemala,Mixco
+885,San Marcos,Cabecera municipal
+886,GUATEMALA,Villa Nueva
+888,Quetzaltenango,Olintepeque
+889,San Marcos,San Marcos
+890,Guatemala,Mixco
+891,Guatemala,Mixco
+892,Chiquimula,Otro municipio
+893,El Progreso,Otro municipio
+894,Guatemala,Santa Catarina Pinula
+895,Guatemala,San Miguel Petapa
+896,Guatemala,San Miguel Petapa
+897,Jalapa,Jalapa
+898,Guatemala,Villa Nueva
+899,Guatemala,Guatemala
+900,Suchitepéquez,Otro municipio
+901,Chimaltenango,Patzún
+902,Guatemala,San Miguel Petapa
+903,Guatemala,Guatemala
+904,Escuintla,Palín
+905,Alta Verapaz,Cabecera municipal
+906,Sacatepéquez,Ciudad Vieja
+907,Quetzaltenango,Olintepeque
+908,Escuintla,Escuintla
+909,Guatemala,Santa Catarina Pinula
+910,Sacatepéquez,Antigua Guatemala
+911,Guatemala,Mixco
+912,Escuintla,Escuintla
+913,Guatemala,Guatemala
+914,Suchitepéquez,Suchitepéquez
+915,Guatemala,Santa Catarina Pinula
+916,Chimaltenango,Patzún
+917,Guatemala,Mixco
+918,Guatemala,Villa Nueva
+919,Guatemala,San Miguel Petapa
+920,Sacatepéquez,Sumpango
+921,Guatemala,Mixco
+922,Escuintla,Santa Lucía Cotzumalguapa
+923,Guatemala,Santa Catarina Pinula
+924,Quetzaltenango,Coatepeque
+925,Chimaltenango,Chimaltenango
+926,Jalapa,Jalapa
+927,ZACAPA,OTRO MUNICIPIO
+928,Guatemala,Villa Nueva
+929,Baja Verapaz,Otro municipio
+930,Retalhuleu,Retalhuleu
+931,Guatemala,SAN MIGUEL PETAPA
+932,Alta Verapaz,Alta Verapaz
+933,San Marcos,Cabecera municipal
+934,Quetzaltenango,Olintepeque
+935,Guatemala,Mixco
+936,Totonicapán,No especificado
+937,Guatemala,Santa Catarina Pinula
+939,Chimaltenango,Chimaltenango
+940,Guatemala,Guatemala
+941,Sacatepéquez,Jocotenango
+942,Sacatepéquez,Jocotenango
+943,Guatemala,Santa Catarina Pinula
+944,Guatemala,Santa Catarina Pinula
+945,Guatemala,Villa Nueva
+946,Quetzaltenango,Olintepeque
+947,Chimaltenango,Patzún
+948,Chimaltenango,Tecpán Guatemala
+949,RETALHULEU,Cabecera municipal
+950,Escuintla,Palín
+951,Guate,Santa Catarina Pinula
+952,Guatemala,San Miguel Petapa
+953,Sacatepéquez,No especificado
+954,Sacatepéquez,Jocotenango
+955,Quetzaltenango,Olintepeque
+956,SUCHITEPÉQUEZ,Cabecera municipal
+957,Quetzaltenango,QUETZALTENANGO
+958,Huehuetenango,Cabecera municipal
+959,Guatemala,GUATEMALA
+960,Guatemala,San Miguel Petapa
+961,GUATEMALA,San Miguel Petapa
+962,Guatemala,Guatemala
+963,Izabal,Izabal
+964,Sacatepéquez,Antigua Guatemala
+965,Guatemala,Mixco
+966,Totonicapán,Otro municipio
+967,Sacatepéquez,Antigua Guatemala
+968,Chimaltenango,Patzún
+969,Escuintla,Palín
+970,Guatemala,Villa Nueva
+971,Escuintla,Santa Lucía Cotzumalguapa
+972,Guatemala,Villa Nueva
+973,Guatemala,Santa Catarina Pinula
+974,Guatemala,Guatemala
+975,Zacapa,Zacapa
+976,Guatemala,San Miguel Petapa
+977,Guatemala,Guatemala
+978,Petén,Poptún
+979,Guatemala,Villa Nueva
+980,Quetzaltenango,Coatepeque
+981,Baja Verapaz,Baja Verapaz
+982,Guatemala,Guatemala
+983,Quiché,Quiché
+984,Guatemala,Villa Nueva
+985,Guatemala,San Miguel Petapa
+986,Guatemala,San Miguel Petapa
+987,Zacapa,Otro municipio
+988,Guatemala,Guatemala
+989,Guatemala,No especificado
+990,Retalhuleu,Cabecera municipal
+991,Alta Verapaz,No especificado
+992,Jutiapa,No especificado
+993,Guatemala,San Miguel Petapa
+994,Quetzaltenango,Coatepeque
+995,Guatemala,No especificado
+996,Guatemala,Guatemala
+997,Quetzaltenango,Quetzaltenango
+998,Chimaltenango,Tecpán Guatemala
+999,Quetzaltenango,Coatepeque
+1000,Guatemala,Santa Catarina Pinula
+1001,Jutiapa,Cabecera municipal
+1002,Sacatepéquez,Jocotenango
+1003,Guatemala,Guatemala
+1004,Guatemala,Villa Nueva
+1005,Petén,Flores
+1006,El Progreso,El Progreso
+1007,San Marcos,Otro municipio
+1008,El Progreso,El Progreso
+1009,Guatemala,San Miguel Petapa
+1010,San Marcos,Otro municipio
+1011,Guatemala,Santa Catarina Pinula
+1012,Guatemala,Villa Nueva
+1013,Alta Verapaz,Cabecera municipal
+1014,Quetzaltenango,Coatepeque
+1015,Retalhuleu,Cabecera municipal
+1016,Guatemala,San Miguel Petapa
+1017,Escuintla,Escuintla
+1018,Zacapa,Otro municipio
+1019,Guatemala,SANTA CATARINA PINULA
+1020,Escuintla,Santa Lucía Cotzumalguapa
+1021,Quetzaltenango,Olintepeque
+1022,Chimaltenango,Chimaltenango
+1023,Quetzaltenango,Olintepeque
+1024,Quetzaltenango,Quetzaltenango
+1025,Huehuetenango,Cabecera municipal
+1026,Quetzaltenango,Coatepeque
+1027,Chimaltenango,Tecpán Guatemala
+1028,Guatemala,Santa Catarina Pinula
+1029,Guatemala,Guatemala
+1030,Huehuetenango,Huehuetenango
+1031,Guatemala,VILLA NUEVA
+1032,Guatemala,Santa Catarina Pinula
+1033,Guatemala,Santa Catarina Pinula
+1034,Guatemala,Guatemala
+1035,Chimaltenango,Patzún
+1036,Guatemala,Santa Catarina Pinula
+1037,Quetzaltenango,Coatepeque
+1038,Guatemala,San Miguel Petapa
+1039,Escuintla,Palín
+1040,Sololá,Sololá
+1041,Escuintla,Santa Lucía Cotzumalguapa
+1042,GUATEMALA,Mixco
+1043,Quetzaltenango,Coatepeque
+1044,Guatemala,No especificado
+1045,Guatemala,Santa Catarina Pinula
+1046,Sacatepéquez,Antigua Guatemala
+1047,QUICHÉ,Quiché
+1048,Quiché,Otro municipio
+1050,Escuintla,Palín
+1051,Totonicapán,Cabecera municipal
+1052,Guatemala,Mixco
+1053,Guatemala,Villa Nueva
+1054,Totonicapán,Otro municipio
+1055,Guatemala,Villa Nueva
+1056,Izabal,Otro municipio
+1057,Guatemala,Mixco
+1058,Guatemala,Villa Nueva
+1059,Guatemala,Santa Catarina Pinula
+1060,Guatemala,Mixco
+1061,Guatemala,Mixco
+1062,Guatemala,No especificado
+1063,Guatemala,Villa Nueva
+1064,Guatemala,Santa Catarina Pinula
+1065,Guatemala,San Miguel Petapa
+1066,Guatemala,Santa Catarina Pinula
+1067,Guatemala,Mixco
+1068,Escuintla,Escuintla
+1069,Chimaltenango,Chimaltenango
+1070,Guatemala,Santa Catarina Pinula
+1071,GUATEMALA,Mixco
+1072,SACATEPÉQUEZ,Sumpango
+1073,Guatemala,Villa Nueva
+1074,Chimaltenango,Patzún
+1075,Sacatepéquez,Ciudad Vieja
+1076,Sacatepéquez,SUMPANGO
+1077,Guatemala,Guatemala
+1078,Guatemala,Mixco
+1079,Guatemala,Villa Nueva
+1080,Guatemala,San Miguel Petapa
+1081,Escuintla,ESCUINTLA
+1082,Guatemala,Villa Nueva
+1083,Guatemala,Guatemala
+1084,Sacatepéquez,Ciudad Vieja
+1085,Guatemala,Villa Nueva
+1086,Petén,Poptún
+1087,Guatemala,Villa Nueva
+1088,Jalapa,Otro municipio
+1089,Guatemala,Mixco
+2124,Guatemala,SANTA CATARINA PINULA
+1091,Guatemala,Villa Nueva
+1092,Petén,Poptún
+1093,Guatemala,Santa Catarina Pinula
+1094,Guatemala,San Miguel Petapa
+1095,Sololá,Otro municipio
+1096,Guatemala,San Miguel Petapa
+1097,Quetzaltenango,Coatepeque
+1098,ESCUINTLA,Palín
+1099,Chimaltenango,No especificado
+1100,Quiché,Quiché
+1101,Guatemala,San Miguel Petapa
+1102,Chimaltenango,CHIMALTENANGO
+1103,Escuintla,Palín
+1104,Sacatepéquez,Jocotenango
+1105,Santa Rosa,Otro municipio
+1106,Guatemala,Guatemala
+1107,Chimaltenango,Tecpán Guatemala
+2199,Guatemala,San Miguel Petapa
+1109,Guatemala,San Miguel Petapa
+1110,Guatemala,San Miguel Petapa
+1111,Guatemala,Guatemala
+1112,Guatemala,No especificado
+1113,Guatemala,Guatemala
+1114,Quetzaltenango,Coatepeque
+1115,Guatemala,Mixco
+1117,Sacatepéquez,SUMPANGO
+1118,Guatemala,Mixco
+1119,Chimaltenango,Chimaltenango
+1120,Guatemala,Mixco
+1121,JALAPA,Otro municipio
+1122,Quetzaltenango,Quetzaltenango
+1123,Escuintla,Escuintla
+1124,Chimaltenango,Patzún
+1125,Guatemala,Mixco
+1126,Escuintla,Escuintla
+1127,Guatemala,Guatemala
+1129,Guatemala,Villa Nueva
+1130,Guatemala,Mixco
+1131,Quetzaltenango,Quetzaltenango
+1132,Guatemala,San Miguel Petapa
+1133,Suchitepéquez,Otro municipio
+1134,Escuintla,Escuintla
+1135,Huehuetenango,Huehuetenango
+1136,Guatemala,San Miguel Petapa
+1137,Guatemala,Mixco
+1138,Chimaltenango,Chimaltenango
+1139,Santa Rosa,Otro municipio
+1140,Escuintla,Escuintla
+1141,Guatemala,Santa Catarina Pinula
+1142,Chimaltenango,CHIMALTENANGO
+1143,Jalapa,Otro municipio
+1144,Guatemala,Villa Nueva
+1145,Chiquimula,Chiquimula
+1146,Izabal,Otro municipio
+1147,Guatemala,Santa Catarina Pinula
+1148,Alta Verapaz,Alta Verapaz
+1149,Guatemala,Santa Catarina Pinula
+1150,Guatemala,Mixco
+1151,QUETZALTENANGO,Olintepeque
+1152,Escuintla,Palín
+1153,Guatemala,Mixco
+1154,Izabal,Cabecera municipal
+1155,Alta Verapaz,Cabecera municipal
+1156,Guatemala,Mixco
+1157,Guatemala,Villa Nueva
+1158,Escuintla,Escuintla
+1159,Sacatepéquez,Jocotenango
+1160,Alta Verapaz,Otro municipio
+1161,Guatemala,Guatemala
+1162,Guatemala,Santa Catarina Pinula
+1163,Guatemala,Mixco
+1164,Zacapa,Zacapa
+1165,Guatemala,Villa Nueva
+1166,Quiché,Quiché
+1167,Baja Verapaz,Otro municipio
+1168,Guatemala,Villa Nueva
+1169,Alta Verapaz,Otro municipio
+1170,Chimaltenango,Chimaltenango
+1171,Baja Verapaz,Otro municipio
+1172,Guatemala,Villa Nueva
+1173,Chimaltenango,Patzún
+1174,Retalhuleu,Cabecera municipal
+1175,Escuintla,Palín
+1176,Guatemala,Villa Nueva
+1177,Izabal,Cabecera municipal
+1178,Guatemala,Guatemala
+1179,Escuintla,Santa Lucía Cotzumalguapa
+1180,Sacatepéquez,ANTIGUA GUATEMALA
+1181,Sacatepéquez,Jocotenango
+1182,Guatemala,San Miguel Petapa
+1183,Sacatepéquez,Sumpango
+1184,Jutiapa,Otro municipio
+1185,Petén,Flores
+1186,Quetzaltenango,Quetzaltenango
+1187,Santa Rosa,Otro municipio
+1481,El Progreso,Otro municipio
+1189,Sacatepéquez,Jocotenango
+1190,Alta Verapaz,Cabecera municipal
+1191,Guatemala,Villa Nueva
+1192,Guatemala,Guatemala
+1194,Retalhuleu,Otro municipio
+1195,GUATEMALA,Santa Catarina Pinula
+1196,Guatemala,Mixco
+1197,Guatemala,San Miguel Petapa
+1198,Guatemala,Santa Catarina Pinula
+1199,Quetzaltenango,Quetzaltenango
+1200,Izabal,Cabecera municipal
+1201,Guatemala,Villa Nueva
+1202,Chimaltenango,Patzún
+1203,Quetzaltenango,Olintepeque
+1204,Guatemala,Santa Catarina Pinula
+1205,Guatemala,San Miguel Petapa
+1206,Guatemala,Santa Catarina Pinula
+1207,Guatemala,San Miguel Petapa
+1208,Guatemala,Guatemala
+1209,Guatemala,Villa Nueva
+1210,Guatemala,Santa Catarina Pinula
+1211,Petén,Flores
+1212,Guatemala,Villa Nueva
+1213,Sacatepéquez,Jocotenango
+1214,Guatemala,Santa Catarina Pinula
+1215,Guatemala,Guatemala
+1216,Escuintla,SANTA LUCÍA COTZUMALGUAPA
+1217,San Marcos,Cabecera municipal
+1218,Escuintla,Palín
+1219,Sacatepéquez,Sumpango
+1220,Guatemala,VILLA NUEVA
+1221,Guatemala,Guatemala
+1222,Retalhuleu,Cabecera municipal
+1223,Guate,Guatemala
+1224,Guatemala,Mixco
+1225,Guatemala,Mixco
+1226,Izabal,Cabecera municipal
+1227,Izabal,Otro municipio
+1228,Quetzaltenango,Olintepeque
+1229,Sacatepéquez,Jocotenango
+1230,Jutiapa,Cabecera municipal
+1231,Guatemala,Guatemala
+1232,Guatemala,Villa Nueva
+1233,Quetzaltenango,Quetzaltenango
+1234,Guatemala,Mixco
+1235,Guatemala,Guatemala
+1236,Guatemala,Guatemala
+1237,Guatemala,San Miguel Petapa
+1238,Sacatepéquez,Ciudad Vieja
+1239,Sacatepéquez,Sumpango
+1240,Guatemala,Guatemala
+1241,Guatemala,Santa Catarina Pinula
+1242,Guatemala,Santa Catarina Pinula
+1243,Guatemala,No especificado
+1244,Guatemala,Santa Catarina Pinula
+1245,Escuintla,Palín
+1246,Sacatepéquez,No especificado
+1247,Izabal,Cabecera municipal
+1248,GUATEMALA,Guatemala
+1249,Guatemala,Mixco
+1250,Jalapa,Otro municipio
+1251,Quiché,Otro municipio
+1252,Guatemala,San Miguel Petapa
+1253,Escuintla,Santa Lucía Cotzumalguapa
+1254,Guatemala,Mixco
+1255,El Progreso,El Progreso
+1256,Guatemala,Villa Nueva
+1257,Guatemala,Villa Nueva
+1258,Quiché,Cabecera municipal
+1259,GUATEMALA,Villa Nueva
+1260,Totonicapán,Otro municipio
+1261,Petén,San Benito
+1262,Petén,Flores
+1263,Guatemala,Mixco
+1264,Totonicapán,Totonicapán
+1265,Quetzaltenango,Olintepeque
+1266,Guatemala,Santa Catarina Pinula
+1267,Chimaltenango,Patzún
+1268,Sacatepéquez,Sumpango
+1269,Quetzaltenango,Coatepeque
+1270,Santa Rosa,Cabecera municipal
+1271,Guatemala,Santa Catarina Pinula
+1864,Sacatepéquez,Ciudad Vieja
+1273,San Marcos,San Marcos
+1274,Sacatepéquez,Antigua Guatemala
+1275,Jalapa,Cabecera municipal
+1276,Guatemala,San Miguel Petapa
+1277,Guatemala,San Miguel Petapa
+1278,Escuintla,Escuintla
+1279,Sacatepéquez,Antigua Guatemala
+1280,Izabal,Otro municipio
+1281,Guatemala,Guatemala
+1282,Guatemala,No especificado
+1283,Huehuetenango,Otro municipio
+1284,Guatemala,Santa Catarina Pinula
+1285,Escuintla,Santa Lucía Cotzumalguapa
+1286,Guatemala,Villa Nueva
+1287,Alta Verapaz,No especificado
+1288,Guatemala,Villa Nueva
+1289,Quetzaltenango,Coatepeque
+1290,Guatemala,Mixco
+1291,Petén,No especificado
+1292,Quetzaltenango,Olintepeque
+1293,Guatemala,Mixco
+1294,Escuintla,Escuintla
+1295,Guatemala,Santa Catarina Pinula
+1296,Quetzaltenango,QUETZALTENANGO
+1297,Guatemala,San Miguel Petapa
+1298,ALTA VERAPAZ,Cabecera municipal
+1299,Chimaltenango,Tecpán Guatemala
+1300,Guatemala,Villa Nueva
+1301,Guatemala,Guatemala
+1302,Guatemala,Santa Catarina Pinula
+1303,El Progreso,Cabecera municipal
+1304,Guatemala,Villa Nueva
+1305,Guatemala,Mixco
+1306,Chimaltenango,Tecpán Guatemala
+1307,Alta Verapaz,Cabecera municipal
+1308,Petén,Poptún
+1309,Baja Verapaz,Cabecera municipal
+1310,Guatemala,Villa Nueva
+1311,Guate,San Miguel Petapa
+1312,Guatemala,Guatemala
+1313,Guatemala,Guatemala
+1314,Quetzaltenango,Quetzaltenango
+1315,ESCUINTLA,Escuintla
+1316,Guatemala,Mixco
+1317,Retalhuleu,Cabecera municipal
+1318,Guatemala,Mixco
+2405,Guatemala,Villa Nueva
+1320,Guatemala,San Miguel Petapa
+1321,Sacatepéquez,Antigua Guatemala
+1322,Escuintla,Palín
+1323,Guatemala,Santa Catarina Pinula
+1324,Sacatepéquez,Ciudad Vieja
+1325,Guatemala,Villa Nueva
+1326,Guatemala,Mixco
+1327,Guatemala,Santa Catarina Pinula
+1328,Guatemala,San Miguel Petapa
+1329,Guatemala,San Miguel Petapa
+1330,Quetzaltenango,Coatepeque
+1331,Chiquimula,Chiquimula
+1332,Guatemala,Santa Catarina Pinula
+1333,Santa Rosa,Cabecera municipal
+1334,Sacatepéquez,Jocotenango
+1335,Quetzaltenango,Olintepeque
+1336,Guatemala,Santa Catarina Pinula
+1337,Guatemala,Guatemala
+1339,Escuintla,Santa Lucía Cotzumalguapa
+1340,Sacatepéquez,Ciudad Vieja
+1341,EL PROGRESO,No especificado
+1342,Guatemala,Santa Catarina Pinula
+1343,Guatemala,Mixco
+1344,Guatemala,Villa Nueva
+1345,Escuintla,Palín
+1346,Jalapa,Jalapa
+1347,Guatemala,San Miguel Petapa
+1348,Guatemala,Santa Catarina Pinula
+1349,Quetzaltenango,Quetzaltenango
+1350,Escuintla,Palín
+1351,Quetzaltenango,Olintepeque
+1352,Chimaltenango,Tecpán Guatemala
+1353,TOTONICAPÁN,Cabecera municipal
+1354,Escuintla,Escuintla
+1355,Guatemala,Santa Catarina Pinula
+1356,Guatemala,Santa Catarina Pinula
+1357,Guatemala,Santa Catarina Pinula
+1358,GUATEMALA,Mixco
+1359,Guatemala,Villa Nueva
+1360,Guatemala,Santa Catarina Pinula
+1361,Escuintla,Escuintla
+1362,Jalapa,Cabecera municipal
+1363,Guatemala,Santa Catarina Pinula
+1364,Quetzaltenango,Olintepeque
+1365,Guatemala,Villa Nueva
+1366,Guatemala,San Miguel Petapa
+1367,Escuintla,SANTA LUCÍA COTZUMALGUAPA
+1368,GUATEMALA,Villa Nueva
+1369,Quetzaltenango,Coatepeque
+1370,Sacatepéquez,Antigua Guatemala
+1371,Guatemala,San Miguel Petapa
+1372,Guatemala,Santa Catarina Pinula
+1373,Quiché,Quiché
+1374,Sacatepéquez,Sumpango
+1375,Guatemala,SAN MIGUEL PETAPA
+1376,San Marcos,San Marcos
+1377,Guatemala,San Miguel Petapa
+1378,Retalhuleu,Retalhuleu
+1379,Sacatepéquez,Jocotenango
+1380,Baja Verapaz,Baja Verapaz
+1381,Escuintla,Escuintla
+1382,Quetzaltenango,Quetzaltenango
+1383,Baja Verapaz,Otro municipio
+1384,SACATEPÉQUEZ,Ciudad Vieja
+1385,Jutiapa,Jutiapa
+1386,SOLOLÁ,Sololá
+1387,Guatemala,Guatemala
+1388,Suchitepéquez,Otro municipio
+1389,Guatemala,Mixco
+1390,Guatemala,Villa Nueva
+1391,Sololá,Cabecera municipal
+1392,Guatemala,Mixco
+1393,Guatemala,SANTA CATARINA PINULA
+1394,Chimaltenango,Patzún
+1395,Retalhuleu,Otro municipio
+1396,Guatemala,Santa Catarina Pinula
+1397,Suchitepéquez,Cabecera municipal
+1398,Guatemala,Guatemala
+1399,Guatemala,San Miguel Petapa
+1400,Quetzaltenango,Coatepeque
+1401,Guatemala,San Miguel Petapa
+1402,Guatemala,Guatemala
+1403,Guatemala,Villa Nueva
+1404,Chimaltenango,Tecpán Guatemala
+1405,San Marcos,Otro municipio
+1406,Guatemala,Mixco
+1407,Guatemala,Santa Catarina Pinula
+1408,Guatemala,San Miguel Petapa
+1409,Escuintla,Palín
+1410,Sacatepéquez,Jocotenango
+1411,Huehuetenango,Huehuetenango
+1412,Guatemala,Santa Catarina Pinula
+1413,Chimaltenango,No especificado
+1414,Guatemala,Santa Catarina Pinula
+1415,Guatemala,Guatemala
+1417,Guatemala,Santa Catarina Pinula
+1418,Guatemala,Mixco
+1419,Huehuetenango,Otro municipio
+1420,Jutiapa,Jutiapa
+1421,Guatemala,SAN MIGUEL PETAPA
+1422,Zacapa,Otro municipio
+2478,Guatemala,Villa Nueva
+1424,Guatemala,Santa Catarina Pinula
+1425,Guatemala,Villa Nueva
+1426,Quetzaltenango,Olintepeque
+1427,Guatemala,Santa Catarina Pinula
+1428,Guatemala,VILLA NUEVA
+1429,Guatemala,Villa Nueva
+1430,Guatemala,Guatemala
+1431,Santa Rosa,Cabecera municipal
+1432,Chiquimula,Chiquimula
+1433,Sacatepéquez,CIUDAD VIEJA
+1434,Chimaltenango,No especificado
+1435,Guatemala,San Miguel Petapa
+1436,GUATEMALA,Mixco
+1437,Guatemala,Santa Catarina Pinula
+1438,Guatemala,Villa Nueva
+1439,Quetzaltenango,Coatepeque
+1440,Chimaltenango,Patzún
+1441,Jutiapa,Jutiapa
+1442,Totonicapán,Totonicapán
+1443,Guatemala,Mixco
+1444,Guatemala,Villa Nueva
+1445,Guatemala,Guatemala
+1446,Guatemala,Mixco
+1447,El Progreso,El Progreso
+1448,Baja Verapaz,BAJA VERAPAZ
+1449,Escuintla,Santa Lucía Cotzumalguapa
+1450,Quetzaltenango,Olintepeque
+1451,Guatemala,Villa Nueva
+1452,Guatemala,Mixco
+1453,Petén,Flores
+1454,Sacatepéquez,Sumpango
+1455,Guatemala,Santa Catarina Pinula
+1456,Retalhuleu,Otro municipio
+1457,Guatemala,Guatemala
+1458,Sacatepéquez,Sumpango
+1460,San Marcos,OTRO MUNICIPIO
+1461,Totonicapán,Cabecera municipal
+1462,Quetzaltenango,Quetzaltenango
+1463,Guatemala,San Miguel Petapa
+1464,Izabal,Cabecera municipal
+1465,Guatemala,San Miguel Petapa
+1466,Guatemala,San Miguel Petapa
+1467,Guatemala,Santa Catarina Pinula
+1468,El Progreso,El Progreso
+1469,Escuintla,Escuintla
+1470,Guatemala,San Miguel Petapa
+1471,Sacatepéquez,Jocotenango
+1473,Jalapa,Jalapa
+1474,Guatemala,Villa Nueva
+1475,Jalapa,Cabecera municipal
+1476,Escuintla,Santa Lucía Cotzumalguapa
+1477,Sololá,Otro municipio
+1478,Quetzaltenango,Quetzaltenango
+1479,Quetzaltenango,OLINTEPEQUE
+1480,Quetzaltenango,Quetzaltenango
+1482,Santa Rosa,Cabecera municipal
+1483,Guatemala,Santa Catarina Pinula
+1484,Guatemala,Santa Catarina Pinula
+1485,Guatemala,Mixco
+1486,Santa Rosa,Cabecera municipal
+1487,Alta Verapaz,Alta Verapaz
+1488,Guatemala,Mixco
+1489,Guatemala,Villa Nueva
+1490,Guatemala,Santa Catarina Pinula
+1491,Guatemala,San Miguel Petapa
+1492,Sacatepéquez,Antigua Guatemala
+1493,Quetzaltenango,Olintepeque
+1494,Chimaltenango,Chimaltenango
+1495,Chimaltenango,Patzún
+1496,Quiché,Otro municipio
+1497,Quetzaltenango,Olintepeque
+1498,Guatemala,San Miguel Petapa
+1499,Guatemala,Villa Nueva
+1500,Chimaltenango,PATZÚN
+1501,Guatemala,San Miguel Petapa
+1502,Guatemala,VILLA NUEVA
+1503,Guatemala,Villa Nueva
+1504,Escuintla,Escuintla
+1505,Guatemala,Mixco
+1506,Quetzaltenango,Coatepeque
+1507,Guatemala,Mixco
+1508,Guatemala,San Miguel Petapa
+1509,Sacatepéquez,Jocotenango
+1510,Sacatepéquez,Antigua Guatemala
+1511,Santa Rosa,Santa Rosa
+1512,Guatemala,Mixco
+1513,Huehuetenango,Otro municipio
+1514,Sacatepéquez,Jocotenango
+1515,Suchitepéquez,Cabecera municipal
+1516,Guatemala,San Miguel Petapa
+1517,Guatemala,Mixco
+1518,Guatemala,San Miguel Petapa
+1519,Guatemala,Santa Catarina Pinula
+1520,Guatemala,Villa Nueva
+1521,Sacatepéquez,Sumpango
+1522,El Progreso,Cabecera municipal
+1523,GUATEMALA,San Miguel Petapa
+1524,Sacatepéquez,Antigua Guatemala
+1525,Guatemala,San Miguel Petapa
+1526,Retalhuleu,Cabecera municipal
+1527,Chimaltenango,Chimaltenango
+1528,Guatemala,Villa Nueva
+1529,Huehuetenango,Huehuetenango
+1530,Guatemala,Villa Nueva
+1531,Escuintla,Palín
+1532,Guatemala,San Miguel Petapa
+1533,Alta Verapaz,Cabecera municipal
+1534,Guatemala,Mixco
+1535,Sacatepéquez,Sumpango
+1536,Escuintla,Santa Lucía Cotzumalguapa
+1537,Guatemala,Santa Catarina Pinula
+1538,Guatemala,San Miguel Petapa
+1539,Huehuetenango,Huehuetenango
+1540,Suchitepéquez,Cabecera municipal
+1541,Guatemala,San Miguel Petapa
+1542,Quetzaltenango,Olintepeque
+1543,Alta Verapaz,Otro municipio
+1544,Quetzaltenango,OLINTEPEQUE
+1545,Chiquimula,Cabecera municipal
+1546,Guatemala,Villa Nueva
+1547,Guatemala,Villa Nueva
+1548,Guatemala,Mixco
+1549,Xela,Olintepeque
+1550,Guatemala,Guatemala
+1551,Quiché,Otro municipio
+1552,Quetzaltenango,Olintepeque
+1553,Retalhuleu,Retalhuleu
+1554,Guatemala,Santa Catarina Pinula
+1555,Guatemala,Guatemala
+1556,Jalapa,Cabecera municipal
+1557,Guatemala,Santa Catarina Pinula
+1558,Guatemala,No especificado
+1559,TOTONICAPÁN,Cabecera municipal
+1560,Guatemala,Guatemala
+1561,Zacapa,Otro municipio
+1562,Baja Verapaz,Otro municipio
+1563,Quetzaltenango,Olintepeque
+1564,Quetzaltenango,Olintepeque
+1565,Guatemala,Santa Catarina Pinula
+1566,Quetzaltenango,Coatepeque
+1567,Chimaltenango,Tecpán Guatemala
+1568,Guatemala,Guatemala
+1569,Sacatepéquez,Antigua Guatemala
+1570,Guatemala,Mixco
+1571,Suchitepéquez,Otro municipio
+1572,Quetzaltenango,Olintepeque
+1573,Chiquimula,Chiquimula
+1574,Guatemala,Santa Catarina Pinula
+1575,Escuintla,Escuintla
+1576,Sacatepéquez,Sumpango
+1577,Guatemala,Guatemala
+1578,El Progreso,Otro municipio
+1579,Guatemala,No especificado
+1580,Jalapa,Otro municipio
+1581,Chimaltenango,Tecpán Guatemala
+1582,Sacatepéquez,Sumpango
+1583,Guatemala,Guatemala
+1584,Guatemala,San Miguel Petapa
+1585,Escuintla,Santa Lucía Cotzumalguapa
+1586,Guatemala,Mixco
+1587,Guatemala,San Miguel Petapa
+1588,Retalhuleu,Retalhuleu
+1589,Guatemala,Guatemala
+1590,Guatemala,Mixco
+1591,Chimaltenango,Chimaltenango
+1592,Escuintla,Escuintla
+1593,Quetzaltenango,Olintepeque
+1594,GUATEMALA,Guatemala
+1596,Huehuetenango,Huehuetenango
+1597,Chiquimula,No especificado
+1598,Guatemala,Mixco
+1599,Escuintla,Escuintla
+1600,Guatemala,Santa Catarina Pinula
+1601,Chimaltenango,Tecpán Guatemala
+1602,Guatemala,Villa Nueva
+1603,Escuintla,Escuintla
+1604,ALTA VERAPAZ,Cabecera municipal
+1605,Guatemala,Villa Nueva
+1606,Izabal,Otro municipio
+1607,Guatemala,Mixco
+1608,Guatemala,Villa Nueva
+1609,Huehuetenango,Cabecera municipal
+1610,Guatemala,Mixco
+1611,Chimaltenango,Tecpán Guatemala
+1612,Petén,San Benito
+1613,Guatemala,Mixco
+1614,Escuintla,Santa Lucía Cotzumalguapa
+1615,Guatemala,Santa Catarina Pinula
+1616,Quetzaltenango,Coatepeque
+1617,Jalapa,Otro municipio
+1618,Chimaltenango,Patzún
+1619,Guatemala,Guatemala
+1620,Escuintla,Santa Lucía Cotzumalguapa
+1621,Guatemala,San Miguel Petapa
+1622,Guatemala,Villa Nueva
+1623,Guatemala,Mixco
+1624,Guatemala,Villa Nueva
+1625,Guatemala,Mixco
+1626,Guatemala,San Miguel Petapa
+1627,Petén,Flores
+1628,Sololá,Otro municipio
+1629,Guatemala,Guatemala
+1630,Zacapa,Cabecera municipal
+1631,Guatemala,San Miguel Petapa
+1632,Chimaltenango,TECPÁN GUATEMALA
+1633,Guatemala,Mixco
+1634,GUATEMALA,Mixco
+1635,Guatemala,Villa Nueva
+1636,Guatemala,San Miguel Petapa
+1637,Escuintla,Santa Lucía Cotzumalguapa
+1638,Guatemala,Villa Nueva
+1639,Alta Verapaz,Cabecera municipal
+1640,Chimaltenango,Patzún
+1641,Guatemala,Mixco
+1642,Guatemala,Santa Catarina Pinula
+1643,Guatemala,Guatemala
+1644,Zacapa,Zacapa
+1645,Escuintla,Santa Lucía Cotzumalguapa
+1646,Guatemala,Mixco
+1647,Guatemala,Guatemala
+1648,Sololá,Cabecera municipal
+1649,Jalapa,Otro municipio
+1650,Guatemala,Santa Catarina Pinula
+1651,Huehuetenango,Huehuetenango
+1652,Guatemala,San Miguel Petapa
+1653,Guatemala,Guatemala
+1654,San Marcos,Otro municipio
+1655,Quetzaltenango,Olintepeque
+1656,Guatemala,Santa Catarina Pinula
+1657,Jalapa,Cabecera municipal
+1658,Totonicapán,Totonicapán
+1659,Totonicapán,Totonicapán
+1660,Baja Verapaz,Otro municipio
+1661,ESCUINTLA,Palín
+1662,Zacapa,No especificado
+1663,Guatemala,Mixco
+1664,Guatemala,Guatemala
+1665,Sololá,Cabecera municipal
+1666,Izabal,Otro municipio
+1667,Guate,Mixco
+1668,San Marcos,San Marcos
+1669,Guatemala,San Miguel Petapa
+1670,Guate,Villa Nueva
+1671,Chimaltenango,Chimaltenango
+1672,Escuintla,Palín
+1673,Guatemala,Mixco
+1674,Guatemala,Villa Nueva
+1675,Guatemala,Mixco
+1676,Sacatepéquez,Ciudad Vieja
+1677,Suchitepéquez,Otro municipio
+1678,Quetzaltenango,No especificado
+1679,QUETZALTENANGO,Quetzaltenango
+1680,Guate,Santa Catarina Pinula
+1681,Guatemala,Guatemala
+1682,Guatemala,Guatemala
+1683,Guatemala,SAN MIGUEL PETAPA
+1684,Guatemala,Mixco
+1685,Chimaltenango,Chimaltenango
+1686,Guatemala,Guatemala
+1687,Retalhuleu,Otro municipio
+1688,Chiquimula,Cabecera municipal
+1689,Quetzaltenango,Coatepeque
+1690,Jalapa,No especificado
+1691,Sacatepéquez,Antigua Guatemala
+1692,Guatemala,Villa Nueva
+1693,Sololá,Sololá
+1694,Guatemala,Guatemala
+1695,Petén,Flores
+1696,Chiquimula,Otro municipio
+1697,Guatemala,Mixco
+1698,Guatemala,Santa Catarina Pinula
+1699,Guatemala,GUATEMALA
+1700,Sacatepéquez,Jocotenango
+1701,Guatemala,Mixco
+1702,Retalhuleu,Cabecera municipal
+1703,Guatemala,San Miguel Petapa
+1704,Sololá,Cabecera municipal
+1705,Chimaltenango,Patzún
+1706,Guatemala,Villa Nueva
+1707,Chimaltenango,Chimaltenango
+1708,Quetzaltenango,Quetzaltenango
+1709,Guatemala,Mixco
+1710,Guatemala,Guatemala
+1711,Guatemala,No especificado
+1712,Chimaltenango,PATZÚN
+1713,Sacatepéquez,Antigua Guatemala
+1714,Sololá,Cabecera municipal
+1715,Guatemala,Villa Nueva
+1716,Chimaltenango,TECPÁN GUATEMALA
+1717,Suchitepéquez,OTRO MUNICIPIO
+1718,Quiché,Otro municipio
+1719,San Marcos,Cabecera municipal
+1720,Guatemala,Mixco
+1721,Guatemala,San Miguel Petapa
+1722,Zacapa,Otro municipio
+1723,GUATEMALA,Mixco
+1724,Retalhuleu,Cabecera municipal
+1725,Quetzaltenango,Coatepeque
+1726,Guatemala,Guatemala
+1727,Quetzaltenango,Olintepeque
+1728,Guatemala,Guatemala
+1729,Escuintla,Palín
+1730,Chimaltenango,Tecpán Guatemala
+1731,Guatemala,Mixco
+1732,Jutiapa,Otro municipio
+1733,Quiché,Cabecera municipal
+1734,CHIMALTENANGO,Patzún
+1735,Guatemala,San Miguel Petapa
+1736,Totonicapán,Cabecera municipal
+1737,Sacatepéquez,Jocotenango
+1738,Retalhuleu,CABECERA MUNICIPAL
+1739,CHIMALTENANGO,Tecpán Guatemala
+1740,Guatemala,Santa Catarina Pinula
+1741,Huehuetenango,Cabecera municipal
+1742,Chiquimula,Otro municipio
+1743,ESCUINTLA,Escuintla
+1744,Quiché,Cabecera municipal
+1745,Retalhuleu,Cabecera municipal
+1746,Quetzaltenango,Olintepeque
+1747,Chimaltenango,Patzún
+1748,Guatemala,San Miguel Petapa
+1749,El Progreso,Cabecera municipal
+1750,Escuintla,Santa Lucía Cotzumalguapa
+1751,Guatemala,GUATEMALA
+1752,Sacatepéquez,Sumpango
+1753,Santa Rosa,CABECERA MUNICIPAL
+1754,Jutiapa,Otro municipio
+1755,Guatemala,Santa Catarina Pinula
+1756,Guatemala,San Miguel Petapa
+1757,Guatemala,Guatemala
+1758,Quetzaltenango,Coatepeque
+1759,Guatemala,Guatemala
+1760,Escuintla,Escuintla
+1761,Chimaltenango,Chimaltenango
+1762,Guatemala,Mixco
+1763,Guatemala,San Miguel Petapa
+1764,Jutiapa,Otro municipio
+1765,Santa Rosa,Cabecera municipal
+1766,Chimaltenango,Patzún
+1767,Guatemala,Guatemala
+1768,Jalapa,Otro municipio
+1769,Guatemala,SANTA CATARINA PINULA
+1770,Guatemala,Santa Catarina Pinula
+1771,Quetzaltenango,Olintepeque
+1772,Quetzaltenango,Olintepeque
+1774,Guate,Guatemala
+1775,Sacatepéquez,Jocotenango
+1776,Sacatepéquez,Ciudad Vieja
+1777,Guatemala,San Miguel Petapa
+1778,Jutiapa,Otro municipio
+1779,Guatemala,Santa Catarina Pinula
+1780,Guatemala,Santa Catarina Pinula
+1781,Guatemala,San Miguel Petapa
+1782,Quetzaltenango,Olintepeque
+1783,Sacatepéquez,Ciudad Vieja
+1784,Chimaltenango,Tecpán Guatemala
+1785,Quiché,Cabecera municipal
+1786,Escuintla,Escuintla
+1787,Chimaltenango,Patzún
+1788,Guatemala,San Miguel Petapa
+1789,Guatemala,Guatemala
+1790,Guatemala,Santa Catarina Pinula
+1791,Escuintla,Santa Lucía Cotzumalguapa
+1792,Guatemala,Villa Nueva
+1793,Guatemala,San Miguel Petapa
+1794,San Marcos,Cabecera municipal
+1795,Guatemala,Mixco
+1796,Escuintla,Palín
+1797,Guatemala,Santa Catarina Pinula
+1798,El Progreso,Cabecera municipal
+1799,Quetzaltenango,Olintepeque
+1800,Guatemala,Villa Nueva
+1801,Quetzaltenango,Quetzaltenango
+1802,Sacatepéquez,Antigua Guatemala
+1803,Quetzaltenango,Coatepeque
+1804,Guatemala,Guatemala
+1805,Suchitepéquez,Suchitepéquez
+1806,Quiché,Cabecera municipal
+1807,Huehuetenango,Otro municipio
+1808,Guatemala,Mixco
+1809,Escuintla,Santa Lucía Cotzumalguapa
+1810,Suchitepéquez,Otro municipio
+1811,Guatemala,Villa Nueva
+1812,Guatemala,SANTA CATARINA PINULA
+1813,Guatemala,Santa Catarina Pinula
+1814,GUATEMALA,San Miguel Petapa
+1815,Guatemala,San Miguel Petapa
+1816,Guatemala,Mixco
+1817,Guatemala,SAN MIGUEL PETAPA
+1818,Guatemala,Santa Catarina Pinula
+1819,Chimaltenango,Tecpán Guatemala
+1820,Quetzaltenango,Quetzaltenango
+1821,Guatemala,San Miguel Petapa
+1822,Guatemala,Villa Nueva
+1823,Alta Verapaz,Otro municipio
+1824,Guatemala,Mixco
+1825,Sololá,Sololá
+1826,Guate,Guatemala
+1827,Escuintla,No especificado
+1828,Chimaltenango,Chimaltenango
+1829,Guatemala,Mixco
+1830,Guatemala,Santa Catarina Pinula
+1831,Jalapa,Jalapa
+1832,Guatemala,Santa Catarina Pinula
+1833,Baja Verapaz,Cabecera municipal
+1834,Guatemala,Santa Catarina Pinula
+1835,Guatemala,Mixco
+1836,Guatemala,Guatemala
+1837,Guatemala,Mixco
+1838,Sacatepéquez,Jocotenango
+1839,Guatemala,Guatemala
+1840,Guatemala,Mixco
+1841,Baja Verapaz,Baja Verapaz
+1842,Chimaltenango,CHIMALTENANGO
+1843,Guatemala,Mixco
+1844,Sacatepéquez,Sumpango
+1845,Quetzaltenango,Quetzaltenango
+1846,El Progreso,Cabecera municipal
+1847,Guatemala,San Miguel Petapa
+1848,Santa Rosa,Santa Rosa
+1849,Petén,San Benito
+1850,San Marcos,San Marcos
+1851,El Progreso,El Progreso
+1852,Guatemala,San Miguel Petapa
+1853,Jalapa,Otro municipio
+1854,Zacapa,Cabecera municipal
+1855,Sacatepéquez,Jocotenango
+1856,Guatemala,San Miguel Petapa
+1857,Escuintla,Santa Lucía Cotzumalguapa
+1858,Guatemala,Santa Catarina Pinula
+1859,Guatemala,Villa Nueva
+1860,GUATEMALA,Mixco
+1861,Jalapa,Jalapa
+1862,Sacatepéquez,Antigua Guatemala
+1863,Zacapa,Cabecera municipal
+1865,Guatemala,Guatemala
+1866,GUATEMALA,Santa Catarina Pinula
+1867,Guatemala,Santa Catarina Pinula
+1868,Chimaltenango,Tecpán Guatemala
+1869,Chimaltenango,Patzún
+1870,Baja Verapaz,Baja Verapaz
+1871,Guatemala,Mixco
+1872,Baja Verapaz,Cabecera municipal
+1873,Guatemala,San Miguel Petapa
+1874,Huehuetenango,Otro municipio
+1875,Zacapa,Zacapa
+1876,Petén,No especificado
+1877,El Progreso,Cabecera municipal
+1878,Escuintla,Escuintla
+1879,Escuintla,Santa Lucía Cotzumalguapa
+1880,Escuintla,Escuintla
+1881,Guatemala,Mixco
+1882,Escuintla,Escuintla
+1883,Zacapa,Zacapa
+1884,Sololá,Sololá
+1885,Huehuetenango,Huehuetenango
+1886,Escuintla,Palín
+1887,Quetzaltenango,Olintepeque
+1888,Chimaltenango,Chimaltenango
+1889,Guatemala,Villa Nueva
+1890,Guatemala,Santa Catarina Pinula
+1891,Guatemala,Mixco
+1892,Izabal,Otro municipio
+1893,Guatemala,Santa Catarina Pinula
+1894,Petén,No especificado
+1895,Izabal,Otro municipio
+1896,Escuintla,Palín
+1897,Chiquimula,Otro municipio
+1898,Chiquimula,Cabecera municipal
+1899,Escuintla,Escuintla
+1900,Guatemala,Villa Nueva
+1901,Zacapa,Otro municipio
+1902,Guatemala,Santa Catarina Pinula
+1903,Guatemala,Guatemala
+1904,Retalhuleu,Otro municipio
+1905,Quetzaltenango,Coatepeque
+1906,Guatemala,San Miguel Petapa
+1907,Chiquimula,Otro municipio
+1908,Guatemala,Villa Nueva
+1909,Sacatepéquez,Ciudad Vieja
+1910,Santa Rosa,Otro municipio
+1911,Escuintla,ESCUINTLA
+1912,EL PROGRESO,El Progreso
+1913,Escuintla,Palín
+1914,Sacatepéquez,Jocotenango
+1915,Guatemala,Guatemala
+1916,Sacatepéquez,Jocotenango
+1917,Jalapa,Jalapa
+1918,Quetzaltenango,Olintepeque
+1919,Chiquimula,Otro municipio
+1920,Guatemala,Santa Catarina Pinula
+1921,Santa Rosa,No especificado
+1922,Chimaltenango,Chimaltenango
+1923,QUICHÉ,Quiché
+1924,Guatemala,San Miguel Petapa
+1925,Guatemala,Mixco
+1926,Chimaltenango,Tecpán Guatemala
+1927,Escuintla,Santa Lucía Cotzumalguapa
+1928,Quetzaltenango,Quetzaltenango
+1929,Santa Rosa,Otro municipio
+1930,Escuintla,Escuintla
+1932,Chimaltenango,Chimaltenango
+1933,Guatemala,Guatemala
+1934,Guatemala,Villa Nueva
+1935,Quetzaltenango,Olintepeque
+1936,Guatemala,Villa Nueva
+1937,Quetzaltenango,OLINTEPEQUE
+1938,Totonicapán,OTRO MUNICIPIO
+1939,Guatemala,Guatemala
+1940,HUEHUETENANGO,Huehuetenango
+1941,Suchitepéquez,Cabecera municipal
+1942,Sacatepéquez,Jocotenango
+1943,Sololá,Sololá
+1944,CHIQUIMULA,Chiquimula
+1945,Guatemala,Santa Catarina Pinula
+1946,Quiché,Cabecera municipal
+1947,Sacatepéquez,Antigua Guatemala
+1948,Guatemala,Santa Catarina Pinula
+1949,Guatemala,Villa Nueva
+1950,Chimaltenango,Tecpán Guatemala
+1951,Guatemala,Villa Nueva
+1952,Escuintla,Palín
+1953,Guatemala,Mixco
+1954,Guatemala,nan
+1955,Chimaltenango,Tecpán Guatemala
+1956,Guatemala,No especificado
+1957,Guatemala,Villa Nueva
+1958,Guatemala,Villa Nueva
+1959,Guatemala,Santa Catarina Pinula
+1962,Guatemala,Mixco
+1963,Guatemala,Mixco
+1964,Guatemala,Santa Catarina Pinula
+1965,Guatemala,Santa Catarina Pinula
+1966,Retalhuleu,Cabecera municipal
+1967,Guatemala,Villa Nueva
+1968,Sacatepéquez,Sumpango
+1969,Sololá,Cabecera municipal
+1970,Guatemala,Santa Catarina Pinula
+1971,Zacapa,Otro municipio
+1972,Zacapa,Otro municipio
+1973,Escuintla,Escuintla
+1974,Sacatepéquez,Sumpango
+1975,Guatemala,Villa Nueva
+1976,Retalhuleu,Retalhuleu
+1977,Quetzaltenango,No especificado
+1978,Chimaltenango,Chimaltenango
+1979,Santa Rosa,Santa Rosa
+1980,Guatemala,Villa Nueva
+1981,Guatemala,No especificado
+1982,Guatemala,Villa Nueva
+1983,Quetzaltenango,Coatepeque
+1984,Guatemala,No especificado
+1985,Guatemala,Mixco
+1986,Guatemala,San Miguel Petapa
+1987,Quetzaltenango,Coatepeque
+1988,Guatemala,Santa Catarina Pinula
+1989,Guatemala,Mixco
+1990,Guatemala,Villa Nueva
+1991,Guatemala,Mixco
+1992,Guatemala,Mixco
+1993,Chimaltenango,Tecpán Guatemala
+1994,Guatemala,Villa Nueva
+1995,El Progreso,Otro municipio
+1996,Quetzaltenango,Coatepeque
+1997,Jalapa,Jalapa
+1998,Guatemala,Mixco
+1999,GUATEMALA,San Miguel Petapa
+2000,Jalapa,Otro municipio
+2001,Guatemala,San Miguel Petapa
+2002,Retalhuleu,Otro municipio
+2003,Suchitepéquez,Otro municipio
+2004,Jutiapa,Jutiapa
+2005,Jalapa,JALAPA
+2006,Chimaltenango,Patzún
+2007,Baja Verapaz,Otro municipio
+2008,Guatemala,San Miguel Petapa
+2009,Guatemala,Santa Catarina Pinula
+2010,Izabal,Cabecera municipal
+2011,Jutiapa,Jutiapa
+2012,Santa Rosa,Otro municipio
+2013,Retalhuleu,Retalhuleu
+2014,Chimaltenango,Patzún
+2015,Guatemala,Villa Nueva
+2016,Sacatepéquez,Ciudad Vieja
+2017,Guatemala,Santa Catarina Pinula
+2018,Guatemala,San Miguel Petapa
+2019,Chimaltenango,Patzún
+2020,Guatemala,Mixco
+2021,Quetzaltenango,Quetzaltenango
+2022,Chimaltenango,Patzún
+2023,Guatemala,San Miguel Petapa
+2024,Guatemala,San Miguel Petapa
+2025,Guatemala,Santa Catarina Pinula
+2026,Guatemala,San Miguel Petapa
+2027,ESCUINTLA,Escuintla
+2028,Guatemala,Villa Nueva
+2029,Chimaltenango,Tecpán Guatemala
+2030,Guatemala,Mixco
+2031,Guatemala,Villa Nueva
+2032,Guatemala,MIXCO
+2033,Escuintla,Santa Lucía Cotzumalguapa
+2034,Retalhuleu,Cabecera municipal
+2035,Guatemala,Mixco
+2036,Sacatepéquez,Antigua Guatemala
+2037,Guatemala,Santa Catarina Pinula
+2038,Guatemala,Villa Nueva
+2039,Guatemala,Guatemala
+2040,Chiquimula,Otro municipio
+2041,Sacatepéquez,Antigua Guatemala
+2042,Guatemala,San Miguel Petapa
+2043,Escuintla,Escuintla
+2044,Guatemala,Santa Catarina Pinula
+2045,Escuintla,Santa Lucía Cotzumalguapa
+2046,Escuintla,Palín
+2047,Guatemala,San Miguel Petapa
+2048,Chimaltenango,Patzún
+2049,Guatemala,Villa Nueva
+2050,Izabal,Cabecera municipal
+2051,Chimaltenango,Tecpán Guatemala
+2052,Guatemala,San Miguel Petapa
+2053,Guatemala,Mixco
+2054,Guatemala,Santa Catarina Pinula
+2055,Guatemala,Guatemala
+2056,Alta Verapaz,Cabecera municipal
+2057,Quetzaltenango,Quetzaltenango
+2058,Chimaltenango,Chimaltenango
+2059,Guatemala,Villa Nueva
+2060,Guatemala,Santa Catarina Pinula
+2061,Escuintla,Santa Lucía Cotzumalguapa
+2062,GUATEMALA,Mixco
+2063,Zacapa,Cabecera municipal
+2064,Chimaltenango,PATZÚN
+2065,Guatemala,No especificado
+2066,Guatemala,Villa Nueva
+2067,Sacatepéquez,Sumpango
+2068,San Marcos,San Marcos
+2069,Totonicapán,Totonicapán
+2070,Jutiapa,Otro municipio
+2071,Jutiapa,Cabecera municipal
+2072,Sacatepéquez,Ciudad Vieja
+2073,Quetzaltenango,Olintepeque
+2074,Chimaltenango,PATZÚN
+2075,Escuintla,Santa Lucía Cotzumalguapa
+2076,Quetzaltenango,Quetzaltenango
+2077,Guatemala,Villa Nueva
+2078,Guatemala,Villa Nueva
+2079,Santa Rosa,Santa Rosa
+2080,Guatemala,Villa Nueva
+2081,Guatemala,Santa Catarina Pinula
+2082,Guatemala,Villa Nueva
+2083,Quetzaltenango,Quetzaltenango
+2084,Sacatepéquez,Ciudad Vieja
+2085,Retalhuleu,Otro municipio
+2086,Guatemala,Mixco
+2087,Guatemala,Santa Catarina Pinula
+2088,Guatemala,Villa Nueva
+2090,Guatemala,Mixco
+2091,Chimaltenango,Chimaltenango
+2092,Guatemala,San Miguel Petapa
+2093,Guatemala,Mixco
+2094,Chimaltenango,Tecpán Guatemala
+2095,Quetzaltenango,Coatepeque
+2096,Guatemala,No especificado
+2097,Guatemala,Guatemala
+2098,Chimaltenango,Tecpán Guatemala
+2099,Huehuetenango,Otro municipio
+2100,Quetzaltenango,Coatepeque
+2101,Guatemala,Guatemala
+2102,Guatemala,Villa Nueva
+2103,Guatemala,San Miguel Petapa
+2104,Quiché,Cabecera municipal
+2105,Guatemala,Guatemala
+2106,Guatemala,Villa Nueva
+2107,Guatemala,San Miguel Petapa
+2108,Guatemala,Mixco
+2109,Chiquimula,Cabecera municipal
+2110,Suchitepéquez,Suchitepéquez
+2111,Guatemala,Mixco
+2112,Guatemala,Mixco
+2113,Guatemala,Santa Catarina Pinula
+2114,Sacatepéquez,Sumpango
+2115,Quetzaltenango,Olintepeque
+2116,Santa Rosa,Cabecera municipal
+2117,Guatemala,San Miguel Petapa
+2118,Guatemala,San Miguel Petapa
+2119,Guatemala,Villa Nueva
+2120,Guatemala,Santa Catarina Pinula
+2121,Guatemala,Guatemala
+2122,Guate,Santa Catarina Pinula
+2123,Suchitepéquez,Cabecera municipal
+2125,Quetzaltenango,Coatepeque
+2126,Guatemala,Santa Catarina Pinula
+2127,Quetzaltenango,Quetzaltenango
+2128,Suchitepéquez,Otro municipio
+2129,Jalapa,Otro municipio
+2130,Guatemala,Mixco
+2131,Suchitepéquez,Cabecera municipal
+2132,Baja Verapaz,Otro municipio
+2133,Quetzaltenango,Olintepeque
+2134,Guatemala,Villa Nueva
+2135,San Marcos,San Marcos
+2136,Guatemala,Guatemala
+2137,Guatemala,San Miguel Petapa
+2138,Escuintla,Santa Lucía Cotzumalguapa
+2139,Sacatepéquez,Sumpango
+2140,Huehuetenango,Huehuetenango
+2141,Jutiapa,Jutiapa
+2142,Guatemala,Villa Nueva
+2143,Guatemala,Santa Catarina Pinula
+2144,Chimaltenango,Tecpán Guatemala
+2145,Guatemala,Guatemala
+2146,Quetzaltenango,Olintepeque
+2147,El Progreso,Cabecera municipal
+2148,Guatemala,Guatemala
+2149,Guatemala,Guatemala
+2150,Guatemala,San Miguel Petapa
+2151,Guatemala,Mixco
+2152,Guatemala,Guatemala
+2153,Guatemala,Guatemala
+2154,Guatemala,Santa Catarina Pinula
+2155,Quetzaltenango,Coatepeque
+2156,SANTA ROSA,Cabecera municipal
+2157,Quetzaltenango,Olintepeque
+2158,Chimaltenango,TECPÁN GUATEMALA
+2159,Escuintla,Escuintla
+2160,Guatemala,Santa Catarina Pinula
+2161,Guatemala,Guatemala
+2162,Guatemala,Santa Catarina Pinula
+2163,Guatemala,Guatemala
+2164,Petén,San Benito
+2165,Alta Verapaz,Alta Verapaz
+2166,Guatemala,San Miguel Petapa
+2167,Guatemala,Villa Nueva
+2168,El Progreso,Otro municipio
+2169,Escuintla,Santa Lucía Cotzumalguapa
+2170,Escuintla,Escuintla
+2171,Guatemala,Santa Catarina Pinula
+2172,Quiché,Quiché
+2173,Guatemala,Mixco
+2174,SACATEPÉQUEZ,Antigua Guatemala
+2175,Santa Rosa,Otro municipio
+2176,Retalhuleu,Retalhuleu
+2177,Guatemala,San Miguel Petapa
+2178,Escuintla,Santa Lucía Cotzumalguapa
+2179,San Marcos,San Marcos
+2180,Alta Verapaz,Cabecera municipal
+2181,Guatemala,San Miguel Petapa
+2182,Guatemala,Guatemala
+2183,Chimaltenango,Tecpán Guatemala
+2184,Guate,Santa Catarina Pinula
+2185,SACATEPÉQUEZ,Antigua Guatemala
+2186,Guatemala,Santa Catarina Pinula
+2187,Chimaltenango,Patzún
+2188,Totonicapán,Otro municipio
+2189,El Progreso,Otro municipio
+2190,Guatemala,Guatemala
+2191,Santa Rosa,Cabecera municipal
+2192,Alta Verapaz,Alta Verapaz
+2193,Quetzaltenango,COATEPEQUE
+2194,Chimaltenango,Patzún
+2195,Guatemala,Villa Nueva
+2196,Escuintla,Palín
+2197,Jutiapa,Cabecera municipal
+2198,Chimaltenango,Tecpán Guatemala
+2200,Zacapa,Zacapa
+2201,Guatemala,Mixco
+2202,Guate,Guatemala
+2203,Guatemala,San Miguel Petapa
+2204,Guatemala,SANTA CATARINA PINULA
+2205,Guatemala,Guatemala
+2206,Jalapa,Cabecera municipal
+2207,Guatemala,Santa Catarina Pinula
+2208,Escuintla,Palín
+2209,Guatemala,Mixco
+2210,Guatemala,Guatemala
+2211,Santa Rosa,Cabecera municipal
+2212,Quetzaltenango,Quetzaltenango
+2213,Guatemala,Guatemala
+2214,Guatemala,San Miguel Petapa
+2215,Suchitepéquez,Cabecera municipal
+2216,Zacapa,OTRO MUNICIPIO
+2217,Sacatepéquez,Ciudad Vieja
+2218,Guatemala,Villa Nueva
+2219,Totonicapán,Otro municipio
+2220,Baja Verapaz,Otro municipio
+2221,Quetzaltenango,Coatepeque
+2222,Guatemala,Mixco
+2223,Guatemala,Mixco
+2224,Guatemala,Santa Catarina Pinula
+2225,Guatemala,Villa Nueva
+2226,Guatemala,Villa Nueva
+2227,Guatemala,Santa Catarina Pinula
+2228,Suchitepéquez,Suchitepéquez
+2229,Quetzaltenango,Coatepeque
+2230,Escuintla,Santa Lucía Cotzumalguapa
+2231,Santa Rosa,Otro municipio
+2232,Guatemala,Santa Catarina Pinula
+2233,Quetzaltenango,Olintepeque
+2234,Escuintla,Palín
+2235,Chimaltenango,Patzún
+2236,Guatemala,Guatemala
+2237,Guatemala,Guatemala
+2238,Suchitepéquez,Cabecera municipal
+2239,Jalapa,Otro municipio
+2240,Escuintla,Santa Lucía Cotzumalguapa
+2241,Quetzaltenango,No especificado
+2242,Escuintla,Santa Lucía Cotzumalguapa
+2243,San Marcos,San Marcos
+2244,Guatemala,Guatemala
+2245,Guatemala,San Miguel Petapa
+2246,Sacatepéquez,Ciudad Vieja
+2247,Sololá,Sololá
+2248,Guatemala,Santa Catarina Pinula
+2249,Guatemala,San Miguel Petapa
+2250,Quetzaltenango,Coatepeque
+2251,Guatemala,Mixco
+2252,Baja Verapaz,CABECERA MUNICIPAL
+2253,Alta Verapaz,Cabecera municipal
+2254,Quetzaltenango,Quetzaltenango
+2255,Guatemala,Mixco
+2256,QUETZALTENANGO,Quetzaltenango
+2257,Guatemala,San Miguel Petapa
+2258,Guatemala,Villa Nueva
+2259,Escuintla,No especificado
+2260,Quetzaltenango,Coatepeque
+2261,Guatemala,San Miguel Petapa
+2262,Chimaltenango,Chimaltenango
+2263,Huehuetenango,Cabecera municipal
+2264,Guatemala,GUATEMALA
+2265,Alta Verapaz,Cabecera municipal
+2266,Jalapa,Cabecera municipal
+2267,Santa Rosa,OTRO MUNICIPIO
+2268,Chimaltenango,Patzún
+2269,El Progreso,Cabecera municipal
+2270,Sacatepéquez,Jocotenango
+2271,Guatemala,San Miguel Petapa
+2272,Jalapa,Otro municipio
+2273,Santa Rosa,Santa Rosa
+2274,Guatemala,Villa Nueva
+2275,Chimaltenango,Chimaltenango
+2276,Baja Verapaz,Baja Verapaz
+2277,Guatemala,Mixco
+2278,Quiché,Cabecera municipal
+2279,Sacatepéquez,Sumpango
+2280,Petén,Flores
+2281,Guatemala,Guatemala
+2282,Escuintla,Palín
+2283,Alta Verapaz,Otro municipio
+2284,Chiquimula,Cabecera municipal
+2285,Escuintla,Escuintla
+2286,Escuintla,Santa Lucía Cotzumalguapa
+2287,Guatemala,Mixco
+2288,Sacatepéquez,Ciudad Vieja
+2289,Guatemala,Villa Nueva
+2290,Izabal,Otro municipio
+2291,Sololá,Cabecera municipal
+2292,Sacatepéquez,Sumpango
+2293,Suchitepéquez,Suchitepéquez
+2294,Sacatepéquez,Jocotenango
+2295,Guatemala,Santa Catarina Pinula
+2296,Izabal,Otro municipio
+2297,Sacatepéquez,Ciudad Vieja
+2298,Guatemala,Santa Catarina Pinula
+2299,Zacapa,Otro municipio
+2300,Guatemala,Villa Nueva
+2301,Santa Rosa,Otro municipio
+2302,Escuintla,Palín
+2303,Guatemala,Guatemala
+2304,Sacatepéquez,Jocotenango
+2305,Santa Rosa,Cabecera municipal
+2306,Zacapa,Otro municipio
+2307,Guatemala,San Miguel Petapa
+2308,Sacatepéquez,Jocotenango
+2309,Guatemala,No especificado
+2310,Alta Verapaz,Otro municipio
+2311,Guatemala,Santa Catarina Pinula
+2312,Sololá,Otro municipio
+2313,Baja Verapaz,Otro municipio
+2314,Guatemala,Santa Catarina Pinula
+2315,Guatemala,No especificado
+2316,Retalhuleu,Otro municipio
+2317,Sacatepéquez,Antigua Guatemala
+2318,Chimaltenango,Patzún
+2319,ESCUINTLA,Santa Lucía Cotzumalguapa
+2320,Guatemala,Villa Nueva
+2321,GUATEMALA,Guatemala
+2322,Guatemala,Villa Nueva
+2323,Guatemala,San Miguel Petapa
+2324,Guatemala,San Miguel Petapa
+2325,Escuintla,Santa Lucía Cotzumalguapa
+2326,QUETZALTENANGO,OLINTEPEQUE
+2327,Escuintla,Palín
+2328,Guatemala,San Miguel Petapa
+2329,GUATEMALA,San Miguel Petapa
+2331,Quetzaltenango,Coatepeque
+2332,Zacapa,Zacapa
+2333,Santa Rosa,Santa Rosa
+2334,Guatemala,Villa Nueva
+2335,Quetzaltenango,Quetzaltenango
+2336,El Progreso,Cabecera municipal
+2337,Escuintla,Escuintla
+2338,Guatemala,Mixco
+2339,Zacapa,Cabecera municipal
+2340,Guatemala,San Miguel Petapa
+2341,Chimaltenango,Chimaltenango
+2342,Guatemala,San Miguel Petapa
+2343,Sacatepéquez,Antigua Guatemala
+2344,GUATEMALA,Mixco
+2345,Quiché,Otro municipio
+2346,Guatemala,Santa Catarina Pinula
+2347,Guatemala,Santa Catarina Pinula
+2348,Sacatepéquez,Jocotenango
+2349,Quetzaltenango,Quetzaltenango
+2350,Retalhuleu,Otro municipio
+2351,Guatemala,Villa Nueva
+2352,Guatemala,San Miguel Petapa
+2353,Guatemala,Santa Catarina Pinula
+2354,Guatemala,Santa Catarina Pinula
+2355,Retalhuleu,Retalhuleu
+2356,Escuintla,Escuintla
+2357,Quetzaltenango,Quetzaltenango
+2358,Quetzaltenango,Quetzaltenango
+2359,Guatemala,Santa Catarina Pinula
+2360,Sacatepéquez,Jocotenango
+2361,Chiquimula,Otro municipio
+2362,Retalhuleu,Cabecera municipal
+2363,Guatemala,Santa Catarina Pinula
+2364,San Marcos,Otro municipio
+2365,Sacatepéquez,Antigua Guatemala
+2366,CHIMALTENANGO,Chimaltenango
+2367,Guatemala,Guatemala
+2368,Guatemala,Mixco
+2369,Guatemala,San Miguel Petapa
+2370,Santa Rosa,Cabecera municipal
+2371,Guatemala,San Miguel Petapa
+2372,Suchitepéquez,Otro municipio
+2373,Quetzaltenango,Quetzaltenango
+2374,Quetzaltenango,Olintepeque
+2375,Escuintla,Palín
+2376,Guatemala,Mixco
+2377,Escuintla,Escuintla
+2378,Chimaltenango,Chimaltenango
+2379,Sacatepéquez,Ciudad Vieja
+2380,Guatemala,Santa Catarina Pinula
+2381,Guatemala,San Miguel Petapa
+2382,Guatemala,Mixco
+2383,Jutiapa,Jutiapa
+2384,Guatemala,Mixco
+2385,San Marcos,Cabecera municipal
+2386,Izabal,Izabal
+2387,El Progreso,Cabecera municipal
+2388,Retalhuleu,Cabecera municipal
+2389,El Progreso,Cabecera municipal
+2390,Quetzaltenango,Coatepeque
+2391,GUATEMALA,Guatemala
+2392,Totonicapán,Otro municipio
+2393,Guatemala,Villa Nueva
+2394,Sacatepéquez,Jocotenango
+2395,Escuintla,Escuintla
+2396,Sacatepéquez,Sumpango
+2397,Guatemala,Mixco
+2398,Guatemala,Guatemala
+2399,Guatemala,San Miguel Petapa
+2400,Guatemala,San Miguel Petapa
+2401,Chiquimula,Cabecera municipal
+2402,Guatemala,Villa Nueva
+2403,Sololá,Sololá
+2404,Escuintla,Escuintla
+2406,Quiché,Cabecera municipal
+2407,Chiquimula,Chiquimula
+2408,Quiché,Cabecera municipal
+2409,Guatemala,Mixco
+2410,Chiquimula,Cabecera municipal
+2411,Totonicapán,Cabecera municipal
+2412,Guatemala,Mixco
+2413,Jutiapa,Otro municipio
+2414,Quetzaltenango,Quetzaltenango
+2415,Alta Verapaz,Cabecera municipal
+2416,Quetzaltenango,Quetzaltenango
+2417,Chimaltenango,Patzún
+2418,Guatemala,San Miguel Petapa
+2419,Retalhuleu,Otro municipio
+2420,Guatemala,Guatemala
+2421,Guatemala,Guatemala
+2422,Guatemala,Santa Catarina Pinula
+2423,Guatemala,Guatemala
+2424,Quetzaltenango,Olintepeque
+2425,Petén,Flores
+2426,Sacatepéquez,Jocotenango
+2427,Sololá,Otro municipio
+2428,Guatemala,San Miguel Petapa
+2429,Guatemala,Mixco
+2430,Quetzaltenango,Coatepeque
+2431,ESCUINTLA,Escuintla
+2432,Guatemala,Mixco
+2433,Totonicapán,Totonicapán
+2434,Alta Verapaz,Alta Verapaz
+2435,Sololá,OTRO MUNICIPIO
+2436,Baja Verapaz,No especificado
+2437,Guatemala,Villa Nueva
+2438,Petén,Poptún
+2440,Guatemala,VILLA NUEVA
+2441,El Progreso,El Progreso
+2442,Escuintla,Palín
+2443,Quetzaltenango,Olintepeque
+2444,Jalapa,nan
+2445,Huehuetenango,Otro municipio
+2446,Quetzaltenango,Coatepeque
+2447,Sacatepéquez,Sumpango
+2448,Escuintla,Santa Lucía Cotzumalguapa
+2449,Guatemala,San Miguel Petapa
+2450,Quetzaltenango,Quetzaltenango
+2451,Suchitepéquez,Suchitepéquez
+2452,Guatemala,San Miguel Petapa
+2453,Chimaltenango,Tecpán Guatemala
+2454,Guatemala,Mixco
+2455,Sololá,Otro municipio
+2456,Guatemala,Mixco
+2457,Chiquimula,Otro municipio
+2458,Sacatepéquez,Antigua Guatemala
+2459,Sacatepéquez,No especificado
+2460,Guatemala,Villa Nueva
+2461,Santa Rosa,Cabecera municipal
+2462,Chiquimula,Chiquimula
+2463,Chiquimula,Otro municipio
+2464,Guatemala,Guatemala
+2465,Guatemala,Guatemala
+2466,Sacatepéquez,Jocotenango
+2467,Guatemala,Mixco
+2468,Guatemala,Mixco
+2469,Retalhuleu,Retalhuleu
+2470,Chimaltenango,Chimaltenango
+2471,Quiché,Quiché
+2472,GUATEMALA,Villa Nueva
+2473,Guatemala,Mixco
+2474,Guatemala,San Miguel Petapa
+2475,Guatemala,Mixco
+2476,Guatemala,Guatemala
+2477,Guatemala,San Miguel Petapa
+2479,JALAPA,Otro municipio
+2480,Chiquimula,Chiquimula
+2481,Guatemala,Mixco
+2482,Petén,San Benito
+2483,Chiquimula,Cabecera municipal
+2484,Quetzaltenango,Coatepeque
+2485,Guatemala,Santa Catarina Pinula
+2486,Guatemala,Mixco
+2487,Petén,San Benito
+2488,Sacatepéquez,Ciudad Vieja
+2489,Quetzaltenango,Olintepeque
+2490,Retalhuleu,Cabecera municipal
+2491,Quetzaltenango,Coatepeque
+2492,Guatemala,Villa Nueva
+2493,Escuintla,Santa Lucía Cotzumalguapa
+2494,Chimaltenango,Chimaltenango
+2495,Guatemala,Santa Catarina Pinula
+2496,Guatemala,Mixco
+2497,San Marcos,Cabecera municipal
+2498,Quetzaltenango,Olintepeque
+2499,Guatemala,Santa Catarina Pinula
+2500,Sacatepéquez,Sumpango

@@ -1,0 +1,2476 @@
+﻿id_campania,TipoPublicidadAtractiva,PromocionPreferida,CampaniaMasProbableCompra,CompraTarjetasColeccionables
+1,Una selección nacional,Sorteo de viajes,Edición Francia,Sí
+2,Una selección nacional,Producto gratis,Edición Brasil,Sí
+3,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+4,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+5,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+6,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+7,Premios y sorteos,2x1,Edición España,Sí
+8,Una selección nacional,Tarjetas coleccionables,Edición Brasil,No
+9,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+10,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+11,Una selección nacional,2x1,Edición Inglaterra,Sí
+12,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+13,Historias de aficionados,2x1,Edición Argentina,No
+14,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+15,Un jugador famoso,Producto gratis,Edición Inglaterra,Sí
+16,Premios y sorteos,Tarjetas coleccionables,Edición España,Sí
+17,Historias de aficionados,2x1,Edición Francia,Sí
+18,Humor,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+19,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+20,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+21,Historias de aficionados,Sorteo de camisetas,Edición Brasil,No
+22,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+23,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+24,Historias de aficionados,Sorteo de viajes,Edición Francia,No
+25,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+26,Humor,2x1,Edición Francia,No
+27,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+28,Historias de aficionados,Producto gratis,Edición Inglaterra,Sí
+29,Historias de aficionados,Producto gratis,Edición con jugadores famosos,Sí
+30,Un jugador famoso,Descuento directo,Edición Brasil,No
+31,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+32,Humor,2x1,Edición Brasil,No
+33,Historias de aficionados,2x1,Edición con jugadores famosos,No
+34,Una selección nacional,Producto gratis,Edición Inglaterra,Sí
+35,Historias de aficionados,Sorteo de viajes,Edición Argentina,No
+36,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+37,Un jugador famoso,Sorteo de viajes,Edición Francia,Sí
+38,Historias de aficionados,Descuento directo,Edición España,No
+39,Premios y sorteos,Sorteo de camisetas,Edición España,Sí
+40,Una selección nacional,2x1,Edición Inglaterra,No
+41,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+42,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+43,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+44,Historias de aficionados,2x1,Edición Argentina,Sí
+45,Humor,Tarjetas coleccionables,Edición España,No
+46,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,No
+47,Un jugador famoso,2x1,Edición Francia,Sí
+48,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+49,Humor,Sorteo de viajes,Edición Inglaterra,No
+50,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+51,Una selección nacional,2x1,Edición Argentina,No
+52,Humor,Descuento directo,Edición Brasil,Sí
+53,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+54,Humor,Sorteo de balones,Edición Argentina,No
+55,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+56,Humor,Descuento directo,Edición con jugadores famosos,Sí
+57,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+58,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+59,Una selección nacional,Descuento directo,Edición Brasil,No
+60,Un jugador famoso,Descuento directo,Edición España,No
+61,Un jugador famoso,2x1,Edición con jugadores famosos,No
+62,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+63,Un jugador famoso,Sorteo de balones,Edición Francia,Sí
+64,Una selección nacional,Sorteo de camisetas,Edición Francia,Sí
+65,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+66,Un jugador famoso,2x1,Edición Inglaterra,No
+67,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+68,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+69,Premios y sorteos,Sorteo de viajes,Edición Argentina,No
+70,Una selección nacional,Producto gratis,Edición Argentina,Sí
+71,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+72,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+73,Humor,Tarjetas coleccionables,Edición España,No
+74,Humor,Sorteo de viajes,Edición Brasil,No
+75,Premios y sorteos,Tarjetas coleccionables,Edición España,Sí
+76,Una selección nacional,2x1,Edición Brasil,No
+77,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+78,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+79,Una selección nacional,Sorteo de viajes,Edición Inglaterra,Sí
+80,Un jugador famoso,Sorteo de viajes,Edición Inglaterra,No
+81,Una selección nacional,Tarjetas coleccionables,Edición España,No
+82,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+83,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,Sí
+84,Historias de aficionados,2x1,Edición España,Sí
+85,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+86,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+87,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,Sí
+88,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,No
+89,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+90,Humor,Sorteo de balones,Edición Francia,Sí
+91,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+92,Historias de aficionados,Descuento directo,Edición Brasil,No
+93,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+94,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+95,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,No
+96,Un jugador famoso,2x1,Edición Francia,Sí
+97,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+98,Premios y sorteos,Tarjetas coleccionables,Edición Francia,No
+99,Humor,2x1,Edición Brasil,No
+100,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+101,Humor,2x1,Edición con jugadores famosos,No
+102,Un jugador famoso,2x1,Edición Argentina,No
+103,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,Sí
+104,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+105,Humor,Sorteo de viajes,Edición con jugadores famosos,No
+106,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+107,Historias de aficionados,Descuento directo,Edición Argentina,No
+108,Un jugador famoso,Descuento directo,Edición España,Sí
+109,Una selección nacional,Producto gratis,Edición Argentina,No
+110,Historias de aficionados,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+111,Una selección nacional,2x1,Edición Brasil,Sí
+112,Un jugador famoso,Producto gratis,Edición Brasil,Sí
+113,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+114,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+115,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,No
+116,Humor,2x1,Edición Francia,No
+117,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+118,Una selección nacional,2x1,Edición Inglaterra,Sí
+119,Humor,2x1,Edición España,No
+120,Historias de aficionados,2x1,Edición Argentina,Sí
+121,Premios y sorteos,Sorteo de camisetas,Edición España,Sí
+122,Un jugador famoso,Sorteo de viajes,Edición Inglaterra,Sí
+123,Una selección nacional,Sorteo de viajes,Edición España,Sí
+124,Humor,Sorteo de camisetas,Edición Brasil,No
+125,Humor,Sorteo de balones,Edición con jugadores famosos,No
+126,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+127,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+128,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+129,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+130,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,Sí
+131,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+132,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+133,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,No
+134,Historias de aficionados,Sorteo de viajes,Edición Inglaterra,Sí
+135,Historias de aficionados,2x1,Edición con jugadores famosos,No
+136,Humor,Descuento directo,Edición España,Sí
+137,Humor,Descuento directo,Edición España,No
+138,Un jugador famoso,Producto gratis,Edición España,Sí
+139,Un jugador famoso,Sorteo de camisetas,Edición Argentina,Sí
+140,Historias de aficionados,Sorteo de viajes,Edición Brasil,Sí
+141,Premios y sorteos,Descuento directo,Edición Argentina,No
+142,Una selección nacional,Producto gratis,Edición España,Sí
+143,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+144,Historias de aficionados,2x1,Edición Brasil,No
+145,Historias de aficionados,Descuento directo,Edición Argentina,No
+146,Historias de aficionados,Descuento directo,Edición Brasil,No
+147,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+148,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+149,Un jugador famoso,Descuento directo,Edición Francia,No
+150,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+151,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+152,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+153,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+154,Premios y sorteos,2x1,Edición España,No
+155,Premios y sorteos,Descuento directo,Edición Inglaterra,Sí
+156,Una selección nacional,Descuento directo,Edición Inglaterra,No
+157,Premios y sorteos,2x1,Edición Brasil,Sí
+158,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+159,Una selección nacional,Descuento directo,Edición Francia,Sí
+160,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+161,Un jugador famoso,Descuento directo,Edición España,Sí
+162,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+163,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+164,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+165,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+166,Un jugador famoso,Producto gratis,Edición Brasil,No
+167,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+168,Humor,Sorteo de balones,Edición con tarjetas coleccionables,No
+169,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+170,Un jugador famoso,2x1,Edición Argentina,No
+171,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+172,Premios y sorteos,Producto gratis,Edición con jugadores famosos,No
+173,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,Sí
+174,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+175,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+176,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+177,Humor,Producto gratis,Edición Mundial FIFA 2026,Sí
+178,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+179,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+180,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+181,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+182,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+183,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+184,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+185,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+186,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+187,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+188,Humor,2x1,Edición Mundial FIFA 2026,Sí
+189,Una selección nacional,Sorteo de camisetas,Edición Brasil,No
+190,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+191,Un jugador famoso,2x1,Edición Brasil,Sí
+192,Historias de aficionados,Sorteo de camisetas,Edición Argentina,No
+193,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+194,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,No
+195,Humor,Producto gratis,Edición Brasil,Sí
+196,Un jugador famoso,2x1,Edición Brasil,Sí
+197,Humor,2x1,Edición con jugadores famosos,Sí
+198,Un jugador famoso,2x1,Edición con jugadores famosos,No
+199,Una selección nacional,Descuento directo,Edición Francia,Sí
+200,Historias de aficionados,2x1,Edición Francia,Sí
+201,Premios y sorteos,Descuento directo,Edición España,Sí
+202,Una selección nacional,Descuento directo,Edición con jugadores famosos,No
+203,Humor,2x1,Edición Francia,No
+204,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,Sí
+205,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+206,Un jugador famoso,2x1,Edición Francia,No
+207,Premios y sorteos,Tarjetas coleccionables,Edición Francia,Sí
+208,Premios y sorteos,2x1,Edición Argentina,Sí
+209,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+210,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,No
+211,Humor,Tarjetas coleccionables,Edición Argentina,Sí
+212,Premios y sorteos,2x1,Edición Brasil,Sí
+213,Una selección nacional,2x1,Edición con jugadores famosos,No
+214,Humor,Sorteo de camisetas,Edición Inglaterra,No
+215,Un jugador famoso,Descuento directo,Edición Inglaterra,No
+216,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+217,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,No
+218,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+219,Una selección nacional,Tarjetas coleccionables,Edición España,Sí
+220,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+221,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+222,Una selección nacional,Sorteo de viajes,Edición Francia,No
+223,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+224,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+225,Premios y sorteos,2x1,Edición Inglaterra,No
+226,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+227,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+228,Un jugador famoso,Sorteo de viajes,Edición España,Sí
+229,Humor,2x1,Edición con tarjetas coleccionables,No
+230,Una selección nacional,Descuento directo,Edición con jugadores famosos,No
+231,Una selección nacional,2x1,Edición Inglaterra,Sí
+232,Una selección nacional,Descuento directo,Edición Argentina,Sí
+233,Humor,2x1,Edición Brasil,No
+234,Humor,2x1,Edición Mundial FIFA 2026,Sí
+235,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+236,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,Sí
+237,Un jugador famoso,Producto gratis,Edición Francia,Sí
+238,Una selección nacional,2x1,Edición Brasil,No
+239,Premios y sorteos,Producto gratis,Edición Argentina,Sí
+240,Humor,2x1,Edición con tarjetas coleccionables,Sí
+241,Premios y sorteos,Tarjetas coleccionables,Edición Francia,No
+242,Un jugador famoso,Producto gratis,Edición Argentina,No
+243,Una selección nacional,Sorteo de viajes,Edición España,Sí
+244,Un jugador famoso,Descuento directo,Edición España,No
+245,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+246,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+247,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,No
+248,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+249,Un jugador famoso,2x1,Edición Inglaterra,No
+250,Un jugador famoso,Tarjetas coleccionables,Edición Francia,No
+251,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+252,Humor,2x1,Edición Francia,No
+253,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+254,Premios y sorteos,Descuento directo,Edición Brasil,No
+255,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+256,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,No
+257,Premios y sorteos,Producto gratis,Edición Inglaterra,Sí
+258,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+259,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+260,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,No
+261,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+262,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+263,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+264,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+265,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+266,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+267,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+268,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+269,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,No
+270,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,Sí
+271,Un jugador famoso,Descuento directo,Edición Argentina,No
+272,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+273,Humor,Descuento directo,Edición Argentina,Sí
+274,Un jugador famoso,Descuento directo,Edición Argentina,No
+275,Un jugador famoso,Sorteo de camisetas,Edición Francia,No
+276,Humor,2x1,Edición Inglaterra,No
+277,Una selección nacional,Descuento directo,Edición Francia,No
+278,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+279,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+280,Un jugador famoso,Tarjetas coleccionables,Edición Inglaterra,Sí
+281,Un jugador famoso,Sorteo de camisetas,Edición Inglaterra,Sí
+282,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+283,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+284,Historias de aficionados,Sorteo de balones,Edición con tarjetas coleccionables,No
+285,Un jugador famoso,Descuento directo,Edición España,Sí
+286,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,No
+287,Historias de aficionados,2x1,Edición España,Sí
+288,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+289,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+290,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+291,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1595,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+293,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+294,Humor,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+295,Un jugador famoso,2x1,Edición Francia,Sí
+296,Humor,Descuento directo,Edición España,Sí
+297,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+298,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+299,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,No
+300,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+301,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+302,Premios y sorteos,Sorteo de viajes,Edición Argentina,No
+303,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+304,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+305,Historias de aficionados,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+306,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+307,Un jugador famoso,2x1,Edición Brasil,Sí
+308,Humor,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+309,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+310,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+311,Una selección nacional,2x1,Edición España,Sí
+312,Premios y sorteos,2x1,Edición Argentina,Sí
+313,Humor,Producto gratis,Edición con tarjetas coleccionables,Sí
+314,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+315,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+316,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+317,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+318,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+319,Historias de aficionados,Sorteo de camisetas,Edición Brasil,Sí
+320,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+321,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+322,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+323,Un jugador famoso,Producto gratis,Edición España,No
+324,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+325,Premios y sorteos,Tarjetas coleccionables,Edición España,Sí
+326,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+327,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+328,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+329,Historias de aficionados,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+330,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+331,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+332,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+333,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+334,Historias de aficionados,Descuento directo,Edición Brasil,No
+335,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+336,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,No
+337,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+338,Historias de aficionados,Sorteo de balones,Edición Inglaterra,No
+339,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+340,Un jugador famoso,2x1,Edición Argentina,Sí
+341,Una selección nacional,2x1,Edición Francia,No
+342,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+343,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+344,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+345,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+346,Historias de aficionados,2x1,Edición Brasil,Sí
+347,Una selección nacional,Descuento directo,Edición Argentina,Sí
+348,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1960,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+350,Humor,Producto gratis,Edición Brasil,Sí
+351,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+352,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+353,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+354,Historias de aficionados,2x1,Edición con jugadores famosos,No
+355,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+356,Premios y sorteos,2x1,Edición España,No
+357,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+358,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,No
+359,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+360,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+361,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+362,Premios y sorteos,Tarjetas coleccionables,Edición España,No
+363,Premios y sorteos,2x1,Edición España,Sí
+364,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+365,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+366,Una selección nacional,Descuento directo,Edición España,Sí
+367,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+368,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,Sí
+369,Una selección nacional,Sorteo de camisetas,Edición Francia,Sí
+370,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+371,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+372,Una selección nacional,Sorteo de viajes,Edición Argentina,No
+373,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+374,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,No
+375,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,No
+376,Un jugador famoso,Producto gratis,Edición Argentina,No
+377,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+378,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,No
+379,Una selección nacional,Producto gratis,Edición Inglaterra,Sí
+380,Un jugador famoso,Sorteo de balones,Edición España,Sí
+381,Una selección nacional,Descuento directo,Edición Argentina,Sí
+382,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+383,Historias de aficionados,Tarjetas coleccionables,Edición Francia,No
+384,Una selección nacional,Sorteo de balones,Edición Brasil,No
+385,Premios y sorteos,Tarjetas coleccionables,Edición España,No
+386,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+387,Un jugador famoso,Descuento directo,Edición Francia,Sí
+388,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+389,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,No
+390,Historias de aficionados,Producto gratis,Edición Mundial FIFA 2026,Sí
+391,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+392,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+393,Premios y sorteos,Tarjetas coleccionables,Edición Francia,Sí
+394,Humor,Descuento directo,Edición Brasil,Sí
+395,Humor,Sorteo de viajes,Edición Brasil,Sí
+396,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+397,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+398,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,No
+399,Un jugador famoso,2x1,Edición España,Sí
+400,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,No
+401,Una selección nacional,Descuento directo,Edición Brasil,No
+402,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+403,Humor,Producto gratis,Edición con jugadores famosos,Sí
+404,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+405,Historias de aficionados,Tarjetas coleccionables,Edición Inglaterra,Sí
+406,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+407,Una selección nacional,Producto gratis,Edición Argentina,No
+408,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+409,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+410,Una selección nacional,2x1,Edición España,Sí
+411,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+412,Humor,Descuento directo,Edición Francia,Sí
+413,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+414,Historias de aficionados,Sorteo de balones,Edición Argentina,Sí
+415,Una selección nacional,Descuento directo,Edición con jugadores famosos,No
+416,Historias de aficionados,Descuento directo,Edición Argentina,Sí
+417,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+418,Una selección nacional,Descuento directo,Edición Argentina,No
+420,Una selección nacional,Descuento directo,Edición Argentina,Sí
+421,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+422,Un jugador famoso,2x1,Edición Argentina,No
+423,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+424,Premios y sorteos,Tarjetas coleccionables,Edición Francia,Sí
+425,Una selección nacional,Tarjetas coleccionables,Edición España,Sí
+426,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+427,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+428,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+429,Humor,Sorteo de camisetas,Edición Brasil,No
+430,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,No
+431,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+432,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+433,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+434,Historias de aficionados,2x1,Edición Brasil,Sí
+435,Premios y sorteos,2x1,Edición Francia,Sí
+436,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+437,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+438,Un jugador famoso,Descuento directo,Edición Brasil,No
+439,Premios y sorteos,Sorteo de balones,Edición Francia,Sí
+440,Premios y sorteos,2x1,Edición Argentina,Sí
+441,Premios y sorteos,Producto gratis,Edición Argentina,Sí
+442,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,No
+443,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+444,Un jugador famoso,Tarjetas coleccionables,Edición Francia,No
+445,Humor,Descuento directo,Edición Brasil,No
+446,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+447,Premios y sorteos,Sorteo de balones,Edición Argentina,Sí
+448,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+449,Un jugador famoso,Sorteo de viajes,Edición Argentina,Sí
+1193,Historias de aficionados,Producto gratis,Edición España,No
+451,Historias de aficionados,Producto gratis,Edición España,Sí
+452,Una selección nacional,Descuento directo,Edición Francia,Sí
+453,Una selección nacional,Descuento directo,Edición Francia,No
+454,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,No
+455,Un jugador famoso,2x1,Edición Francia,Sí
+456,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+457,Humor,Sorteo de viajes,Edición Argentina,No
+458,Un jugador famoso,Sorteo de balones,Edición Argentina,No
+459,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+460,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+461,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+462,Historias de aficionados,Descuento directo,Edición Argentina,Sí
+463,Un jugador famoso,Sorteo de viajes,Edición Brasil,Sí
+1049,Humor,Sorteo de balones,Edición Francia,No
+465,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+466,Un jugador famoso,2x1,Edición Brasil,Sí
+467,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+468,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+469,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,No
+470,Historias de aficionados,Producto gratis,Edición Brasil,Sí
+471,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+472,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+473,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+2439,Una selección nacional,Sorteo de balones,Edición Francia,Sí
+475,Un jugador famoso,Descuento directo,Edición España,Sí
+476,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+477,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+478,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+479,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,No
+480,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+481,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+482,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+483,Historias de aficionados,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+484,Una selección nacional,2x1,Edición con tarjetas coleccionables,No
+485,Premios y sorteos,2x1,Edición España,Sí
+486,Humor,Descuento directo,Edición con jugadores famosos,No
+487,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+488,Humor,Sorteo de viajes,Edición Argentina,Sí
+489,Humor,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+490,Un jugador famoso,Descuento directo,Edición Francia,Sí
+491,Una selección nacional,2x1,Edición Francia,Sí
+492,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+493,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+494,Historias de aficionados,Tarjetas coleccionables,Edición España,Sí
+495,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+496,Un jugador famoso,2x1,Edición Brasil,No
+497,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+498,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+499,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+500,Un jugador famoso,Sorteo de balones,Edición Francia,No
+501,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+502,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+503,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+504,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+505,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,No
+506,Humor,Sorteo de viajes,Edición Francia,No
+507,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+508,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+509,Humor,Producto gratis,Edición Argentina,Sí
+510,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+511,Humor,Producto gratis,Edición España,Sí
+512,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,Sí
+513,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+514,Un jugador famoso,Sorteo de viajes,Edición Francia,No
+515,Una selección nacional,Sorteo de balones,Edición Brasil,Sí
+516,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+517,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+518,Premios y sorteos,Sorteo de balones,Edición con tarjetas coleccionables,No
+519,Una selección nacional,2x1,Edición Brasil,No
+520,Historias de aficionados,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+521,Un jugador famoso,Descuento directo,Edición Brasil,No
+522,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+523,Una selección nacional,Sorteo de camisetas,Edición Argentina,No
+524,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+525,Una selección nacional,Sorteo de viajes,Edición Brasil,Sí
+526,Un jugador famoso,Sorteo de camisetas,Edición Inglaterra,Sí
+527,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+528,Historias de aficionados,Sorteo de balones,Edición con jugadores famosos,No
+529,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+530,Premios y sorteos,Tarjetas coleccionables,Edición España,No
+531,Una selección nacional,2x1,Edición Francia,No
+532,Premios y sorteos,2x1,Edición Argentina,No
+533,Una selección nacional,Descuento directo,Edición Brasil,No
+534,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+535,Una selección nacional,Sorteo de camisetas,Edición España,No
+536,Historias de aficionados,Sorteo de viajes,Edición Brasil,Sí
+537,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+538,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+539,Una selección nacional,Sorteo de balones,Edición España,No
+540,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+541,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+542,Humor,Descuento directo,Edición con tarjetas coleccionables,No
+543,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+544,Un jugador famoso,2x1,Edición Brasil,Sí
+545,Historias de aficionados,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+546,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+547,Una selección nacional,Sorteo de camisetas,Edición Inglaterra,Sí
+548,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+549,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+550,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+551,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+552,Un jugador famoso,Descuento directo,Edición Francia,Sí
+553,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+554,Premios y sorteos,Sorteo de viajes,Edición España,No
+555,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+556,Un jugador famoso,Sorteo de viajes,Edición España,No
+557,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+558,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+559,Premios y sorteos,Descuento directo,Edición Inglaterra,Sí
+560,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,Sí
+561,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+562,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+563,Historias de aficionados,Producto gratis,Edición con jugadores famosos,Sí
+564,Una selección nacional,2x1,Edición Inglaterra,Sí
+565,Premios y sorteos,Sorteo de camisetas,Edición Argentina,No
+566,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+567,Premios y sorteos,Descuento directo,Edición Inglaterra,Sí
+568,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+569,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+570,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+571,Una selección nacional,Sorteo de camisetas,Edición Argentina,No
+572,Humor,2x1,Edición Mundial FIFA 2026,No
+573,Premios y sorteos,Descuento directo,Edición Argentina,No
+574,Humor,Sorteo de camisetas,Edición con jugadores famosos,No
+575,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+576,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+577,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+578,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+579,Humor,Tarjetas coleccionables,Edición España,Sí
+580,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,No
+581,Una selección nacional,Descuento directo,Edición Brasil,No
+582,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,No
+583,Una selección nacional,2x1,Edición Argentina,No
+584,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+585,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+586,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+587,Una selección nacional,2x1,Edición Argentina,No
+588,Premios y sorteos,Descuento directo,Edición España,Sí
+589,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+590,Historias de aficionados,Sorteo de camisetas,Edición España,Sí
+591,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+592,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+593,Una selección nacional,2x1,Edición Inglaterra,Sí
+594,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+595,Humor,2x1,Edición Brasil,Sí
+596,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+597,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+598,Humor,2x1,Edición España,Sí
+599,Un jugador famoso,2x1,Edición Argentina,No
+600,Humor,Sorteo de viajes,Edición con jugadores famosos,Sí
+601,Humor,2x1,Edición Francia,Sí
+602,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+603,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+604,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+605,Premios y sorteos,Producto gratis,Edición Brasil,No
+606,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+607,Un jugador famoso,Descuento directo,Edición Francia,Sí
+608,Una selección nacional,Descuento directo,Edición Inglaterra,Sí
+609,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1416,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+611,Una selección nacional,Descuento directo,Edición Brasil,Sí
+612,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+613,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+614,Una selección nacional,Sorteo de viajes,Edición Inglaterra,Sí
+615,Una selección nacional,Descuento directo,Edición Inglaterra,No
+1472,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+617,Premios y sorteos,Sorteo de viajes,Edición Inglaterra,Sí
+618,Historias de aficionados,Descuento directo,Edición España,No
+619,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+620,Historias de aficionados,Sorteo de camisetas,Edición Francia,No
+621,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+622,Historias de aficionados,2x1,Edición Francia,No
+623,Un jugador famoso,Descuento directo,Edición España,Sí
+624,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+625,Humor,Producto gratis,Edición con jugadores famosos,Sí
+626,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+627,Historias de aficionados,Sorteo de viajes,Edición Inglaterra,No
+628,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+629,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+630,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+631,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+632,Historias de aficionados,Producto gratis,Edición con jugadores famosos,Sí
+633,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+634,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+635,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+636,Una selección nacional,2x1,Edición Brasil,Sí
+637,Un jugador famoso,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+638,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+639,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+640,Un jugador famoso,2x1,Edición Argentina,No
+641,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+642,Un jugador famoso,Sorteo de viajes,Edición Argentina,Sí
+643,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+644,Historias de aficionados,2x1,Edición Argentina,Sí
+645,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+646,Humor,Descuento directo,Edición España,Sí
+647,Un jugador famoso,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+648,Historias de aficionados,Tarjetas coleccionables,Edición Francia,No
+649,Historias de aficionados,2x1,Edición Brasil,Sí
+650,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+651,Un jugador famoso,Sorteo de camisetas,Edición Argentina,Sí
+652,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+653,Una selección nacional,2x1,Edición Brasil,Sí
+654,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+655,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+656,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+657,Historias de aficionados,2x1,Edición con tarjetas coleccionables,Sí
+658,Premios y sorteos,Sorteo de balones,Edición Francia,No
+659,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+660,Humor,Tarjetas coleccionables,Edición con jugadores famosos,No
+661,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+662,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+663,Un jugador famoso,2x1,Edición con jugadores famosos,No
+664,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+665,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+666,Premios y sorteos,Sorteo de balones,Edición Francia,Sí
+667,Historias de aficionados,Producto gratis,Edición Brasil,No
+668,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+669,Una selección nacional,Sorteo de viajes,Edición Argentina,No
+670,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+671,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+672,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+673,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+674,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,No
+675,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+676,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+677,Humor,2x1,Edición España,Sí
+678,Historias de aficionados,2x1,Edición Argentina,Sí
+679,Premios y sorteos,2x1,Edición Argentina,Sí
+680,Premios y sorteos,Sorteo de camisetas,Edición Brasil,No
+681,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+682,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+683,Una selección nacional,Tarjetas coleccionables,Edición Argentina,No
+684,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+685,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+686,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+687,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,No
+688,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+689,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1961,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+691,Una selección nacional,Sorteo de balones,Edición Brasil,Sí
+692,Un jugador famoso,Sorteo de viajes,Edición España,No
+693,Humor,Sorteo de viajes,Edición Argentina,Sí
+694,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+695,Una selección nacional,Producto gratis,Edición Brasil,Sí
+696,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+697,Historias de aficionados,Producto gratis,Edición Inglaterra,Sí
+698,Una selección nacional,2x1,Edición Inglaterra,Sí
+699,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+700,Un jugador famoso,Producto gratis,Edición con jugadores famosos,No
+701,Una selección nacional,2x1,Edición Argentina,Sí
+702,Una selección nacional,Sorteo de balones,Edición Francia,Sí
+703,Humor,Producto gratis,Edición España,Sí
+704,Humor,Producto gratis,Edición Mundial FIFA 2026,No
+705,Un jugador famoso,2x1,Edición con jugadores famosos,No
+706,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+707,Una selección nacional,2x1,Edición Argentina,Sí
+708,Una selección nacional,Descuento directo,Edición Brasil,No
+709,Historias de aficionados,2x1,Edición Argentina,No
+710,Una selección nacional,Descuento directo,Edición Francia,No
+711,Premios y sorteos,Sorteo de viajes,Edición Francia,No
+712,Historias de aficionados,2x1,Edición Argentina,Sí
+713,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+714,Humor,Descuento directo,Edición con jugadores famosos,Sí
+715,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+716,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+717,Un jugador famoso,2x1,Edición Francia,Sí
+718,Humor,Descuento directo,Edición Argentina,Sí
+719,Una selección nacional,Descuento directo,Edición Argentina,Sí
+720,Premios y sorteos,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+721,Humor,2x1,Edición España,Sí
+722,Humor,Descuento directo,Edición Mundial FIFA 2026,No
+723,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+724,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+725,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+726,Humor,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+727,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+728,Historias de aficionados,2x1,Edición con jugadores famosos,No
+729,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+730,Premios y sorteos,Sorteo de balones,Edición Francia,No
+731,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+732,Premios y sorteos,2x1,Edición España,Sí
+733,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+734,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+735,Humor,Tarjetas coleccionables,Edición Inglaterra,No
+736,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+737,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+738,Premios y sorteos,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+739,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+740,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+741,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+742,Un jugador famoso,2x1,Edición Brasil,Sí
+743,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+744,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,No
+745,Un jugador famoso,Descuento directo,Edición Francia,Sí
+746,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,No
+747,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,No
+748,Un jugador famoso,Sorteo de viajes,Edición Brasil,Sí
+749,Humor,Sorteo de viajes,Edición con jugadores famosos,No
+750,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+751,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,No
+752,Humor,Producto gratis,Edición Mundial FIFA 2026,Sí
+753,Historias de aficionados,2x1,Edición Inglaterra,No
+754,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+755,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+756,Historias de aficionados,2x1,Edición Argentina,Sí
+757,Historias de aficionados,Sorteo de camisetas,Edición Francia,Sí
+758,Un jugador famoso,Sorteo de camisetas,Edición España,Sí
+759,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+760,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+761,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+762,Historias de aficionados,Producto gratis,Edición Mundial FIFA 2026,Sí
+763,Premios y sorteos,2x1,Edición Brasil,No
+764,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+765,Un jugador famoso,Descuento directo,Edición España,No
+766,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+767,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+768,Humor,Descuento directo,Edición Francia,Sí
+769,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+770,Historias de aficionados,Producto gratis,Edición con jugadores famosos,Sí
+771,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+772,Un jugador famoso,2x1,Edición Francia,Sí
+773,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+774,Un jugador famoso,Producto gratis,Edición España,Sí
+775,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+776,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+777,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+778,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+779,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+780,Una selección nacional,Sorteo de camisetas,Edición Brasil,Sí
+781,Humor,Descuento directo,Edición Argentina,Sí
+782,Historias de aficionados,2x1,Edición Inglaterra,Sí
+783,Un jugador famoso,Descuento directo,Edición Francia,Sí
+784,Una selección nacional,2x1,Edición con tarjetas coleccionables,No
+785,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,No
+786,Una selección nacional,2x1,Edición con tarjetas coleccionables,No
+787,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+788,Premios y sorteos,Descuento directo,Edición Argentina,No
+789,Humor,2x1,Edición Brasil,No
+790,Un jugador famoso,Sorteo de balones,Edición España,Sí
+791,Un jugador famoso,Sorteo de balones,Edición Francia,No
+792,Premios y sorteos,Sorteo de balones,Edición Francia,No
+793,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+794,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+795,Historias de aficionados,Sorteo de camisetas,Edición Francia,No
+796,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+797,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+798,Premios y sorteos,Sorteo de viajes,Edición Inglaterra,Sí
+799,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+800,Premios y sorteos,Sorteo de camisetas,Edición Inglaterra,Sí
+801,Una selección nacional,Producto gratis,Edición Argentina,Sí
+802,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,Sí
+803,Historias de aficionados,Descuento directo,Edición Argentina,No
+804,Humor,Sorteo de camisetas,Edición Brasil,Sí
+805,Humor,Sorteo de camisetas,Edición Francia,No
+806,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+807,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+808,Premios y sorteos,Descuento directo,Edición Brasil,No
+809,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+810,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+811,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+812,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+813,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+814,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+815,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+816,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+817,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+818,Un jugador famoso,2x1,Edición con jugadores famosos,No
+819,Una selección nacional,2x1,Edición Francia,Sí
+820,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+821,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,No
+822,Humor,2x1,Edición Argentina,Sí
+823,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+824,Historias de aficionados,Descuento directo,Edición España,Sí
+825,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+826,Una selección nacional,Descuento directo,Edición Francia,Sí
+827,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+828,Un jugador famoso,Sorteo de balones,Edición Francia,Sí
+829,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+830,Premios y sorteos,2x1,Edición Inglaterra,No
+831,Un jugador famoso,Sorteo de viajes,Edición Argentina,Sí
+832,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,No
+833,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+834,Humor,Descuento directo,Edición Inglaterra,Sí
+835,Una selección nacional,Tarjetas coleccionables,Edición Brasil,No
+836,Un jugador famoso,2x1,Edición Francia,Sí
+837,Historias de aficionados,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+838,Humor,2x1,Edición Mundial FIFA 2026,No
+839,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+840,Una selección nacional,Descuento directo,Edición Brasil,No
+841,Humor,Sorteo de balones,Edición España,No
+842,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+843,Historias de aficionados,Descuento directo,Edición Argentina,No
+844,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+845,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+846,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+847,Humor,Descuento directo,Edición Argentina,Sí
+848,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+849,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+850,Humor,Producto gratis,Edición Brasil,No
+851,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+852,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+853,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+854,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+855,Un jugador famoso,Sorteo de camisetas,Edición España,Sí
+856,Humor,2x1,Edición España,No
+857,Humor,Descuento directo,Edición Francia,Sí
+858,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+859,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+860,Humor,Tarjetas coleccionables,Edición con jugadores famosos,No
+861,Humor,Tarjetas coleccionables,Edición España,Sí
+862,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+863,Premios y sorteos,Sorteo de camisetas,Edición Brasil,No
+864,Una selección nacional,Descuento directo,Edición Brasil,No
+865,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+866,Un jugador famoso,Descuento directo,Edición Argentina,No
+867,Humor,2x1,Edición Brasil,No
+868,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+869,Un jugador famoso,2x1,Edición Argentina,Sí
+870,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+871,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+872,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+873,Una selección nacional,Sorteo de viajes,Edición Francia,Sí
+874,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+875,Una selección nacional,Descuento directo,Edición Argentina,Sí
+876,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+877,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+878,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+879,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+880,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+881,Un jugador famoso,2x1,Edición Brasil,Sí
+882,Premios y sorteos,Sorteo de balones,Edición Brasil,Sí
+883,Una selección nacional,Descuento directo,Edición Brasil,Sí
+884,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+885,Humor,Sorteo de viajes,Edición Inglaterra,No
+886,Un jugador famoso,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+888,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+889,Una selección nacional,2x1,Edición Argentina,Sí
+890,Una selección nacional,2x1,Edición Francia,Sí
+891,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+892,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+893,Un jugador famoso,Sorteo de camisetas,Edición Argentina,Sí
+894,Historias de aficionados,2x1,Edición Inglaterra,Sí
+895,Historias de aficionados,2x1,Edición con tarjetas coleccionables,Sí
+896,Un jugador famoso,2x1,Edición con jugadores famosos,No
+897,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+898,Una selección nacional,Sorteo de balones,Edición España,Sí
+899,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+900,Humor,Descuento directo,Edición Francia,Sí
+901,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+902,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+903,Humor,Sorteo de camisetas,Edición con jugadores famosos,No
+904,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+905,Una selección nacional,Producto gratis,Edición Francia,No
+906,Un jugador famoso,Descuento directo,Edición Brasil,No
+907,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+908,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+909,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+910,Premios y sorteos,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+911,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+912,Una selección nacional,Producto gratis,Edición España,Sí
+913,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+914,Un jugador famoso,Sorteo de balones,Edición Inglaterra,No
+915,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+916,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+917,Una selección nacional,2x1,Edición Brasil,No
+918,Premios y sorteos,Producto gratis,Edición Brasil,No
+919,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+920,Premios y sorteos,2x1,Edición Inglaterra,Sí
+921,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+922,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+923,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+924,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+925,Un jugador famoso,Descuento directo,Edición Argentina,No
+926,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,No
+927,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+928,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+929,Historias de aficionados,Sorteo de viajes,Edición Brasil,Sí
+930,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,No
+931,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+932,Un jugador famoso,Producto gratis,Edición Francia,Sí
+933,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+934,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+935,Historias de aficionados,Sorteo de balones,Edición Argentina,Sí
+936,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+937,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+939,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+940,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+941,Humor,2x1,Edición Brasil,Sí
+942,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,No
+943,Un jugador famoso,2x1,Edición España,Sí
+944,Humor,2x1,Edición Mundial FIFA 2026,Sí
+945,Premios y sorteos,Sorteo de camisetas,Edición Francia,No
+946,Humor,2x1,Edición Brasil,Sí
+947,Un jugador famoso,Descuento directo,Edición España,No
+948,Una selección nacional,2x1,Edición Brasil,Sí
+949,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+950,Historias de aficionados,Sorteo de camisetas,Edición Inglaterra,No
+951,Un jugador famoso,Sorteo de balones,Edición Inglaterra,Sí
+952,Una selección nacional,Sorteo de camisetas,Edición España,No
+953,Humor,Sorteo de camisetas,Edición Francia,No
+954,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+955,Una selección nacional,2x1,Edición Francia,Sí
+956,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+957,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,Sí
+958,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+959,Un jugador famoso,Sorteo de camisetas,Edición Francia,Sí
+960,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+961,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,No
+962,Un jugador famoso,Descuento directo,Edición Argentina,No
+963,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+964,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+965,Historias de aficionados,Producto gratis,Edición España,No
+966,Una selección nacional,Descuento directo,Edición Argentina,Sí
+967,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+968,Historias de aficionados,2x1,Edición con jugadores famosos,No
+969,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+970,Una selección nacional,Sorteo de camisetas,Edición Francia,Sí
+971,Un jugador famoso,Sorteo de camisetas,Edición Argentina,Sí
+972,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+973,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+974,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+975,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+976,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+977,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+978,Humor,Descuento directo,Edición Argentina,Sí
+979,Humor,Sorteo de camisetas,Edición Inglaterra,Sí
+980,Humor,2x1,Edición Inglaterra,Sí
+981,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+982,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,No
+983,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+984,Un jugador famoso,Descuento directo,Edición Argentina,No
+985,Humor,Descuento directo,Edición Inglaterra,No
+986,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+987,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+988,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+989,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+990,Premios y sorteos,Sorteo de balones,Edición Inglaterra,No
+991,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+992,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+993,Una selección nacional,Descuento directo,Edición Argentina,No
+994,Una selección nacional,Tarjetas coleccionables,Edición Francia,No
+995,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+996,Una selección nacional,Descuento directo,Edición Argentina,Sí
+997,Premios y sorteos,2x1,Edición Francia,Sí
+998,Un jugador famoso,Descuento directo,Edición España,No
+999,Humor,Sorteo de camisetas,Edición Francia,Sí
+1000,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,No
+1001,Un jugador famoso,Tarjetas coleccionables,Edición Francia,No
+1002,Un jugador famoso,Descuento directo,Edición España,No
+1003,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1004,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1005,Una selección nacional,Descuento directo,Edición España,Sí
+1006,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1007,Humor,Producto gratis,Edición Argentina,Sí
+1008,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+1009,Una selección nacional,Descuento directo,Edición Francia,No
+1010,Un jugador famoso,Producto gratis,Edición Inglaterra,Sí
+1011,Historias de aficionados,Sorteo de camisetas,Edición Argentina,No
+1012,Una selección nacional,Producto gratis,Edición Francia,No
+1013,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+1014,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1015,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,No
+1016,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1017,Una selección nacional,Descuento directo,Edición Brasil,Sí
+1018,Una selección nacional,Sorteo de camisetas,Edición Inglaterra,Sí
+1019,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+1020,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+1021,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+1022,Historias de aficionados,2x1,Edición con tarjetas coleccionables,Sí
+1023,Un jugador famoso,2x1,Edición Francia,Sí
+1024,Una selección nacional,Sorteo de camisetas,Edición Francia,No
+1025,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1026,Premios y sorteos,2x1,Edición España,Sí
+1027,Una selección nacional,2x1,Edición Argentina,No
+1028,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+1029,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1030,Un jugador famoso,Sorteo de balones,Edición Brasil,Sí
+1031,Premios y sorteos,Tarjetas coleccionables,Edición Francia,Sí
+1032,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1033,Premios y sorteos,Sorteo de camisetas,Edición Argentina,No
+1034,Una selección nacional,Producto gratis,Edición Brasil,No
+1035,Humor,Sorteo de balones,Edición Mundial FIFA 2026,No
+1036,Humor,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+1037,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+1038,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+1039,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+1040,Una selección nacional,2x1,Edición Argentina,Sí
+1041,Premios y sorteos,Tarjetas coleccionables,Edición España,No
+1042,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+1043,Una selección nacional,2x1,Edición Argentina,Sí
+1044,Humor,Sorteo de camisetas,Edición Argentina,Sí
+1045,Premios y sorteos,Descuento directo,Edición España,Sí
+1046,Un jugador famoso,2x1,Edición España,Sí
+1047,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1048,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+1050,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+1051,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,No
+1052,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1053,Historias de aficionados,Descuento directo,Edición Inglaterra,No
+1054,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,No
+1055,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1056,Una selección nacional,Descuento directo,Edición Argentina,No
+1057,Humor,Producto gratis,Edición con tarjetas coleccionables,No
+1058,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1059,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+1060,Historias de aficionados,2x1,Edición Mundial FIFA 2026,Sí
+1061,Premios y sorteos,2x1,Edición Argentina,Sí
+1062,Historias de aficionados,Sorteo de balones,Edición con jugadores famosos,No
+1063,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+1064,Humor,Producto gratis,Edición con tarjetas coleccionables,Sí
+1065,Un jugador famoso,Sorteo de balones,Edición España,Sí
+1066,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1067,Humor,2x1,Edición Brasil,Sí
+1068,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+1069,Un jugador famoso,Tarjetas coleccionables,Edición Inglaterra,Sí
+1070,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+1071,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1072,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+1073,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1074,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1075,Un jugador famoso,2x1,Edición Francia,No
+1076,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+1077,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1078,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1079,Una selección nacional,Descuento directo,Edición Argentina,Sí
+1080,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1081,Historias de aficionados,2x1,Edición Francia,Sí
+1082,Humor,Sorteo de camisetas,Edición Francia,No
+1083,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1084,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+1085,Un jugador famoso,Producto gratis,Edición con jugadores famosos,No
+1086,Un jugador famoso,Tarjetas coleccionables,Edición Inglaterra,No
+1087,Una selección nacional,Producto gratis,Edición Argentina,Sí
+1088,Humor,Tarjetas coleccionables,Edición con jugadores famosos,No
+1089,Una selección nacional,Descuento directo,Edición Francia,Sí
+2124,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+1091,Premios y sorteos,Sorteo de balones,Edición España,No
+1092,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1093,Humor,Descuento directo,Edición con tarjetas coleccionables,Sí
+1094,Un jugador famoso,Producto gratis,Edición Brasil,Sí
+1095,Humor,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+1096,Humor,Tarjetas coleccionables,Edición España,Sí
+1097,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,No
+1098,Una selección nacional,Producto gratis,Edición Francia,Sí
+1099,Premios y sorteos,Sorteo de camisetas,Edición Brasil,No
+1100,Una selección nacional,2x1,Edición Argentina,No
+1101,Humor,Descuento directo,Edición Brasil,Sí
+1102,Humor,Descuento directo,Edición Francia,No
+1103,Humor,Tarjetas coleccionables,Edición Argentina,No
+1104,Un jugador famoso,Sorteo de camisetas,Edición Francia,No
+1105,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1106,Historias de aficionados,2x1,Edición Mundial FIFA 2026,No
+1107,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+2199,Humor,Sorteo de viajes,Edición Argentina,No
+1109,Premios y sorteos,Descuento directo,Edición Argentina,No
+1110,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1111,Una selección nacional,Producto gratis,Edición Argentina,Sí
+1112,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1113,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+1114,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+1115,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1117,Humor,2x1,Edición Brasil,Sí
+1118,Premios y sorteos,2x1,Edición Inglaterra,Sí
+1119,Un jugador famoso,2x1,Edición España,No
+1120,Un jugador famoso,Descuento directo,Edición Brasil,No
+1121,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+1122,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+1123,Premios y sorteos,Sorteo de camisetas,Edición Inglaterra,Sí
+1124,Una selección nacional,Descuento directo,Edición España,No
+1125,Humor,Tarjetas coleccionables,Edición Brasil,Sí
+1126,Humor,Descuento directo,Edición con tarjetas coleccionables,No
+1127,Humor,2x1,Edición Inglaterra,No
+1129,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1130,Humor,Descuento directo,Edición España,Sí
+1131,Historias de aficionados,Producto gratis,Edición Brasil,No
+1132,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+1133,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1134,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+1135,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+1136,Una selección nacional,Producto gratis,Edición Brasil,No
+1137,Una selección nacional,2x1,Edición Brasil,Sí
+1138,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+1139,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1140,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+1141,Humor,Descuento directo,Edición con jugadores famosos,Sí
+1142,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1143,Humor,Tarjetas coleccionables,Edición con jugadores famosos,No
+1144,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+1145,Una selección nacional,2x1,Edición Inglaterra,No
+1146,Una selección nacional,Sorteo de camisetas,Edición Brasil,Sí
+1147,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1148,Historias de aficionados,Producto gratis,Edición Francia,Sí
+1149,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+1150,Una selección nacional,2x1,Edición Brasil,Sí
+1151,Una selección nacional,Descuento directo,Edición con jugadores famosos,No
+1152,Una selección nacional,2x1,Edición Brasil,Sí
+1153,Humor,Descuento directo,Edición Argentina,Sí
+1154,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+1155,Una selección nacional,Descuento directo,Edición Argentina,Sí
+1156,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1157,Una selección nacional,2x1,Edición Francia,Sí
+1158,Premios y sorteos,Sorteo de balones,Edición con jugadores famosos,Sí
+1159,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1160,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+1161,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+1162,Una selección nacional,Descuento directo,Edición Francia,Sí
+1163,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1164,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1165,Un jugador famoso,2x1,Edición Argentina,No
+1166,Premios y sorteos,2x1,Edición Argentina,No
+1167,Un jugador famoso,2x1,Edición Argentina,Sí
+1168,Historias de aficionados,Producto gratis,Edición España,No
+1169,Un jugador famoso,Producto gratis,Edición Francia,No
+1170,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1171,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1172,Historias de aficionados,Sorteo de viajes,Edición Brasil,No
+1173,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+1174,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+1175,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,No
+1176,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+1177,Una selección nacional,Sorteo de camisetas,Edición España,Sí
+1178,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1179,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+1180,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+1181,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1182,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1183,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+1184,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+1185,Una selección nacional,Sorteo de viajes,Edición Argentina,Sí
+1186,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1187,Humor,2x1,Edición con tarjetas coleccionables,Sí
+1481,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1189,Historias de aficionados,Sorteo de viajes,Edición con jugadores famosos,Sí
+1190,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1191,Una selección nacional,2x1,Edición Brasil,Sí
+1192,Una selección nacional,2x1,Edición Brasil,Sí
+1194,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1195,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1196,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+1197,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1198,Humor,Producto gratis,Edición Mundial FIFA 2026,Sí
+1199,Premios y sorteos,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+1200,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+1201,Humor,2x1,Edición Argentina,Sí
+1202,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+1203,Una selección nacional,Tarjetas coleccionables,Edición Brasil,No
+1204,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1205,Humor,Sorteo de viajes,Edición Inglaterra,Sí
+1206,Historias de aficionados,Sorteo de viajes,Edición Inglaterra,Sí
+1207,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1208,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1209,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1210,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1211,Premios y sorteos,Producto gratis,Edición Inglaterra,Sí
+1212,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,No
+1213,Una selección nacional,2x1,Edición España,Sí
+1214,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+1215,Humor,Producto gratis,Edición Mundial FIFA 2026,No
+1216,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+1217,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+1218,Historias de aficionados,Tarjetas coleccionables,Edición España,Sí
+1219,Humor,Descuento directo,Edición con jugadores famosos,Sí
+1220,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+1221,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+1222,Una selección nacional,Descuento directo,Edición Brasil,No
+1223,Humor,Tarjetas coleccionables,Edición Argentina,Sí
+1224,Una selección nacional,Sorteo de camisetas,Edición Argentina,No
+1225,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+1226,Una selección nacional,Sorteo de viajes,Edición España,Sí
+1227,Humor,Sorteo de camisetas,Edición Argentina,Sí
+1228,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+1229,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+1230,Una selección nacional,Sorteo de balones,Edición Francia,No
+1231,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,Sí
+1232,Una selección nacional,Descuento directo,Edición Argentina,Sí
+1233,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+1234,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+1235,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1236,Premios y sorteos,Producto gratis,Edición España,No
+1237,Humor,2x1,Edición Francia,No
+1238,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1239,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,No
+1240,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1241,Una selección nacional,Tarjetas coleccionables,Edición Francia,No
+1242,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+1243,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,Sí
+1244,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+1245,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+1246,Historias de aficionados,Sorteo de balones,Edición España,Sí
+1247,Una selección nacional,Sorteo de camisetas,Edición Inglaterra,No
+1248,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+1249,Un jugador famoso,2x1,Edición España,Sí
+1250,Humor,2x1,Edición Argentina,No
+1251,Una selección nacional,Sorteo de balones,Edición Argentina,Sí
+1252,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+1253,Historias de aficionados,Descuento directo,Edición Argentina,No
+1254,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+1255,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+1256,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1257,Historias de aficionados,Producto gratis,Edición Inglaterra,No
+1258,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1259,Humor,Tarjetas coleccionables,Edición Brasil,Sí
+1260,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1261,Historias de aficionados,2x1,Edición Brasil,Sí
+1262,Una selección nacional,2x1,Edición Argentina,Sí
+1263,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1264,Un jugador famoso,2x1,Edición Brasil,Sí
+1265,Humor,Tarjetas coleccionables,Edición Argentina,Sí
+1266,Un jugador famoso,Descuento directo,Edición Inglaterra,No
+1267,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+1268,Una selección nacional,Sorteo de viajes,Edición Argentina,No
+1269,Un jugador famoso,2x1,Edición Francia,No
+1270,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+1271,Un jugador famoso,Sorteo de viajes,Edición Inglaterra,Sí
+1864,Humor,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1273,Una selección nacional,2x1,Edición Francia,Sí
+1274,Humor,Producto gratis,Edición Mundial FIFA 2026,Sí
+1275,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,Sí
+1276,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+1277,Humor,2x1,Edición Brasil,Sí
+1278,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1279,Premios y sorteos,Sorteo de balones,Edición con jugadores famosos,Sí
+1280,Una selección nacional,Sorteo de camisetas,Edición Francia,Sí
+1281,Una selección nacional,Sorteo de camisetas,Edición Inglaterra,Sí
+1282,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,No
+1283,Una selección nacional,2x1,Edición Argentina,Sí
+1284,Una selección nacional,Descuento directo,Edición Brasil,Sí
+1285,Premios y sorteos,Tarjetas coleccionables,Edición Francia,No
+1286,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1287,Un jugador famoso,2x1,Edición España,No
+1288,Una selección nacional,Descuento directo,Edición Brasil,No
+1289,Humor,Descuento directo,Edición Brasil,Sí
+1290,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+1291,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+1292,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+1293,Humor,Descuento directo,Edición Francia,Sí
+1294,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1295,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1296,Una selección nacional,Producto gratis,Edición Francia,Sí
+1297,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+1298,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1299,Humor,Descuento directo,Edición Inglaterra,Sí
+1300,Premios y sorteos,2x1,Edición Inglaterra,No
+1301,Historias de aficionados,Sorteo de viajes,Edición Argentina,Sí
+1302,Una selección nacional,2x1,Edición Francia,No
+1303,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+1304,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+1305,Humor,Producto gratis,Edición Brasil,No
+1306,Historias de aficionados,Sorteo de viajes,Edición con jugadores famosos,Sí
+1307,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+1308,Premios y sorteos,Descuento directo,Edición Argentina,No
+1309,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1310,Historias de aficionados,2x1,Edición Francia,Sí
+1311,Historias de aficionados,Sorteo de camisetas,Edición Argentina,No
+1312,Premios y sorteos,Sorteo de camisetas,Edición Francia,Sí
+1313,Premios y sorteos,Descuento directo,Edición España,No
+1314,Historias de aficionados,Descuento directo,Edición Inglaterra,No
+1315,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+1316,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1317,Una selección nacional,Producto gratis,Edición Francia,Sí
+1318,Un jugador famoso,2x1,Edición Argentina,Sí
+2405,Una selección nacional,2x1,Edición Inglaterra,Sí
+1320,Una selección nacional,2x1,Edición con jugadores famosos,No
+1321,Una selección nacional,Descuento directo,Edición Francia,Sí
+1322,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1323,Una selección nacional,Producto gratis,Edición Francia,Sí
+1324,Un jugador famoso,Sorteo de balones,Edición con tarjetas coleccionables,No
+1325,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+1326,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+1327,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+1328,Humor,Descuento directo,Edición Brasil,Sí
+1329,Un jugador famoso,2x1,Edición Francia,Sí
+1330,Premios y sorteos,Descuento directo,Edición Francia,No
+1331,Un jugador famoso,Producto gratis,Edición con jugadores famosos,No
+1332,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1333,Una selección nacional,Descuento directo,Edición Inglaterra,Sí
+1334,Una selección nacional,Descuento directo,Edición Francia,No
+1335,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+1336,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1337,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+1339,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+1340,Premios y sorteos,Producto gratis,Edición con jugadores famosos,Sí
+1341,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+1342,Un jugador famoso,Sorteo de camisetas,Edición Inglaterra,No
+1343,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1344,Premios y sorteos,Sorteo de viajes,Edición Argentina,Sí
+1345,Una selección nacional,Sorteo de viajes,Edición Brasil,Sí
+1346,Premios y sorteos,Producto gratis,Edición con jugadores famosos,No
+1347,Un jugador famoso,Tarjetas coleccionables,Edición España,No
+1348,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1349,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+1350,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+1351,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+1352,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1353,Un jugador famoso,2x1,Edición Brasil,No
+1354,Humor,2x1,Edición con tarjetas coleccionables,Sí
+1355,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+1356,Un jugador famoso,2x1,Edición España,No
+1357,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1358,Premios y sorteos,2x1,Edición Mundial FIFA 2026,No
+1359,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+1360,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1361,Un jugador famoso,Descuento directo,Edición Francia,Sí
+1362,Un jugador famoso,2x1,Edición España,Sí
+1363,Premios y sorteos,Sorteo de balones,Edición Francia,Sí
+1364,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1365,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+1366,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,No
+1367,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+1368,Una selección nacional,2x1,Edición España,No
+1369,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1370,Una selección nacional,Descuento directo,Edición Argentina,Sí
+1371,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1372,Un jugador famoso,2x1,Edición Inglaterra,No
+1373,Una selección nacional,Producto gratis,Edición Argentina,Sí
+1374,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1375,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1376,Historias de aficionados,Sorteo de balones,Edición Brasil,Sí
+1377,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1378,Humor,2x1,Edición con tarjetas coleccionables,Sí
+1379,Humor,Descuento directo,Edición con jugadores famosos,No
+1380,Una selección nacional,2x1,Edición Francia,No
+1381,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,No
+1382,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+1383,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+1384,Un jugador famoso,2x1,Edición Inglaterra,Sí
+1385,Humor,Producto gratis,Edición Inglaterra,Sí
+1386,Una selección nacional,Descuento directo,Edición Inglaterra,Sí
+1387,Una selección nacional,Descuento directo,Edición Francia,Sí
+1388,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+1389,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+1390,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+1391,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1392,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+1393,Un jugador famoso,Sorteo de viajes,Edición Argentina,Sí
+1394,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+1395,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1396,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+1397,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+1398,Un jugador famoso,2x1,Edición Brasil,Sí
+1399,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1400,Una selección nacional,2x1,Edición con jugadores famosos,No
+1401,Premios y sorteos,Sorteo de balones,Edición Argentina,Sí
+1402,Premios y sorteos,Sorteo de camisetas,Edición Francia,No
+1403,Un jugador famoso,Sorteo de viajes,Edición Francia,Sí
+1404,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+1405,Premios y sorteos,Producto gratis,Edición Argentina,Sí
+1406,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+1407,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+1408,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+1409,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+1410,Un jugador famoso,2x1,Edición Argentina,Sí
+1411,Una selección nacional,Sorteo de camisetas,Edición Brasil,No
+1412,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,Sí
+1413,Premios y sorteos,Sorteo de viajes,Edición Brasil,No
+1414,Historias de aficionados,Sorteo de balones,Edición Inglaterra,No
+1415,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1417,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+1418,Humor,2x1,Edición Argentina,No
+1419,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1420,Una selección nacional,Sorteo de viajes,Edición Brasil,No
+1421,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+1422,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+2478,Humor,Descuento directo,Edición Argentina,Sí
+1424,Una selección nacional,Producto gratis,Edición Brasil,No
+1425,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+1426,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1427,Una selección nacional,Descuento directo,Edición Argentina,No
+1428,Premios y sorteos,2x1,Edición Brasil,No
+1429,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+1430,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1431,Una selección nacional,Descuento directo,Edición Brasil,No
+1432,Una selección nacional,2x1,Edición con jugadores famosos,No
+1433,Historias de aficionados,Descuento directo,Edición Inglaterra,No
+1434,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,No
+1435,Una selección nacional,2x1,Edición Argentina,No
+1436,Historias de aficionados,Sorteo de balones,Edición con jugadores famosos,Sí
+1437,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1438,Un jugador famoso,2x1,Edición Argentina,No
+1439,Un jugador famoso,2x1,Edición Argentina,Sí
+1440,Humor,Sorteo de viajes,Edición Argentina,Sí
+1441,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1442,Humor,2x1,Edición España,Sí
+1443,Premios y sorteos,Producto gratis,Edición Brasil,No
+1444,Un jugador famoso,Sorteo de balones,Edición Argentina,Sí
+1445,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+1446,Premios y sorteos,Tarjetas coleccionables,Edición España,No
+1447,Una selección nacional,2x1,Edición Brasil,No
+1448,Una selección nacional,Sorteo de camisetas,Edición Brasil,Sí
+1449,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1450,Una selección nacional,Tarjetas coleccionables,Edición España,Sí
+1451,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1452,Una selección nacional,Producto gratis,Edición Brasil,Sí
+1453,Un jugador famoso,Sorteo de camisetas,Edición Argentina,No
+1454,Una selección nacional,2x1,Edición Inglaterra,Sí
+1455,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+1456,Historias de aficionados,Descuento directo,Edición Brasil,No
+1457,Un jugador famoso,Producto gratis,Edición España,Sí
+1458,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+1460,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+1461,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,No
+1462,Un jugador famoso,Sorteo de camisetas,Edición Argentina,Sí
+1463,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+1464,Premios y sorteos,2x1,Edición Inglaterra,Sí
+1465,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1466,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+1467,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,Sí
+1468,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+1469,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1470,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+1471,Un jugador famoso,Producto gratis,Edición Brasil,Sí
+1473,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+1474,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1475,Humor,Sorteo de balones,Edición con jugadores famosos,Sí
+1476,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+1477,Una selección nacional,2x1,Edición con jugadores famosos,No
+1478,Un jugador famoso,2x1,Edición Argentina,Sí
+1479,Una selección nacional,Sorteo de viajes,Edición Inglaterra,Sí
+1480,Una selección nacional,Producto gratis,Edición Francia,Sí
+1482,Humor,Sorteo de camisetas,Edición Francia,No
+1483,Humor,Descuento directo,Edición España,No
+1484,Premios y sorteos,Sorteo de balones,Edición España,Sí
+1485,Premios y sorteos,2x1,Edición Argentina,Sí
+1486,Una selección nacional,Descuento directo,Edición Brasil,No
+1487,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1488,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1489,Un jugador famoso,Sorteo de camisetas,Edición España,Sí
+1490,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+1491,Premios y sorteos,Sorteo de viajes,Edición Brasil,Sí
+1492,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,No
+1493,Un jugador famoso,Tarjetas coleccionables,Edición Francia,No
+1494,Una selección nacional,Descuento directo,Edición Brasil,Sí
+1495,Historias de aficionados,Producto gratis,Edición Francia,No
+1496,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,Sí
+1497,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1498,Una selección nacional,2x1,Edición España,No
+1499,Premios y sorteos,Sorteo de viajes,Edición Brasil,Sí
+1500,Humor,Sorteo de camisetas,Edición Inglaterra,No
+1501,Un jugador famoso,Sorteo de balones,Edición Brasil,Sí
+1502,Humor,2x1,Edición con tarjetas coleccionables,No
+1503,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+1504,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+1505,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1506,Un jugador famoso,2x1,Edición Francia,Sí
+1507,Premios y sorteos,Sorteo de balones,Edición España,Sí
+1508,Humor,Sorteo de balones,Edición España,Sí
+1509,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+1510,Premios y sorteos,Sorteo de balones,Edición Argentina,Sí
+1511,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1512,Historias de aficionados,Descuento directo,Edición Brasil,Sí
+1513,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1514,Una selección nacional,Descuento directo,Edición España,No
+1515,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1516,Una selección nacional,2x1,Edición Brasil,Sí
+1517,Una selección nacional,Sorteo de camisetas,Edición Francia,Sí
+1518,Una selección nacional,Tarjetas coleccionables,Edición Argentina,No
+1519,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1520,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1521,Humor,2x1,Edición con tarjetas coleccionables,Sí
+1522,Un jugador famoso,2x1,Edición Brasil,Sí
+1523,Premios y sorteos,Descuento directo,Edición Argentina,No
+1524,Una selección nacional,Sorteo de viajes,Edición Argentina,Sí
+1525,Un jugador famoso,Sorteo de camisetas,Edición España,No
+1526,Historias de aficionados,Producto gratis,Edición Francia,Sí
+1527,Humor,2x1,Edición Brasil,Sí
+1528,Un jugador famoso,Sorteo de balones,Edición con tarjetas coleccionables,No
+1529,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+1530,Una selección nacional,Producto gratis,Edición Brasil,Sí
+1531,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+1532,Premios y sorteos,2x1,Edición Mundial FIFA 2026,No
+1533,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1534,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1535,Una selección nacional,Sorteo de balones,Edición Inglaterra,No
+1536,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+1537,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1538,Premios y sorteos,Producto gratis,Edición con jugadores famosos,Sí
+1539,Un jugador famoso,Producto gratis,Edición Argentina,No
+1540,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1541,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1542,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1543,Un jugador famoso,Producto gratis,Edición Francia,Sí
+1544,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+1545,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+1546,Premios y sorteos,Producto gratis,Edición con jugadores famosos,No
+1547,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+1548,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1549,Un jugador famoso,Producto gratis,Edición Brasil,No
+1550,Humor,Sorteo de viajes,Edición Brasil,Sí
+1551,Una selección nacional,Descuento directo,Edición Brasil,Sí
+1552,Un jugador famoso,Sorteo de camisetas,Edición España,No
+1553,Humor,Tarjetas coleccionables,Edición Argentina,No
+1554,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1555,Premios y sorteos,2x1,Edición Brasil,No
+1556,Una selección nacional,Producto gratis,Edición Argentina,Sí
+1557,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1558,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1559,Una selección nacional,Descuento directo,Edición con jugadores famosos,No
+1560,Una selección nacional,2x1,Edición Brasil,Sí
+1561,Un jugador famoso,Sorteo de camisetas,Edición Argentina,No
+1562,Historias de aficionados,Producto gratis,Edición Inglaterra,Sí
+1563,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1564,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+1565,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+1566,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1567,Una selección nacional,Descuento directo,Edición Francia,No
+1568,Historias de aficionados,2x1,Edición Brasil,Sí
+1569,Un jugador famoso,Producto gratis,Edición Francia,No
+1570,Historias de aficionados,Sorteo de camisetas,Edición Brasil,No
+1571,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+1572,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+1573,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1574,Humor,Descuento directo,Edición con jugadores famosos,Sí
+1575,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1576,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+1577,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+1578,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+1579,Premios y sorteos,Descuento directo,Edición Francia,No
+1580,Humor,Sorteo de viajes,Edición Francia,No
+1581,Premios y sorteos,Descuento directo,Edición España,No
+1582,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+1583,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+1584,Un jugador famoso,Descuento directo,Edición Argentina,No
+1585,Un jugador famoso,Sorteo de balones,Edición Brasil,Sí
+1586,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+1587,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+1588,Un jugador famoso,Descuento directo,Edición Brasil,No
+1589,Un jugador famoso,Descuento directo,Edición Francia,No
+1590,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+1591,Un jugador famoso,Sorteo de viajes,Edición Inglaterra,Sí
+1592,Un jugador famoso,Sorteo de balones,Edición Francia,Sí
+1593,Una selección nacional,Tarjetas coleccionables,Edición Brasil,No
+1594,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+1596,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+1597,Una selección nacional,Sorteo de balones,Edición Brasil,No
+1598,Premios y sorteos,Producto gratis,Edición con jugadores famosos,No
+1599,Historias de aficionados,2x1,Edición Argentina,Sí
+1600,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1601,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+1602,Premios y sorteos,2x1,Edición Inglaterra,Sí
+1603,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1604,Un jugador famoso,2x1,Edición Argentina,No
+1605,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+1606,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1607,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+1608,Un jugador famoso,2x1,Edición Argentina,Sí
+1609,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1610,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+1611,Historias de aficionados,Sorteo de camisetas,Edición Brasil,No
+1612,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1613,Una selección nacional,Producto gratis,Edición con jugadores famosos,Sí
+1614,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1615,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1616,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+1617,Una selección nacional,Descuento directo,Edición Brasil,Sí
+1618,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1619,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+1620,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+1621,Humor,Descuento directo,Edición Inglaterra,Sí
+1622,Un jugador famoso,Descuento directo,Edición Argentina,No
+1623,Una selección nacional,2x1,Edición Brasil,Sí
+1624,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1625,Premios y sorteos,Descuento directo,Edición España,Sí
+1626,Una selección nacional,Descuento directo,Edición Francia,Sí
+1627,Un jugador famoso,Sorteo de viajes,Edición Brasil,No
+1628,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1629,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+1630,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,No
+1631,Premios y sorteos,2x1,Edición Brasil,No
+1632,Humor,Descuento directo,Edición Argentina,Sí
+1633,Humor,2x1,Edición con tarjetas coleccionables,Sí
+1634,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1635,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1636,Historias de aficionados,2x1,Edición con tarjetas coleccionables,Sí
+1637,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+1638,Humor,Producto gratis,Edición con tarjetas coleccionables,Sí
+1639,Humor,2x1,Edición con jugadores famosos,No
+1640,Historias de aficionados,Descuento directo,Edición Francia,Sí
+1641,Humor,Descuento directo,Edición Argentina,Sí
+1642,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+1643,Humor,Producto gratis,Edición Argentina,Sí
+1644,Historias de aficionados,Sorteo de camisetas,Edición España,Sí
+1645,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1646,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+1647,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+1648,Humor,Tarjetas coleccionables,Edición con jugadores famosos,No
+1649,Un jugador famoso,Producto gratis,Edición Argentina,No
+1650,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+1651,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+1652,Humor,Producto gratis,Edición Argentina,Sí
+1653,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,No
+1654,Premios y sorteos,Descuento directo,Edición Inglaterra,No
+1655,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+1656,Humor,2x1,Edición Argentina,Sí
+1657,Premios y sorteos,Sorteo de camisetas,Edición Argentina,No
+1658,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1659,Una selección nacional,2x1,Edición Brasil,Sí
+1660,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+1661,Humor,Descuento directo,Edición con jugadores famosos,Sí
+1662,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+1663,Historias de aficionados,Sorteo de viajes,Edición Francia,Sí
+1664,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,No
+1665,Historias de aficionados,2x1,Edición Brasil,Sí
+1666,Humor,Descuento directo,Edición con tarjetas coleccionables,No
+1667,Un jugador famoso,Sorteo de camisetas,Edición Francia,Sí
+1668,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+1669,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1670,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+1671,Humor,Sorteo de balones,Edición Inglaterra,No
+1672,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+1673,Humor,Sorteo de viajes,Edición Francia,Sí
+1674,Humor,2x1,Edición Brasil,Sí
+1675,Una selección nacional,2x1,Edición con jugadores famosos,No
+1676,Humor,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1677,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1678,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1679,Una selección nacional,Producto gratis,Edición Francia,Sí
+1680,Un jugador famoso,2x1,Edición con jugadores famosos,No
+1681,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+1682,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,No
+1683,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1684,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+1685,Humor,Tarjetas coleccionables,Edición España,Sí
+1686,Humor,Sorteo de camisetas,Edición con jugadores famosos,No
+1687,Humor,Descuento directo,Edición Argentina,Sí
+1688,Humor,Producto gratis,Edición Brasil,No
+1689,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+1690,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1691,Humor,Sorteo de camisetas,Edición Brasil,Sí
+1692,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1693,Historias de aficionados,2x1,Edición Argentina,Sí
+1694,Premios y sorteos,2x1,Edición Francia,Sí
+1695,Humor,2x1,Edición con jugadores famosos,No
+1696,Historias de aficionados,2x1,Edición Brasil,Sí
+1697,Premios y sorteos,Descuento directo,Edición Francia,No
+1698,Un jugador famoso,Descuento directo,Edición con jugadores famosos,Sí
+1699,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1700,Premios y sorteos,2x1,Edición España,No
+1701,Un jugador famoso,Descuento directo,Edición Francia,Sí
+1702,Humor,2x1,Edición con jugadores famosos,Sí
+1703,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+1704,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+1705,Humor,Producto gratis,Edición Inglaterra,Sí
+1706,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+1707,Historias de aficionados,Descuento directo,Edición Argentina,Sí
+1708,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+1709,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1710,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1711,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+1712,Historias de aficionados,Producto gratis,Edición España,Sí
+1713,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1714,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1715,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1716,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1717,Un jugador famoso,Sorteo de balones,Edición Argentina,No
+1718,Premios y sorteos,Sorteo de camisetas,Edición Brasil,No
+1719,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+1720,Humor,2x1,Edición Brasil,No
+1721,Humor,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+1722,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+1723,Premios y sorteos,Descuento directo,Edición Francia,Sí
+1724,Humor,2x1,Edición Argentina,No
+1725,Premios y sorteos,Sorteo de viajes,Edición Inglaterra,No
+1726,Historias de aficionados,Sorteo de viajes,Edición Francia,Sí
+1727,Un jugador famoso,Sorteo de camisetas,Edición Francia,Sí
+1728,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1729,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1730,Humor,2x1,Edición Francia,Sí
+1731,Un jugador famoso,Sorteo de viajes,Edición Inglaterra,No
+1732,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1733,Historias de aficionados,Producto gratis,Edición Inglaterra,Sí
+1734,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1735,Premios y sorteos,Sorteo de viajes,Edición Inglaterra,Sí
+1736,Humor,Tarjetas coleccionables,Edición España,No
+1737,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+1738,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+1739,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1740,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1741,Premios y sorteos,Producto gratis,Edición Brasil,No
+1742,Una selección nacional,2x1,Edición Brasil,No
+1743,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1744,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+1745,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1746,Humor,2x1,Edición España,No
+1747,Historias de aficionados,2x1,Edición Argentina,No
+1748,Una selección nacional,Descuento directo,Edición Argentina,No
+1749,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1750,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+1751,Una selección nacional,Producto gratis,Edición con jugadores famosos,No
+1752,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1753,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1754,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+1755,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1756,Un jugador famoso,Tarjetas coleccionables,Edición Francia,Sí
+1757,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+1758,Humor,2x1,Edición Argentina,Sí
+1759,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1760,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1761,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1762,Historias de aficionados,Sorteo de camisetas,Edición Argentina,No
+1763,Una selección nacional,Sorteo de viajes,Edición con jugadores famosos,Sí
+1764,Humor,Descuento directo,Edición Mundial FIFA 2026,No
+1765,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1766,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+1767,Una selección nacional,2x1,Edición España,Sí
+1768,Historias de aficionados,2x1,Edición Mundial FIFA 2026,Sí
+1769,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1770,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+1771,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+1772,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1774,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1775,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1776,Un jugador famoso,2x1,Edición Brasil,No
+1777,Humor,Tarjetas coleccionables,Edición Brasil,No
+1778,Una selección nacional,Descuento directo,Edición España,Sí
+1779,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1780,Un jugador famoso,2x1,Edición Argentina,Sí
+1781,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+1782,Premios y sorteos,Sorteo de camisetas,Edición Inglaterra,No
+1783,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1784,Humor,Sorteo de balones,Edición Mundial FIFA 2026,No
+1785,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+1786,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1787,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+1788,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1789,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+1790,Premios y sorteos,Sorteo de camisetas,Edición Brasil,No
+1791,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1792,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+1793,Humor,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1794,Humor,Producto gratis,Edición Mundial FIFA 2026,No
+1795,Premios y sorteos,Sorteo de viajes,Edición Inglaterra,No
+1796,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1797,Humor,Descuento directo,Edición Inglaterra,Sí
+1798,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+1799,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1800,Humor,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1801,Humor,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1802,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+1803,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,Sí
+1804,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1805,Humor,Descuento directo,Edición Mundial FIFA 2026,Sí
+1806,Humor,Descuento directo,Edición Brasil,Sí
+1807,Humor,Tarjetas coleccionables,Edición Argentina,Sí
+1808,Humor,Descuento directo,Edición Francia,Sí
+1809,Un jugador famoso,Descuento directo,Edición Francia,Sí
+1810,Historias de aficionados,Tarjetas coleccionables,Edición Francia,No
+1811,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+1812,Historias de aficionados,Descuento directo,Edición Inglaterra,No
+1813,Humor,Producto gratis,Edición Mundial FIFA 2026,No
+1814,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+1815,Un jugador famoso,Sorteo de viajes,Edición Francia,Sí
+1816,Humor,2x1,Edición España,Sí
+1817,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,No
+1818,Una selección nacional,2x1,Edición Brasil,No
+1819,Premios y sorteos,Sorteo de balones,Edición con jugadores famosos,No
+1820,Una selección nacional,2x1,Edición con jugadores famosos,No
+1821,Historias de aficionados,Sorteo de viajes,Edición Inglaterra,Sí
+1822,Historias de aficionados,Producto gratis,Edición Argentina,Sí
+1823,Premios y sorteos,Sorteo de balones,Edición Mundial FIFA 2026,No
+1824,Historias de aficionados,Descuento directo,Edición con jugadores famosos,No
+1825,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+1826,Una selección nacional,2x1,Edición con jugadores famosos,No
+1827,Historias de aficionados,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+1828,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1829,Humor,Sorteo de balones,Edición Argentina,Sí
+1830,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1831,Una selección nacional,2x1,Edición con jugadores famosos,No
+1832,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+1833,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+1834,Una selección nacional,Descuento directo,Edición Argentina,No
+1835,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1836,Una selección nacional,Tarjetas coleccionables,Edición España,No
+1837,Un jugador famoso,Producto gratis,Edición Francia,No
+1838,Premios y sorteos,Descuento directo,Edición Francia,Sí
+1839,Una selección nacional,2x1,Edición con jugadores famosos,No
+1840,Un jugador famoso,Sorteo de camisetas,Edición Francia,No
+1841,Historias de aficionados,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+1842,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+1843,Premios y sorteos,Sorteo de viajes,Edición Argentina,No
+1844,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+1845,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+1846,Humor,Sorteo de balones,Edición con jugadores famosos,Sí
+1847,Historias de aficionados,2x1,Edición Argentina,Sí
+1848,Una selección nacional,Descuento directo,Edición Francia,Sí
+1849,Premios y sorteos,Descuento directo,Edición Francia,Sí
+1850,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1851,Un jugador famoso,Sorteo de balones,Edición Francia,No
+1852,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1853,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+1854,Un jugador famoso,2x1,Edición Brasil,Sí
+1855,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+1856,Humor,Descuento directo,Edición Francia,Sí
+1857,Humor,2x1,Edición Mundial FIFA 2026,No
+1858,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+1859,Una selección nacional,2x1,Edición Argentina,No
+1860,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+1861,Una selección nacional,2x1,Edición Brasil,Sí
+1862,Historias de aficionados,Tarjetas coleccionables,Edición España,No
+1863,Premios y sorteos,Descuento directo,Edición Argentina,No
+1865,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1866,Un jugador famoso,2x1,Edición Argentina,No
+1867,Un jugador famoso,Descuento directo,Edición Brasil,No
+1868,Humor,Sorteo de camisetas,Edición Argentina,Sí
+1869,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+1870,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+1871,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1872,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1873,Humor,Producto gratis,Edición Argentina,Sí
+1874,Un jugador famoso,Sorteo de camisetas,Edición España,No
+1875,Premios y sorteos,2x1,Edición Argentina,Sí
+1876,Humor,Sorteo de viajes,Edición Inglaterra,No
+1877,Una selección nacional,Producto gratis,Edición España,No
+1878,Historias de aficionados,Producto gratis,Edición con jugadores famosos,No
+1879,Una selección nacional,2x1,Edición Francia,Sí
+1880,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+1881,Humor,Producto gratis,Edición Francia,Sí
+1882,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+1883,Una selección nacional,Sorteo de camisetas,Edición Brasil,No
+1884,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+1885,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+1886,Un jugador famoso,2x1,Edición Inglaterra,Sí
+1887,Una selección nacional,Producto gratis,Edición Inglaterra,No
+1888,Premios y sorteos,2x1,Edición con jugadores famosos,No
+1889,Una selección nacional,Producto gratis,Edición Brasil,No
+1890,Premios y sorteos,Tarjetas coleccionables,Edición Francia,No
+1891,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+1892,Humor,Tarjetas coleccionables,Edición Brasil,No
+1893,Una selección nacional,2x1,Edición Inglaterra,Sí
+1894,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+1895,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+1896,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+1897,Un jugador famoso,2x1,Edición Inglaterra,Sí
+1898,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1899,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1900,Historias de aficionados,Sorteo de camisetas,Edición Brasil,Sí
+1901,Una selección nacional,Sorteo de viajes,Edición Argentina,Sí
+1902,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+1903,Historias de aficionados,Sorteo de camisetas,Edición Mundial FIFA 2026,No
+1904,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1905,Premios y sorteos,Descuento directo,Edición España,No
+1906,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+1907,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+1908,Un jugador famoso,Producto gratis,Edición Brasil,Sí
+1909,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1910,Premios y sorteos,Descuento directo,Edición Argentina,No
+1911,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+1912,Un jugador famoso,Sorteo de viajes,Edición Brasil,Sí
+1913,Un jugador famoso,2x1,Edición Inglaterra,No
+1914,Una selección nacional,Descuento directo,Edición Inglaterra,Sí
+1915,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1916,Una selección nacional,2x1,Edición España,Sí
+1917,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+1918,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,Sí
+1919,Premios y sorteos,Sorteo de camisetas,Edición España,No
+1920,Un jugador famoso,Descuento directo,Edición Francia,Sí
+1921,Premios y sorteos,Descuento directo,Edición Brasil,No
+1922,Un jugador famoso,Sorteo de viajes,Edición Francia,Sí
+1923,Un jugador famoso,2x1,Edición Brasil,Sí
+1924,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+1925,Historias de aficionados,2x1,Edición con jugadores famosos,Sí
+1926,Historias de aficionados,2x1,Edición España,No
+1927,Una selección nacional,2x1,Edición Brasil,Sí
+1928,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+1929,Una selección nacional,Descuento directo,Edición Argentina,No
+1930,Premios y sorteos,2x1,Edición Argentina,No
+1932,Historias de aficionados,Sorteo de balones,Edición España,No
+1933,Humor,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1934,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+1935,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1936,Humor,Descuento directo,Edición con jugadores famosos,Sí
+1937,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+1938,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,No
+1939,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+1940,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1941,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,No
+1942,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+1943,Una selección nacional,2x1,Edición España,No
+1944,Premios y sorteos,Producto gratis,Edición con jugadores famosos,No
+1945,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+1946,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+1947,Historias de aficionados,Producto gratis,Edición Inglaterra,No
+1948,Una selección nacional,Producto gratis,Edición Inglaterra,Sí
+1949,Historias de aficionados,2x1,Edición con jugadores famosos,No
+1950,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+1951,Una selección nacional,Producto gratis,Edición España,Sí
+1952,Una selección nacional,Tarjetas coleccionables,Edición Argentina,No
+1953,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+1954,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+1955,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+1956,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,Sí
+1957,Historias de aficionados,2x1,Edición Brasil,No
+1958,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+1959,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1962,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+1963,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+1964,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+1965,Premios y sorteos,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+1966,Humor,2x1,Edición con tarjetas coleccionables,No
+1967,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+1968,Historias de aficionados,2x1,Edición Argentina,Sí
+1969,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+1970,Premios y sorteos,Sorteo de viajes,Edición con tarjetas coleccionables,No
+1971,Humor,Sorteo de balones,Edición Francia,Sí
+1972,Historias de aficionados,2x1,Edición Mundial FIFA 2026,Sí
+1973,Una selección nacional,Sorteo de balones,Edición Brasil,Sí
+1974,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+1975,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+1976,Humor,Descuento directo,Edición Argentina,No
+1977,Humor,Sorteo de camisetas,Edición Francia,Sí
+1978,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,No
+1979,Un jugador famoso,2x1,Edición Francia,Sí
+1980,Premios y sorteos,Producto gratis,Edición con tarjetas coleccionables,No
+1981,Historias de aficionados,Descuento directo,Edición Inglaterra,No
+1982,Premios y sorteos,Sorteo de viajes,Edición Brasil,Sí
+1983,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1984,Una selección nacional,2x1,Edición Argentina,No
+1985,Un jugador famoso,Descuento directo,Edición Brasil,No
+1986,Un jugador famoso,Sorteo de viajes,Edición Francia,No
+1987,Un jugador famoso,Producto gratis,Edición Brasil,Sí
+1988,Historias de aficionados,Producto gratis,Edición España,No
+1989,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+1990,Un jugador famoso,2x1,Edición Argentina,Sí
+1991,Premios y sorteos,Descuento directo,Edición con jugadores famosos,No
+1992,Una selección nacional,Sorteo de balones,Edición Francia,Sí
+1993,Una selección nacional,2x1,Edición Brasil,No
+1994,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+1995,Un jugador famoso,Sorteo de viajes,Edición Brasil,Sí
+1996,Historias de aficionados,Descuento directo,Edición Inglaterra,Sí
+1997,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+1998,Un jugador famoso,Sorteo de balones,Edición Brasil,Sí
+1999,Un jugador famoso,2x1,Edición Inglaterra,Sí
+2000,Historias de aficionados,Sorteo de viajes,Edición Argentina,Sí
+2001,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+2002,Historias de aficionados,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+2003,Humor,2x1,Edición Argentina,No
+2004,Humor,Sorteo de viajes,Edición Argentina,No
+2005,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2006,Una selección nacional,2x1,Edición Brasil,No
+2007,Una selección nacional,Sorteo de viajes,Edición Brasil,Sí
+2008,Humor,Producto gratis,Edición Mundial FIFA 2026,Sí
+2009,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+2010,Un jugador famoso,Sorteo de viajes,Edición España,Sí
+2011,Una selección nacional,2x1,Edición España,Sí
+2012,Un jugador famoso,Descuento directo,Edición Argentina,Sí
+2013,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2014,Un jugador famoso,Sorteo de balones,Edición Francia,Sí
+2015,Un jugador famoso,Producto gratis,Edición Brasil,No
+2016,Un jugador famoso,2x1,Edición Brasil,Sí
+2017,Humor,Producto gratis,Edición con tarjetas coleccionables,Sí
+2018,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+2019,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+2020,Premios y sorteos,2x1,Edición con jugadores famosos,No
+2021,Premios y sorteos,Descuento directo,Edición Francia,No
+2022,Una selección nacional,2x1,Edición Francia,Sí
+2023,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,No
+2024,Una selección nacional,2x1,Edición Argentina,Sí
+2025,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,No
+2026,Humor,Descuento directo,Edición Mundial FIFA 2026,No
+2027,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2028,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+2029,Premios y sorteos,Producto gratis,Edición Francia,Sí
+2030,Historias de aficionados,2x1,Edición Francia,Sí
+2031,Un jugador famoso,2x1,Edición Inglaterra,Sí
+2032,Humor,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2033,Historias de aficionados,2x1,Edición con tarjetas coleccionables,No
+2034,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+2035,Premios y sorteos,Sorteo de viajes,Edición España,Sí
+2036,Un jugador famoso,Sorteo de viajes,Edición Argentina,No
+2037,Historias de aficionados,Sorteo de balones,Edición Argentina,Sí
+2038,Historias de aficionados,Sorteo de viajes,Edición España,Sí
+2039,Humor,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2040,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+2041,Una selección nacional,Sorteo de viajes,Edición Francia,Sí
+2042,Humor,Descuento directo,Edición Brasil,Sí
+2043,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,No
+2044,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+2045,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,Sí
+2046,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,No
+2047,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+2048,Historias de aficionados,Sorteo de camisetas,Edición Inglaterra,Sí
+2049,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2050,Historias de aficionados,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+2051,Premios y sorteos,Descuento directo,Edición España,Sí
+2052,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2053,Un jugador famoso,Sorteo de camisetas,Edición España,Sí
+2054,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+2055,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+2056,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2057,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2058,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2059,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+2060,Premios y sorteos,Descuento directo,Edición Brasil,No
+2061,Premios y sorteos,2x1,Edición Francia,No
+2062,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2063,Humor,2x1,Edición Brasil,No
+2064,Una selección nacional,Sorteo de viajes,Edición Argentina,No
+2065,Una selección nacional,Descuento directo,Edición con jugadores famosos,Sí
+2066,Un jugador famoso,2x1,Edición con jugadores famosos,No
+2067,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+2068,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2069,Un jugador famoso,Descuento directo,Edición Argentina,No
+2070,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2071,Una selección nacional,2x1,Edición Argentina,Sí
+2072,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2073,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+2074,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,No
+2075,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+2076,Historias de aficionados,Descuento directo,Edición Brasil,No
+2077,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+2078,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2079,Premios y sorteos,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2080,Un jugador famoso,2x1,Edición España,No
+2081,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,No
+2082,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+2083,Una selección nacional,Descuento directo,Edición Inglaterra,Sí
+2084,Premios y sorteos,2x1,Edición Inglaterra,Sí
+2085,Un jugador famoso,Sorteo de viajes,Edición con tarjetas coleccionables,No
+2086,Premios y sorteos,Sorteo de balones,Edición Argentina,No
+2087,Humor,Sorteo de camisetas,Edición Francia,Sí
+2088,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+2090,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2091,Un jugador famoso,Descuento directo,Edición Brasil,No
+2092,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+2093,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+2094,Un jugador famoso,Sorteo de camisetas,Edición España,No
+2095,Premios y sorteos,Producto gratis,Edición Argentina,Sí
+2096,Una selección nacional,2x1,Edición con jugadores famosos,No
+2097,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+2098,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,No
+2099,Un jugador famoso,Sorteo de balones,Edición España,Sí
+2100,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2101,Premios y sorteos,Producto gratis,Edición Inglaterra,No
+2102,Un jugador famoso,Producto gratis,Edición Francia,Sí
+2103,Un jugador famoso,Descuento directo,Edición Inglaterra,No
+2104,Premios y sorteos,2x1,Edición Brasil,Sí
+2105,Premios y sorteos,2x1,Edición Brasil,No
+2106,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+2107,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,No
+2108,Un jugador famoso,Sorteo de viajes,Edición Brasil,Sí
+2109,Humor,Descuento directo,Edición Argentina,Sí
+2110,Premios y sorteos,2x1,Edición Argentina,No
+2111,Humor,2x1,Edición Inglaterra,No
+2112,Una selección nacional,2x1,Edición con jugadores famosos,No
+2113,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+2114,Humor,Producto gratis,Edición Brasil,Sí
+2115,Un jugador famoso,Producto gratis,Edición Francia,No
+2116,Premios y sorteos,Descuento directo,Edición España,Sí
+2117,Historias de aficionados,Descuento directo,Edición España,Sí
+2118,Historias de aficionados,Tarjetas coleccionables,Edición Francia,Sí
+2119,Humor,Descuento directo,Edición con jugadores famosos,Sí
+2120,Una selección nacional,2x1,Edición Brasil,Sí
+2121,Una selección nacional,Tarjetas coleccionables,Edición Francia,No
+2122,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,No
+2123,Premios y sorteos,Sorteo de balones,Edición Francia,Sí
+2125,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+2126,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2127,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+2128,Una selección nacional,Descuento directo,Edición Inglaterra,No
+2129,Humor,Tarjetas coleccionables,Edición Argentina,No
+2130,Premios y sorteos,2x1,Edición España,Sí
+2131,Premios y sorteos,Descuento directo,Edición Inglaterra,No
+2132,Humor,Tarjetas coleccionables,Edición Inglaterra,No
+2133,Humor,Tarjetas coleccionables,Edición Brasil,No
+2134,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+2135,Historias de aficionados,2x1,Edición Brasil,Sí
+2136,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,No
+2137,Humor,Sorteo de camisetas,Edición España,Sí
+2138,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+2139,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2140,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,No
+2141,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2142,Una selección nacional,Producto gratis,Edición Argentina,Sí
+2143,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+2144,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+2145,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+2146,Historias de aficionados,Producto gratis,Edición Inglaterra,No
+2147,Un jugador famoso,Descuento directo,Edición Inglaterra,Sí
+2148,Humor,Tarjetas coleccionables,Edición Argentina,Sí
+2149,Un jugador famoso,Descuento directo,Edición con tarjetas coleccionables,No
+2150,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+2151,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2152,Una selección nacional,Sorteo de camisetas,Edición Brasil,Sí
+2153,Historias de aficionados,Sorteo de balones,Edición con jugadores famosos,No
+2154,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,No
+2155,Una selección nacional,Sorteo de viajes,Edición Brasil,Sí
+2156,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+2157,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2158,Una selección nacional,Producto gratis,Edición Argentina,Sí
+2159,Premios y sorteos,Descuento directo,Edición Inglaterra,No
+2160,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2161,Una selección nacional,Sorteo de viajes,Edición con tarjetas coleccionables,Sí
+2162,Humor,Producto gratis,Edición con jugadores famosos,Sí
+2163,Una selección nacional,Sorteo de balones,Edición Inglaterra,No
+2164,Una selección nacional,Descuento directo,Edición Mundial FIFA 2026,Sí
+2165,Historias de aficionados,Descuento directo,Edición con jugadores famosos,Sí
+2166,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2167,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+2168,Humor,2x1,Edición Mundial FIFA 2026,Sí
+2169,Humor,Producto gratis,Edición Brasil,No
+2170,Historias de aficionados,Descuento directo,Edición Francia,Sí
+2171,Historias de aficionados,Descuento directo,Edición Mundial FIFA 2026,Sí
+2172,Humor,2x1,Edición Inglaterra,Sí
+2173,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2174,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+2175,Un jugador famoso,Producto gratis,Edición con jugadores famosos,No
+2176,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+2177,Premios y sorteos,Descuento directo,Edición Mundial FIFA 2026,Sí
+2178,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+2179,Humor,Descuento directo,Edición Argentina,No
+2180,Humor,Producto gratis,Edición con jugadores famosos,No
+2181,Una selección nacional,Tarjetas coleccionables,Edición Argentina,Sí
+2182,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,Sí
+2183,Historias de aficionados,Descuento directo,Edición Argentina,Sí
+2184,Una selección nacional,Producto gratis,Edición Argentina,Sí
+2185,Premios y sorteos,Sorteo de camisetas,Edición Argentina,Sí
+2186,Un jugador famoso,Producto gratis,Edición Inglaterra,No
+2187,Un jugador famoso,Descuento directo,Edición Argentina,No
+2188,Una selección nacional,Producto gratis,Edición Mundial FIFA 2026,Sí
+2189,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2190,Una selección nacional,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2191,Humor,Descuento directo,Edición con tarjetas coleccionables,Sí
+2192,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+2193,Premios y sorteos,Sorteo de camisetas,Edición Francia,No
+2194,Premios y sorteos,Producto gratis,Edición Argentina,No
+2195,Humor,Sorteo de camisetas,Edición con tarjetas coleccionables,Sí
+2196,Una selección nacional,Sorteo de camisetas,Edición Francia,No
+2197,Una selección nacional,Producto gratis,Edición Francia,No
+2198,Premios y sorteos,Sorteo de camisetas,Edición Francia,Sí
+2200,Una selección nacional,Sorteo de balones,Edición Mundial FIFA 2026,No
+2201,Un jugador famoso,2x1,Edición Argentina,No
+2202,Humor,Sorteo de balones,Edición España,No
+2203,Una selección nacional,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2204,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+2205,Humor,2x1,Edición Francia,No
+2206,Un jugador famoso,Tarjetas coleccionables,Edición Inglaterra,Sí
+2207,Historias de aficionados,Descuento directo,Edición Argentina,No
+2208,Humor,Descuento directo,Edición con jugadores famosos,Sí
+2209,Un jugador famoso,Descuento directo,Edición España,Sí
+2210,Historias de aficionados,Descuento directo,Edición Francia,No
+2211,Una selección nacional,2x1,Edición Argentina,No
+2212,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+2213,Un jugador famoso,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+2214,Una selección nacional,Descuento directo,Edición Francia,Sí
+2215,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+2216,Premios y sorteos,Producto gratis,Edición Francia,Sí
+2217,Un jugador famoso,2x1,Edición Argentina,Sí
+2218,Una selección nacional,2x1,Edición Mundial FIFA 2026,No
+2219,Premios y sorteos,Descuento directo,Edición con jugadores famosos,Sí
+2220,Una selección nacional,2x1,Edición España,No
+2221,Premios y sorteos,Descuento directo,Edición Argentina,Sí
+2222,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+2223,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2224,Un jugador famoso,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2225,Una selección nacional,Sorteo de viajes,Edición España,No
+2226,Un jugador famoso,2x1,Edición Argentina,Sí
+2227,Un jugador famoso,2x1,Edición Argentina,No
+2228,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+2229,Una selección nacional,Producto gratis,Edición Brasil,Sí
+2230,Un jugador famoso,2x1,Edición Argentina,No
+2231,Un jugador famoso,2x1,Edición Brasil,Sí
+2232,Premios y sorteos,2x1,Edición Inglaterra,Sí
+2233,Premios y sorteos,Tarjetas coleccionables,Edición Argentina,Sí
+2234,Historias de aficionados,Descuento directo,Edición Argentina,Sí
+2235,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2236,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+2237,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2238,Un jugador famoso,2x1,Edición España,Sí
+2239,Humor,2x1,Edición con tarjetas coleccionables,Sí
+2240,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,No
+2241,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+2242,Una selección nacional,Sorteo de balones,Edición Brasil,Sí
+2243,Premios y sorteos,2x1,Edición con tarjetas coleccionables,Sí
+2244,Una selección nacional,2x1,Edición Inglaterra,No
+2245,Historias de aficionados,2x1,Edición España,Sí
+2246,Humor,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2247,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+2248,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+2249,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+2250,Una selección nacional,Sorteo de viajes,Edición Francia,No
+2251,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2252,Historias de aficionados,Sorteo de viajes,Edición Inglaterra,No
+2253,Un jugador famoso,Sorteo de camisetas,Edición España,No
+2254,Un jugador famoso,2x1,Edición Inglaterra,Sí
+2255,Historias de aficionados,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2256,Premios y sorteos,Descuento directo,Edición Inglaterra,No
+2257,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2258,Humor,Producto gratis,Edición Brasil,Sí
+2259,Una selección nacional,Sorteo de balones,Edición España,Sí
+2260,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,No
+2261,Premios y sorteos,2x1,Edición España,Sí
+2262,Humor,Sorteo de viajes,Edición Brasil,Sí
+2263,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+2264,Historias de aficionados,Tarjetas coleccionables,Edición Inglaterra,No
+2265,Una selección nacional,Descuento directo,Edición Argentina,Sí
+2266,Historias de aficionados,Descuento directo,Edición Francia,Sí
+2267,Un jugador famoso,Sorteo de balones,Edición Mundial FIFA 2026,Sí
+2268,Un jugador famoso,Tarjetas coleccionables,Edición España,Sí
+2269,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+2270,Un jugador famoso,Producto gratis,Edición Inglaterra,Sí
+2271,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+2272,Humor,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2273,Historias de aficionados,Sorteo de viajes,Edición Argentina,Sí
+2274,Un jugador famoso,2x1,Edición Argentina,Sí
+2275,Premios y sorteos,Sorteo de viajes,Edición con jugadores famosos,Sí
+2276,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,Sí
+2277,Premios y sorteos,2x1,Edición Mundial FIFA 2026,Sí
+2278,Una selección nacional,2x1,Edición Argentina,No
+2279,Una selección nacional,Tarjetas coleccionables,Edición Brasil,No
+2280,Una selección nacional,Descuento directo,Edición Brasil,No
+2281,Premios y sorteos,Sorteo de balones,Edición Argentina,Sí
+2282,Un jugador famoso,2x1,Edición Brasil,Sí
+2283,Un jugador famoso,Sorteo de camisetas,Edición Argentina,No
+2284,Un jugador famoso,2x1,Edición España,Sí
+2285,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,No
+2286,Humor,2x1,Edición con tarjetas coleccionables,Sí
+2287,Premios y sorteos,2x1,Edición Argentina,Sí
+2288,Premios y sorteos,Descuento directo,Edición España,Sí
+2289,Historias de aficionados,Sorteo de viajes,Edición Francia,Sí
+2290,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+2291,Un jugador famoso,Sorteo de viajes,Edición Mundial FIFA 2026,No
+2292,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2293,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+2294,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2295,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+2296,Historias de aficionados,Sorteo de viajes,Edición España,Sí
+2297,Historias de aficionados,2x1,Edición Francia,Sí
+2298,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+2299,Una selección nacional,Sorteo de camisetas,Edición Brasil,No
+2300,Premios y sorteos,Producto gratis,Edición con jugadores famosos,Sí
+2301,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+2302,Historias de aficionados,2x1,Edición Inglaterra,Sí
+2303,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+2304,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+2305,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+2306,Premios y sorteos,2x1,Edición con jugadores famosos,Sí
+2307,Premios y sorteos,2x1,Edición Inglaterra,No
+2308,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+2309,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,No
+2310,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,No
+2311,Humor,2x1,Edición Francia,Sí
+2312,Una selección nacional,Tarjetas coleccionables,Edición Francia,Sí
+2313,Un jugador famoso,Sorteo de viajes,Edición Argentina,Sí
+2314,Un jugador famoso,2x1,Edición Argentina,Sí
+2315,Un jugador famoso,2x1,Edición Mundial FIFA 2026,Sí
+2316,Una selección nacional,Sorteo de camisetas,Edición España,Sí
+2317,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+2318,Historias de aficionados,Sorteo de viajes,Edición Argentina,No
+2319,Premios y sorteos,2x1,Edición con tarjetas coleccionables,No
+2320,Premios y sorteos,Tarjetas coleccionables,Edición con tarjetas coleccionables,No
+2321,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2322,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+2323,Una selección nacional,Sorteo de balones,Edición con jugadores famosos,Sí
+2324,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+2325,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+2326,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2327,Humor,Sorteo de viajes,Edición con tarjetas coleccionables,No
+2328,Una selección nacional,Sorteo de balones,Edición Brasil,No
+2329,Una selección nacional,Descuento directo,Edición Argentina,Sí
+2331,Una selección nacional,2x1,Edición España,Sí
+2332,Premios y sorteos,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2333,Un jugador famoso,Sorteo de balones,Edición Brasil,No
+2334,Un jugador famoso,2x1,Edición Mundial FIFA 2026,No
+2335,Historias de aficionados,Sorteo de balones,Edición Inglaterra,No
+2336,Humor,Descuento directo,Edición Francia,No
+2337,Historias de aficionados,2x1,Edición España,Sí
+2338,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+2339,Humor,2x1,Edición España,No
+2340,Premios y sorteos,Descuento directo,Edición Francia,Sí
+2341,Historias de aficionados,Tarjetas coleccionables,Edición Brasil,Sí
+2342,Humor,Descuento directo,Edición con tarjetas coleccionables,No
+2343,Un jugador famoso,Producto gratis,Edición Inglaterra,No
+2344,Una selección nacional,2x1,Edición España,Sí
+2345,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,No
+2346,Un jugador famoso,Producto gratis,Edición Argentina,Sí
+2347,Historias de aficionados,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2348,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+2349,Humor,Producto gratis,Edición España,No
+2350,Premios y sorteos,2x1,Edición Argentina,Sí
+2351,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+2352,Un jugador famoso,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2353,Premios y sorteos,Sorteo de balones,Edición con jugadores famosos,Sí
+2354,Humor,Tarjetas coleccionables,Edición Brasil,Sí
+2355,Humor,Producto gratis,Edición Francia,No
+2356,Una selección nacional,Sorteo de viajes,Edición Argentina,Sí
+2357,Historias de aficionados,2x1,Edición Mundial FIFA 2026,Sí
+2358,Un jugador famoso,Descuento directo,Edición Argentina,No
+2359,Un jugador famoso,Sorteo de camisetas,Edición Inglaterra,Sí
+2360,Una selección nacional,Tarjetas coleccionables,Edición Mundial FIFA 2026,Sí
+2361,Una selección nacional,Sorteo de camisetas,Edición Argentina,Sí
+2362,Un jugador famoso,Tarjetas coleccionables,Edición Argentina,Sí
+2363,Una selección nacional,2x1,Edición Francia,No
+2364,Un jugador famoso,Sorteo de camisetas,Edición Brasil,No
+2365,Historias de aficionados,Producto gratis,Edición Francia,Sí
+2366,Premios y sorteos,2x1,Edición Francia,Sí
+2367,Una selección nacional,2x1,Edición España,Sí
+2368,Un jugador famoso,Descuento directo,Edición Brasil,No
+2369,Premios y sorteos,Tarjetas coleccionables,Edición Inglaterra,Sí
+2370,Historias de aficionados,2x1,Edición Brasil,No
+2371,Premios y sorteos,Descuento directo,Edición Brasil,Sí
+2372,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2373,Humor,2x1,Edición Argentina,Sí
+2374,Un jugador famoso,Sorteo de camisetas,Edición Francia,Sí
+2375,Humor,Descuento directo,Edición Francia,Sí
+2376,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+2377,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2378,Una selección nacional,2x1,Edición Brasil,Sí
+2379,Premios y sorteos,2x1,Edición Francia,No
+2380,Una selección nacional,2x1,Edición con jugadores famosos,Sí
+2381,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,No
+2382,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,No
+2383,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2384,Premios y sorteos,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2385,Una selección nacional,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2386,Un jugador famoso,2x1,Edición Argentina,No
+2387,Un jugador famoso,2x1,Edición Argentina,Sí
+2388,Una selección nacional,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+2389,Una selección nacional,Sorteo de camisetas,Edición Francia,No
+2390,Historias de aficionados,2x1,Edición Argentina,No
+2391,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+2392,Una selección nacional,Producto gratis,Edición Argentina,No
+2393,Humor,Descuento directo,Edición Brasil,Sí
+2394,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,No
+2395,Premios y sorteos,Producto gratis,Edición Brasil,No
+2396,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,Sí
+2397,Un jugador famoso,2x1,Edición Argentina,No
+2398,Historias de aficionados,Tarjetas coleccionables,Edición Argentina,No
+2399,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2400,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+2401,Una selección nacional,Sorteo de balones,Edición Brasil,Sí
+2402,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,No
+2403,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2404,Premios y sorteos,Descuento directo,Edición España,No
+2406,Humor,2x1,Edición con tarjetas coleccionables,Sí
+2407,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+2408,Premios y sorteos,2x1,Edición Francia,Sí
+2409,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+2410,Humor,Sorteo de camisetas,Edición Argentina,Sí
+2411,Premios y sorteos,Descuento directo,Edición con tarjetas coleccionables,No
+2412,Historias de aficionados,Sorteo de viajes,Edición con jugadores famosos,Sí
+2413,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2414,Un jugador famoso,2x1,Edición con jugadores famosos,Sí
+2415,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+2416,Una selección nacional,Tarjetas coleccionables,Edición Inglaterra,Sí
+2417,Un jugador famoso,Sorteo de camisetas,Edición Brasil,Sí
+2418,Historias de aficionados,Sorteo de camisetas,Edición con jugadores famosos,Sí
+2419,Una selección nacional,Descuento directo,Edición Brasil,Sí
+2420,Un jugador famoso,Producto gratis,Edición con jugadores famosos,Sí
+2421,Una selección nacional,Sorteo de viajes,Edición Argentina,Sí
+2422,Humor,Tarjetas coleccionables,Edición Brasil,Sí
+2423,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+2424,Un jugador famoso,Descuento directo,Edición Brasil,Sí
+2425,Una selección nacional,Tarjetas coleccionables,Edición Brasil,Sí
+2426,Un jugador famoso,Producto gratis,Edición Mundial FIFA 2026,No
+2427,Historias de aficionados,Producto gratis,Edición Mundial FIFA 2026,No
+2428,Una selección nacional,Sorteo de camisetas,Edición Francia,No
+2429,Un jugador famoso,Producto gratis,Edición con tarjetas coleccionables,Sí
+2430,Una selección nacional,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2431,Premios y sorteos,Producto gratis,Edición Inglaterra,No
+2432,Un jugador famoso,Descuento directo,Edición Mundial FIFA 2026,Sí
+2433,Humor,Sorteo de viajes,Edición con jugadores famosos,Sí
+2434,Una selección nacional,Tarjetas coleccionables,Edición Francia,No
+2435,Historias de aficionados,Sorteo de camisetas,Edición Argentina,Sí
+2436,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+2437,Un jugador famoso,2x1,Edición Francia,Sí
+2438,Un jugador famoso,Tarjetas coleccionables,Edición con jugadores famosos,No
+2440,Una selección nacional,Producto gratis,Edición Francia,Sí
+2441,Una selección nacional,Producto gratis,Edición Brasil,Sí
+2442,Un jugador famoso,2x1,Edición con tarjetas coleccionables,Sí
+2443,Un jugador famoso,Sorteo de balones,Edición con jugadores famosos,Sí
+2444,Historias de aficionados,2x1,Edición Mundial FIFA 2026,No
+2445,Un jugador famoso,Sorteo de viajes,Edición con jugadores famosos,Sí
+2446,Una selección nacional,2x1,Edición Argentina,No
+2447,Humor,Producto gratis,Edición con tarjetas coleccionables,No
+2448,Una selección nacional,Producto gratis,Edición Francia,Sí
+2449,Premios y sorteos,Sorteo de camisetas,Edición Mundial FIFA 2026,Sí
+2450,Un jugador famoso,Tarjetas coleccionables,Edición con tarjetas coleccionables,Sí
+2451,Premios y sorteos,Tarjetas coleccionables,Edición Brasil,No
+2452,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+2453,Premios y sorteos,2x1,Edición Francia,No
+2454,Humor,Producto gratis,Edición con jugadores famosos,Sí
+2455,Una selección nacional,Descuento directo,Edición España,No
+2456,Una selección nacional,2x1,Edición Argentina,No
+2457,Premios y sorteos,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2458,Un jugador famoso,2x1,Edición Brasil,No
+2459,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,No
+2460,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2461,Un jugador famoso,Descuento directo,Edición con jugadores famosos,No
+2462,Humor,Sorteo de viajes,Edición con jugadores famosos,Sí
+2463,Historias de aficionados,Descuento directo,Edición con tarjetas coleccionables,No
+2464,Una selección nacional,Descuento directo,Edición Francia,No
+2465,Una selección nacional,2x1,Edición Mundial FIFA 2026,Sí
+2466,Premios y sorteos,Descuento directo,Edición Argentina,No
+2467,Una selección nacional,Sorteo de viajes,Edición Mundial FIFA 2026,Sí
+2468,Una selección nacional,Sorteo de balones,Edición Argentina,No
+2469,Historias de aficionados,2x1,Edición Brasil,Sí
+2470,Historias de aficionados,Tarjetas coleccionables,Edición con jugadores famosos,No
+2471,Premios y sorteos,Sorteo de viajes,Edición Francia,No
+2472,Premios y sorteos,Sorteo de viajes,Edición Argentina,No
+2473,Una selección nacional,2x1,Edición Inglaterra,No
+2474,Premios y sorteos,2x1,Edición Brasil,No
+2475,Una selección nacional,2x1,Edición con tarjetas coleccionables,No
+2476,Un jugador famoso,2x1,Edición con tarjetas coleccionables,No
+2477,Un jugador famoso,Descuento directo,Edición España,Sí
+2479,Un jugador famoso,Producto gratis,Edición Inglaterra,No
+2480,Humor,Sorteo de viajes,Edición Brasil,Sí
+2481,Humor,2x1,Edición Brasil,No
+2482,Una selección nacional,Producto gratis,Edición con tarjetas coleccionables,Sí
+2483,Humor,Sorteo de viajes,Edición España,Sí
+2484,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,No
+2485,Humor,Sorteo de viajes,Edición Brasil,No
+2486,Premios y sorteos,Producto gratis,Edición Mundial FIFA 2026,Sí
+2487,Premios y sorteos,Tarjetas coleccionables,Edición con jugadores famosos,Sí
+2488,Una selección nacional,Sorteo de balones,Edición con tarjetas coleccionables,Sí
+2489,Un jugador famoso,Tarjetas coleccionables,Edición Inglaterra,No
+2490,Un jugador famoso,2x1,Edición Argentina,Sí
+2491,Premios y sorteos,Sorteo de camisetas,Edición Brasil,Sí
+2492,Una selección nacional,Descuento directo,Edición con tarjetas coleccionables,Sí
+2493,Un jugador famoso,Tarjetas coleccionables,Edición Brasil,Sí
+2494,Historias de aficionados,Producto gratis,Edición con tarjetas coleccionables,Sí
+2495,Una selección nacional,2x1,Edición con tarjetas coleccionables,Sí
+2496,Premios y sorteos,Producto gratis,Edición Brasil,Sí
+2497,Premios y sorteos,2x1,Edición con jugadores famosos,No
+2498,Humor,Descuento directo,Edición Francia,Sí
+2499,Un jugador famoso,Tarjetas coleccionables,Edición Mundial FIFA 2026,No
+2500,Un jugador famoso,2x1,Edición Inglaterra,Sí
