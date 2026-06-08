@@ -340,7 +340,44 @@ ranking_sabores['Porcentaje (%)'] = round((ranking_sabores['Preferencias'] / len
 print("\nTop 5 - Sabores Más Populares:\n")
 print(ranking_sabores.head(5))
 
+# -----------------------------------------------------------------------------
+# REPORTE 4: ANÁLISIS DE PRECIOS
+# Objetivo: Determinar el rango de precio ideal para el lanzamiento.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 4: ANÁLISIS DE PRECIOS ---")
 
+reporte_precios = df_limpio['PrecioAdecuado'].value_counts().reset_index()
+reporte_precios.columns = ['Rango de Precio', 'Cantidad']
+
+reporte_precios['Porcentaje (%)'] = round(
+    (reporte_precios['Cantidad'] / len(df_limpio)) * 100,
+    2
+)
+
+print("Preferencia de precios:\n")
+print(reporte_precios)
+
+# -----------------------------------------------------------------------------
+# REPORTE 5: EQUIPOS CON MAYOR INFLUENCIA
+# Objetivo: Identificar qué selecciones generan mayor impacto comercial.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 5: EQUIPOS CON MAYOR INFLUENCIA ---")
+
+ranking_selecciones = (
+    df_limpio['SeleccionInfluyeCompra']
+    .value_counts()
+    .reset_index()
+)
+
+ranking_selecciones.columns = ['Selección', 'Menciones']
+
+ranking_selecciones['Porcentaje (%)'] = round(
+    (ranking_selecciones['Menciones'] / len(df_limpio)) * 100,
+    2
+)
+
+print("Top 5 - Selecciones con mayor influencia:\n")
+print(ranking_selecciones.head(5))
 
 
 # -----------------------------------------------------------------------------
