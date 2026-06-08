@@ -421,6 +421,74 @@ ranking_promociones['Porcentaje (%)'] = round((ranking_promociones['Cantidad'] /
 
 print(ranking_promociones)
 
+# -----------------------------------------------------------------------------
+# REPORTE 9: INTENCIÓN DE COMPRA POR CAMPAÑA
+# Objetivo: Identificar qué edición/campaña tiene mayor probabilidad de generar compra.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 9: INTENCIÓN DE COMPRA POR CAMPAÑA ---")
+
+# Distribución general de la campaña más probable de compra
+ranking_campania = df_limpio['CampaniaMasProbableCompra'].value_counts().reset_index()
+ranking_campania.columns = ['Campaña', 'Cantidad']
+ranking_campania['Porcentaje (%)'] = round((ranking_campania['Cantidad'] / len(df_limpio)) * 100, 2)
+
+print("Campañas con mayor intención de compra:\n")
+print(ranking_campania)
+
+# Cruce: campaña preferida vs alta intención de pagar más (AltaIntencionCompra)
+campania_vs_intencion = df_limpio.groupby('CampaniaMasProbableCompra')['AltaIntencionCompra'].mean().reset_index()
+campania_vs_intencion['AltaIntencionCompra'] = round(campania_vs_intencion['AltaIntencionCompra'] * 100, 2)
+campania_vs_intencion.columns = ['Campaña', 'Clientes Dispuestos a Pagar Más (%)']
+
+print("\nCampañas con mayor conversión a pago premium:\n")
+print(campania_vs_intencion.sort_values(by='Clientes Dispuestos a Pagar Más (%)', ascending=False))
+
+
+# -----------------------------------------------------------------------------
+# REPORTE 10: RECOMENDACIÓN ESTRATÉGICA FINAL
+# Objetivo: Consolidar los hallazgos clave en una propuesta de campaña basada en datos.
+# -----------------------------------------------------------------------------
+print("\n--- REPORTE 10: RECOMENDACIÓN ESTRATÉGICA FINAL ---")
+
+# Snack más popular
+snack_top = dim_snack['Snack'].value_counts().idxmax()
+
+# Sabor más preferido
+sabor_top = df_limpio['SaborPreferido'].value_counts().idxmax()
+
+# Segmento de edad dominante
+segmento_top = df_limpio['SegmentoEdad'].value_counts().idxmax()
+
+# Selección con mayor influencia en compra (normalizar capitalización primero)
+seleccion_top = df_limpio['SeleccionInfluyeCompra'].str.title().value_counts().idxmax()
+
+# Jugador más influyente
+jugador_top = df_limpio['JugadoresInfluyentes'].str.split(';').explode().str.strip().value_counts().idxmax()
+
+# Tipo de publicidad más efectiva
+publicidad_top = df_limpio['TipoPublicidadAtractiva'].value_counts().idxmax()
+
+# Promoción preferida
+promocion_top = df_limpio['PromocionPreferida'].value_counts().idxmax()
+
+# Precio ideal (moda)
+precio_top = df_limpio['PrecioAdecuado'].value_counts().idxmax()
+
+# Campaña con mayor intención de compra
+campania_top = df_limpio['CampaniaMasProbableCompra'].value_counts().idxmax()
+
+print("PROPUESTA DE CAMPAÑA — SNACKS × MUNDIAL FIFA 2026")
+print("=" * 60)
+print(f"  Snack a promocionar    : {snack_top}")
+print(f"  Sabor principal        : {sabor_top}")
+print(f"  Segmento objetivo      : {segmento_top}")
+print(f"  Selección influyente   : {seleccion_top}")
+print(f"  Jugador embajador      : {jugador_top}")
+print(f"  Canal publicitario     : {publicidad_top}")
+print(f"  Promoción recomendada  : {promocion_top}")
+print(f"  Precio ideal           : {precio_top}")
+print(f"  Campaña de empaque     : {campania_top}")
+
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
